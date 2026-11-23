@@ -12,752 +12,867 @@
         {
           "id": "abstract_reasoning-1",
           "number": 1,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the circles marked a, b, c, or d fits logically into the blank top circle in the diagram below?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-01-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-01-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-01-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-01-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-01.png"
+          "image": "/dataset_pdf/abstract/questions/q-01.png"
         },
         {
           "id": "abstract_reasoning-2",
           "number": 2,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the circles marked a, b, c, or d fits logically into the blank top circle in the diagram below?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-02-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-02-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-02-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-02-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-02.png"
+          "image": "/dataset_pdf/abstract/questions/q-02.png"
         },
         {
           "id": "abstract_reasoning-3",
           "number": 3,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the circles marked a, b, c, or d fits logically into the blank top circle in the diagram below?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-03-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-03-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-03-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-03-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-03.png"
+          "image": "/dataset_pdf/abstract/questions/q-03.png"
         },
         {
           "id": "abstract_reasoning-4",
           "number": 4,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the circles marked a, b, c, or d fits logically into the blank top circle in the diagram below?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-04-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-04-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-04-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-04-d.png"
             }
           ],
           "answer": "c",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-04.png"
+          "image": "/dataset_pdf/abstract/questions/q-04.png"
         },
         {
           "id": "abstract_reasoning-5",
           "number": 5,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the circles marked a, b, c, or d fits logically into the blank top circle in the diagram below?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-05-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-05-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-05-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-05-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-05.png"
+          "image": "/dataset_pdf/abstract/questions/q-05.png"
         },
         {
           "id": "abstract_reasoning-6",
           "number": 6,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Study the pyramid on the left. Which choice should replace the hexagon with the question mark at the top?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-06-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-06-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-06-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-06-d.png"
             }
           ],
-          "answer": "a",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-06.png"
+          "answer": "c",
+          "image": "/dataset_pdf/abstract/questions/q-06.png"
         },
         {
           "id": "abstract_reasoning-7",
           "number": 7,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the squares marked a, b, c, or d fits into the square with the question mark?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-07-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-07-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-07-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-07-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-07.png"
+          "image": "/dataset_pdf/abstract/questions/q-07.png"
         },
         {
           "id": "abstract_reasoning-8",
           "number": 8,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the squares marked a, b, c, or d fits into the square with the question mark?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-08-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-08-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-08-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-08-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-08.png"
+          "image": "/dataset_pdf/abstract/questions/q-08.png"
         },
         {
           "id": "abstract_reasoning-9",
           "number": 9,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the squares marked a, b, c, or d fits into the square with the question mark?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-09-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-09-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-09-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-09-d.png"
             }
           ],
           "answer": "c",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-09.png"
+          "image": "/dataset_pdf/abstract/questions/q-09.png"
         },
         {
           "id": "abstract_reasoning-10",
           "number": 10,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the squares marked a, b, c, or d fits into the square with the question mark?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-10-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-10-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-10-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-10-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-10.png"
+          "image": "/dataset_pdf/abstract/questions/q-10.png"
         },
         {
           "id": "abstract_reasoning-11",
           "number": 11,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the squares marked a, b, c, or d fits into the square with the question mark?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-11-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-11-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-11-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-11-d.png"
             }
           ],
           "answer": "c",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-11.png"
+          "image": "/dataset_pdf/abstract/questions/q-11.png"
         },
         {
           "id": "abstract_reasoning-12",
           "number": 12,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the squares marked a, b, c, or d fits into the square with the question mark?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-12-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-12-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-12-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-12-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-12.png"
+          "image": "/dataset_pdf/abstract/questions/q-12.png"
         },
         {
           "id": "abstract_reasoning-13",
           "number": 13,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Look across each row and down each column, then select the missing right-hand bottom figure.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-13-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-13-b.png"
             },
             {
               "key": "c",
-              "text": null
-            },
-            {
-              "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-13-c.png"
             }
           ],
-          "answer": "a",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-13.png"
+          "answer": "c",
+          "image": "/dataset_pdf/abstract/questions/q-13.png"
         },
         {
           "id": "abstract_reasoning-14",
           "number": 14,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Look across each row and down each column, then select the missing right-hand bottom figure.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-14-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-14-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-14-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-14-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-14.png"
+          "image": "/dataset_pdf/abstract/questions/q-14.png"
         },
         {
           "id": "abstract_reasoning-15",
           "number": 15,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the choices completes the pattern in the grid?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-15-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-15-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-15-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-15-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-15.png"
+          "image": "/dataset_pdf/abstract/questions/q-15.png"
         },
         {
           "id": "abstract_reasoning-16",
           "number": 16,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the choices completes the pattern in the grid?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-16-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-16-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-16-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-16-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-16.png"
+          "image": "/dataset_pdf/abstract/questions/q-16.png"
         },
         {
           "id": "abstract_reasoning-17",
           "number": 17,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the choices completes the pattern in the grid?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-17-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-17-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-17-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-17-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-17.png"
+          "image": "/dataset_pdf/abstract/questions/q-17.png"
         },
         {
           "id": "abstract_reasoning-18",
           "number": 18,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Select the missing piece so that the whole square contains an even, symmetrical pattern.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-18-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-18-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-18-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-18-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-18.png"
+          "image": "/dataset_pdf/abstract/questions/q-18.png"
         },
         {
           "id": "abstract_reasoning-19",
           "number": 19,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Select the figure at the right which contains the figure on the left.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-19-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-19-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-19-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-19-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-19.png"
+          "image": "/dataset_pdf/abstract/questions/q-19.png"
         },
         {
           "id": "abstract_reasoning-20",
           "number": 20,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Select the figure at the right which contains the figure on the left.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-20-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-20-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-20-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-20-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-20.png"
+          "image": "/dataset_pdf/abstract/questions/q-20.png"
         },
         {
           "id": "abstract_reasoning-21",
           "number": 21,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Select the figure at the right which contains the figure on the left.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-21-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-21-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-21-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-21-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-21.png"
+          "image": "/dataset_pdf/abstract/questions/q-21.png"
         },
         {
           "id": "abstract_reasoning-22",
           "number": 22,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Select the figure at the right which contains the figure on the left.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-22-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-22-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-22-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-22-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-22.png"
+          "image": "/dataset_pdf/abstract/questions/q-22.png"
         },
         {
           "id": "abstract_reasoning-23",
           "number": 23,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Select the figure at the right which contains the figure on the left.",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-23-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-23-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-23-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-23-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-23.png"
+          "image": "/dataset_pdf/abstract/questions/q-23.png"
         },
         {
           "id": "abstract_reasoning-24",
           "number": 24,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the figures is the missing continuation of the pattern?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-24-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-24-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-24-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-24-d.png"
             }
           ],
           "answer": "a",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-24.png"
+          "image": "/dataset_pdf/abstract/questions/q-24.png"
         },
         {
           "id": "abstract_reasoning-25",
           "number": 25,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the figures is the missing continuation of the pattern?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-25-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-25-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-25-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-25-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-25.png"
+          "image": "/dataset_pdf/abstract/questions/q-25.png"
         },
         {
           "id": "abstract_reasoning-26",
           "number": 26,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the figures is the missing continuation of the pattern?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-26-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-26-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-26-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-26-d.png"
             }
           ],
           "answer": "c",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-26.png"
+          "image": "/dataset_pdf/abstract/questions/q-26.png"
         },
         {
           "id": "abstract_reasoning-27",
           "number": 27,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the figures is the missing continuation of the pattern?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-27-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-27-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-27-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-27-d.png"
             }
           ],
           "answer": "c",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-27.png"
+          "image": "/dataset_pdf/abstract/questions/q-27.png"
         },
         {
           "id": "abstract_reasoning-28",
           "number": 28,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the figures is the missing continuation of the pattern?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-28-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-28-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-28-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-28-d.png"
             }
           ],
           "answer": "c",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-28.png"
+          "image": "/dataset_pdf/abstract/questions/q-28.png"
         },
         {
           "id": "abstract_reasoning-29",
           "number": 29,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the figures is the missing continuation of the pattern?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-29-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-29-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-29-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-29-d.png"
             }
           ],
           "answer": "b",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-29.png"
+          "image": "/dataset_pdf/abstract/questions/q-29.png"
         },
         {
           "id": "abstract_reasoning-30",
           "number": 30,
-          "question": "(Figure-based item; see PDF)",
+          "question": "Which of the figures is the missing continuation of the pattern?",
           "options": [
             {
               "key": "a",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-30-a.png"
             },
             {
               "key": "b",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-30-b.png"
             },
             {
               "key": "c",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-30-c.png"
             },
             {
               "key": "d",
-              "text": null
+              "text": null,
+              "image": "/dataset_pdf/abstract/choices/q-30-d.png"
             }
           ],
           "answer": "d",
-          "image": "/dataset_pdf/extracted/abstract-reasoning-30.png"
+          "image": "/dataset_pdf/abstract/questions/q-30.png"
         }
       ]
     }

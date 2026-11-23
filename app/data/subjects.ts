@@ -8,6 +8,7 @@ import constitutionData from "./philippine_constitution.json"
 export interface ReviewOption {
   key: string
   text: string | null
+  image?: string
 }
 
 export interface ReviewQuestion {

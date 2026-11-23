@@ -48,7 +48,14 @@ const badgeClass = computed(() => {
       {{ option.key.toUpperCase() }}
     </span>
     <span class="text-sm font-medium leading-6 text-slate-700 sm:text-[15px]">
-      {{ option.text || "See the corresponding figure above" }}
+      <img
+        v-if="option.image"
+        :src="option.image"
+        :alt="`Choice ${option.key.toUpperCase()}`"
+        class="h-20 max-w-full rounded-md object-contain object-left sm:h-24"
+        loading="eager"
+      />
+      <span v-else>{{ option.text || "Choice not available in source" }}</span>
     </span>
   </button>
 </template>
