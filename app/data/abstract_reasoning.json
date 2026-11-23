@@ -1,0 +1,735 @@
+{
+  "subject": "Abstract Reasoning",
+  "total_questions": 30,
+  "sections": [
+    {
+      "id": "abstract_reasoning",
+      "category": "Analytical",
+      "name": "Abstract Reasoning",
+      "directions": "Select the best answer (a-d) for each figure-based item.",
+      "question_count": 30,
+      "questions": [
+        {
+          "id": "abstract_reasoning-1",
+          "number": 1,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-2",
+          "number": 2,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-3",
+          "number": 3,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-4",
+          "number": 4,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "c"
+        },
+        {
+          "id": "abstract_reasoning-5",
+          "number": 5,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-6",
+          "number": 6,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "a"
+        },
+        {
+          "id": "abstract_reasoning-7",
+          "number": 7,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-8",
+          "number": 8,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-9",
+          "number": 9,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "c"
+        },
+        {
+          "id": "abstract_reasoning-10",
+          "number": 10,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-11",
+          "number": 11,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "c"
+        },
+        {
+          "id": "abstract_reasoning-12",
+          "number": 12,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-13",
+          "number": 13,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "a"
+        },
+        {
+          "id": "abstract_reasoning-14",
+          "number": 14,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-15",
+          "number": 15,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-16",
+          "number": 16,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-17",
+          "number": 17,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-18",
+          "number": 18,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-19",
+          "number": 19,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-20",
+          "number": 20,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-21",
+          "number": 21,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-22",
+          "number": 22,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-23",
+          "number": 23,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        },
+        {
+          "id": "abstract_reasoning-24",
+          "number": 24,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "a"
+        },
+        {
+          "id": "abstract_reasoning-25",
+          "number": 25,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-26",
+          "number": 26,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "c"
+        },
+        {
+          "id": "abstract_reasoning-27",
+          "number": 27,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "c"
+        },
+        {
+          "id": "abstract_reasoning-28",
+          "number": 28,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "c"
+        },
+        {
+          "id": "abstract_reasoning-29",
+          "number": 29,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "b"
+        },
+        {
+          "id": "abstract_reasoning-30",
+          "number": 30,
+          "question": "(Figure-based item; see PDF)",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            }
+          ],
+          "answer": "d"
+        }
+      ]
+    }
+  ]
+}

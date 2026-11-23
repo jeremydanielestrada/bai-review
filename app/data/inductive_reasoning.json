@@ -1,0 +1,1265 @@
+{
+  "subject": "Inductive Reasoning",
+  "total_questions": 50,
+  "sections": [
+    {
+      "id": "inductive_reasoning",
+      "category": "Analytical",
+      "name": "Inductive Reasoning",
+      "directions": "Inductive Reasoning Directions: Discover the principle involved in each of the following series. Choose the letter that corresponds to the best answer.",
+      "question_count": 50,
+      "questions": [
+        {
+          "id": "inductive_reasoning-1",
+          "number": 1,
+          "question": "3 6 9 12 15",
+          "options": [
+            {
+              "key": "a",
+              "text": "2"
+            },
+            {
+              "key": "b",
+              "text": "18"
+            },
+            {
+              "key": "c",
+              "text": "22"
+            },
+            {
+              "key": "d",
+              "text": "20"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "18"
+        },
+        {
+          "id": "inductive_reasoning-2",
+          "number": 2,
+          "question": "C E G I K",
+          "options": [
+            {
+              "key": "a",
+              "text": "L"
+            },
+            {
+              "key": "b",
+              "text": "M"
+            },
+            {
+              "key": "c",
+              "text": "N"
+            },
+            {
+              "key": "d",
+              "text": "O"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "M"
+        },
+        {
+          "id": "inductive_reasoning-3",
+          "number": 3,
+          "question": "I K M O Q",
+          "options": [
+            {
+              "key": "a",
+              "text": "R"
+            },
+            {
+              "key": "b",
+              "text": "T"
+            },
+            {
+              "key": "c",
+              "text": "S"
+            },
+            {
+              "key": "d",
+              "text": "P"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "S"
+        },
+        {
+          "id": "inductive_reasoning-4",
+          "number": 4,
+          "question": "B D F H J",
+          "options": [
+            {
+              "key": "a",
+              "text": "L"
+            },
+            {
+              "key": "b",
+              "text": "M"
+            },
+            {
+              "key": "c",
+              "text": "N"
+            },
+            {
+              "key": "d",
+              "text": "P"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "L"
+        },
+        {
+          "id": "inductive_reasoning-5",
+          "number": 5,
+          "question": "10 17 26 37",
+          "options": [
+            {
+              "key": "a",
+              "text": "48"
+            },
+            {
+              "key": "b",
+              "text": "49"
+            },
+            {
+              "key": "c",
+              "text": "50"
+            },
+            {
+              "key": "d",
+              "text": "51"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "50"
+        },
+        {
+          "id": "inductive_reasoning-6",
+          "number": 6,
+          "question": "37 50 65 82",
+          "options": [
+            {
+              "key": "a",
+              "text": "98"
+            },
+            {
+              "key": "b",
+              "text": "99"
+            },
+            {
+              "key": "c",
+              "text": "100"
+            },
+            {
+              "key": "d",
+              "text": "101"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "101"
+        },
+        {
+          "id": "inductive_reasoning-7",
+          "number": 7,
+          "question": "3 9 5 25 8 64 12 144",
+          "options": [
+            {
+              "key": "a",
+              "text": "15"
+            },
+            {
+              "key": "b",
+              "text": "17"
+            },
+            {
+              "key": "c",
+              "text": "20"
+            },
+            {
+              "key": "d",
+              "text": "16"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "17"
+        },
+        {
+          "id": "inductive_reasoning-8",
+          "number": 8,
+          "question": "AB EF IJ MN",
+          "options": [
+            {
+              "key": "a",
+              "text": "OP"
+            },
+            {
+              "key": "b",
+              "text": "PQ"
+            },
+            {
+              "key": "c",
+              "text": "QR"
+            },
+            {
+              "key": "d",
+              "text": "RS"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "QR"
+        },
+        {
+          "id": "inductive_reasoning-9",
+          "number": 9,
+          "question": "ZY WV TS QP",
+          "options": [
+            {
+              "key": "a",
+              "text": "NM"
+            },
+            {
+              "key": "b",
+              "text": "ML"
+            },
+            {
+              "key": "c",
+              "text": "LK"
+            },
+            {
+              "key": "d",
+              "text": "KJ"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "NM"
+        },
+        {
+          "id": "inductive_reasoning-10",
+          "number": 10,
+          "question": "DC HG LK PO",
+          "options": [
+            {
+              "key": "a",
+              "text": "OP"
+            },
+            {
+              "key": "b",
+              "text": "RQ"
+            },
+            {
+              "key": "c",
+              "text": "SR"
+            },
+            {
+              "key": "d",
+              "text": "TS"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "TS"
+        },
+        {
+          "id": "inductive_reasoning-11",
+          "number": 11,
+          "question": "1 2 5 6 11 12 19 20",
+          "options": [
+            {
+              "key": "a",
+              "text": "25"
+            },
+            {
+              "key": "b",
+              "text": "27"
+            },
+            {
+              "key": "c",
+              "text": "29"
+            },
+            {
+              "key": "d",
+              "text": "31"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "29"
+        },
+        {
+          "id": "inductive_reasoning-12",
+          "number": 12,
+          "question": "4 9 5 11 6 13 7 15",
+          "options": [
+            {
+              "key": "a",
+              "text": "19"
+            },
+            {
+              "key": "b",
+              "text": "9"
+            },
+            {
+              "key": "c",
+              "text": "8"
+            },
+            {
+              "key": "d",
+              "text": "17"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "8"
+        },
+        {
+          "id": "inductive_reasoning-13",
+          "number": 13,
+          "question": "6 12 36 72 216",
+          "options": [
+            {
+              "key": "a",
+              "text": "250"
+            },
+            {
+              "key": "b",
+              "text": "300"
+            },
+            {
+              "key": "c",
+              "text": "400"
+            },
+            {
+              "key": "d",
+              "text": "432"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "432"
+        },
+        {
+          "id": "inductive_reasoning-14",
+          "number": 14,
+          "question": "A C C F F F",
+          "options": [
+            {
+              "key": "a",
+              "text": "J"
+            },
+            {
+              "key": "b",
+              "text": "G"
+            },
+            {
+              "key": "c",
+              "text": "K"
+            },
+            {
+              "key": "d",
+              "text": "V"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "J"
+        },
+        {
+          "id": "inductive_reasoning-15",
+          "number": 15,
+          "question": "1 2 6 12 36",
+          "options": [
+            {
+              "key": "a",
+              "text": "50"
+            },
+            {
+              "key": "b",
+              "text": "52"
+            },
+            {
+              "key": "c",
+              "text": "70"
+            },
+            {
+              "key": "d",
+              "text": "72"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "72"
+        },
+        {
+          "id": "inductive_reasoning-16",
+          "number": 16,
+          "question": "H H L L P P T T",
+          "options": [
+            {
+              "key": "a",
+              "text": "V"
+            },
+            {
+              "key": "b",
+              "text": "X"
+            },
+            {
+              "key": "c",
+              "text": "Y"
+            },
+            {
+              "key": "d",
+              "text": "Z"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "X"
+        },
+        {
+          "id": "inductive_reasoning-17",
+          "number": 17,
+          "question": "E F H G I J",
+          "options": [
+            {
+              "key": "a",
+              "text": "LK"
+            },
+            {
+              "key": "b",
+              "text": "JL"
+            },
+            {
+              "key": "c",
+              "text": "KM"
+            },
+            {
+              "key": "d",
+              "text": "MN"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "LK"
+        },
+        {
+          "id": "inductive_reasoning-18",
+          "number": 18,
+          "question": "6 12 7 11 8 10",
+          "options": [
+            {
+              "key": "a",
+              "text": "13"
+            },
+            {
+              "key": "b",
+              "text": "7"
+            },
+            {
+              "key": "c",
+              "text": "10"
+            },
+            {
+              "key": "d",
+              "text": "9"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "9"
+        },
+        {
+          "id": "inductive_reasoning-19",
+          "number": 19,
+          "question": "A C F J O",
+          "options": [
+            {
+              "key": "a",
+              "text": "T"
+            },
+            {
+              "key": "b",
+              "text": "U"
+            },
+            {
+              "key": "c",
+              "text": "S"
+            },
+            {
+              "key": "d",
+              "text": "R"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "U"
+        },
+        {
+          "id": "inductive_reasoning-20",
+          "number": 20,
+          "question": "B DE GHI",
+          "options": [
+            {
+              "key": "a",
+              "text": "MNDP"
+            },
+            {
+              "key": "b",
+              "text": "LMNO"
+            },
+            {
+              "key": "c",
+              "text": "JKLM"
+            },
+            {
+              "key": "d",
+              "text": "KLMN"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "KLMN"
+        },
+        {
+          "id": "inductive_reasoning-21",
+          "number": 21,
+          "question": "A B C D E F",
+          "options": [
+            {
+              "key": "a",
+              "text": "J"
+            },
+            {
+              "key": "b",
+              "text": "I"
+            },
+            {
+              "key": "c",
+              "text": "H"
+            },
+            {
+              "key": "d",
+              "text": "G"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "G"
+        },
+        {
+          "id": "inductive_reasoning-22",
+          "number": 22,
+          "question": "N O P Q R S",
+          "options": [
+            {
+              "key": "a",
+              "text": "W"
+            },
+            {
+              "key": "b",
+              "text": "V"
+            },
+            {
+              "key": "c",
+              "text": "U"
+            },
+            {
+              "key": "d",
+              "text": "T"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "T"
+        },
+        {
+          "id": "inductive_reasoning-23",
+          "number": 23,
+          "question": "3 8 48 55 440",
+          "options": [
+            {
+              "key": "a",
+              "text": "448"
+            },
+            {
+              "key": "b",
+              "text": "449"
+            },
+            {
+              "key": "c",
+              "text": "450"
+            },
+            {
+              "key": "d",
+              "text": "451"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "449"
+        },
+        {
+          "id": "inductive_reasoning-24",
+          "number": 24,
+          "question": "16 12 17 11 18",
+          "options": [
+            {
+              "key": "a",
+              "text": "7"
+            },
+            {
+              "key": "b",
+              "text": "9"
+            },
+            {
+              "key": "c",
+              "text": "10"
+            },
+            {
+              "key": "d",
+              "text": "12"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "10"
+        },
+        {
+          "id": "inductive_reasoning-25",
+          "number": 25,
+          "question": "29 58 29 145 29",
+          "options": [
+            {
+              "key": "a",
+              "text": "231"
+            },
+            {
+              "key": "b",
+              "text": "232"
+            },
+            {
+              "key": "c",
+              "text": "233"
+            },
+            {
+              "key": "d",
+              "text": "234"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "232"
+        },
+        {
+          "id": "inductive_reasoning-26",
+          "number": 26,
+          "question": "MZ KX IV GT",
+          "options": [
+            {
+              "key": "a",
+              "text": "ER"
+            },
+            {
+              "key": "b",
+              "text": "FS"
+            },
+            {
+              "key": "c",
+              "text": "DQ"
+            },
+            {
+              "key": "d",
+              "text": "CP"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "ER"
+        },
+        {
+          "id": "inductive_reasoning-27",
+          "number": 27,
+          "question": "LO KP JQ IR HS",
+          "options": [
+            {
+              "key": "a",
+              "text": "GT"
+            },
+            {
+              "key": "b",
+              "text": "FU"
+            },
+            {
+              "key": "c",
+              "text": "EV"
+            },
+            {
+              "key": "d",
+              "text": "DW"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "GT"
+        },
+        {
+          "id": "inductive_reasoning-28",
+          "number": 28,
+          "question": "G F I H K",
+          "options": [
+            {
+              "key": "a",
+              "text": "J"
+            },
+            {
+              "key": "b",
+              "text": "M"
+            },
+            {
+              "key": "c",
+              "text": "L"
+            },
+            {
+              "key": "d",
+              "text": "O"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "J"
+        },
+        {
+          "id": "inductive_reasoning-29",
+          "number": 29,
+          "question": "AZ BY CX DW EV",
+          "options": [
+            {
+              "key": "a",
+              "text": "GT"
+            },
+            {
+              "key": "b",
+              "text": "FU"
+            },
+            {
+              "key": "c",
+              "text": "HS"
+            },
+            {
+              "key": "d",
+              "text": "IR"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "FU"
+        },
+        {
+          "id": "inductive_reasoning-30",
+          "number": 30,
+          "question": "396 384 370 354 336",
+          "options": [
+            {
+              "key": "a",
+              "text": "318"
+            },
+            {
+              "key": "b",
+              "text": "314"
+            },
+            {
+              "key": "c",
+              "text": "316"
+            },
+            {
+              "key": "d",
+              "text": "314"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "316"
+        },
+        {
+          "id": "inductive_reasoning-31",
+          "number": 31,
+          "question": "15 17 18 21 22",
+          "options": [
+            {
+              "key": "a",
+              "text": "23"
+            },
+            {
+              "key": "b",
+              "text": "25"
+            },
+            {
+              "key": "c",
+              "text": "24"
+            },
+            {
+              "key": "d",
+              "text": "26"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "26"
+        },
+        {
+          "id": "inductive_reasoning-32",
+          "number": 32,
+          "question": "7 21 14 42 42",
+          "options": [
+            {
+              "key": "a",
+              "text": "84"
+            },
+            {
+              "key": "b",
+              "text": "96"
+            },
+            {
+              "key": "c",
+              "text": "124"
+            },
+            {
+              "key": "d",
+              "text": "126"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "126"
+        },
+        {
+          "id": "inductive_reasoning-33",
+          "number": 33,
+          "question": "314 321 322 330 332",
+          "options": [
+            {
+              "key": "a",
+              "text": "340"
+            },
+            {
+              "key": "b",
+              "text": "341"
+            },
+            {
+              "key": "c",
+              "text": "342"
+            },
+            {
+              "key": "d",
+              "text": "343"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "341"
+        },
+        {
+          "id": "inductive_reasoning-34",
+          "number": 34,
+          "question": "F21 H19 K16 O12 T7",
+          "options": [
+            {
+              "key": "a",
+              "text": "A26"
+            },
+            {
+              "key": "b",
+              "text": "Z1"
+            },
+            {
+              "key": "c",
+              "text": "X3"
+            },
+            {
+              "key": "d",
+              "text": "B25"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Z1"
+        },
+        {
+          "id": "inductive_reasoning-35",
+          "number": 35,
+          "question": "I18 K16 M14 O12",
+          "options": [
+            {
+              "key": "a",
+              "text": "P10"
+            },
+            {
+              "key": "b",
+              "text": "Q11"
+            },
+            {
+              "key": "c",
+              "text": "Q10"
+            },
+            {
+              "key": "d",
+              "text": "P11"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Q10"
+        },
+        {
+          "id": "inductive_reasoning-36",
+          "number": 36,
+          "question": "BO DQ FS HU JW",
+          "options": [
+            {
+              "key": "a",
+              "text": "KX"
+            },
+            {
+              "key": "b",
+              "text": "IV"
+            },
+            {
+              "key": "c",
+              "text": "LY"
+            },
+            {
+              "key": "d",
+              "text": "MZ"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "LY"
+        },
+        {
+          "id": "inductive_reasoning-37",
+          "number": 37,
+          "question": "BC PQ EF HU JW",
+          "options": [
+            {
+              "key": "a",
+              "text": "UJ"
+            },
+            {
+              "key": "b",
+              "text": "KL"
+            },
+            {
+              "key": "c",
+              "text": "VW"
+            },
+            {
+              "key": "d",
+              "text": "HI"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "HI"
+        },
+        {
+          "id": "inductive_reasoning-38",
+          "number": 38,
+          "question": "E4 G6 I8 K10 M12",
+          "options": [
+            {
+              "key": "a",
+              "text": "O14"
+            },
+            {
+              "key": "b",
+              "text": "Q16"
+            },
+            {
+              "key": "c",
+              "text": "N14"
+            },
+            {
+              "key": "d",
+              "text": "L16"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "O14"
+        },
+        {
+          "id": "inductive_reasoning-39",
+          "number": 39,
+          "question": "DQ4 GT7 CP3 HU8 BO2",
+          "options": [
+            {
+              "key": "a",
+              "text": "IV9"
+            },
+            {
+              "key": "b",
+              "text": "KX11"
+            },
+            {
+              "key": "c",
+              "text": "JW10"
+            },
+            {
+              "key": "d",
+              "text": "MZ13"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "IV9"
+        },
+        {
+          "id": "inductive_reasoning-40",
+          "number": 40,
+          "question": "AN1 CP3 ER5 GT7 IV9 KX11",
+          "options": [
+            {
+              "key": "a",
+              "text": "LY12"
+            },
+            {
+              "key": "b",
+              "text": "MZ13"
+            },
+            {
+              "key": "c",
+              "text": "JW10"
+            },
+            {
+              "key": "d",
+              "text": "HU8"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "MZ13"
+        },
+        {
+          "id": "inductive_reasoning-41",
+          "number": 41,
+          "question": "A1 C3 E5",
+          "options": [
+            {
+              "key": "a",
+              "text": "F6"
+            },
+            {
+              "key": "b",
+              "text": "G7"
+            },
+            {
+              "key": "c",
+              "text": "J11"
+            },
+            {
+              "key": "d",
+              "text": "K19"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "G7"
+        },
+        {
+          "id": "inductive_reasoning-42",
+          "number": 42,
+          "question": "A26 C24 EF21",
+          "options": [
+            {
+              "key": "a",
+              "text": "P12"
+            },
+            {
+              "key": "b",
+              "text": "H14"
+            },
+            {
+              "key": "c",
+              "text": "J17"
+            },
+            {
+              "key": "d",
+              "text": "L19"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "J17"
+        },
+        {
+          "id": "inductive_reasoning-43",
+          "number": 43,
+          "question": "J10 L12 N14",
+          "options": [
+            {
+              "key": "a",
+              "text": "O15"
+            },
+            {
+              "key": "b",
+              "text": "P16"
+            },
+            {
+              "key": "c",
+              "text": "G14"
+            },
+            {
+              "key": "d",
+              "text": "U34"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "P16"
+        },
+        {
+          "id": "inductive_reasoning-44",
+          "number": 44,
+          "question": "8R 6T 4V",
+          "options": [
+            {
+              "key": "a",
+              "text": "17j"
+            },
+            {
+              "key": "b",
+              "text": "15e"
+            },
+            {
+              "key": "c",
+              "text": "24w"
+            },
+            {
+              "key": "d",
+              "text": "2x"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "2x"
+        },
+        {
+          "id": "inductive_reasoning-45",
+          "number": 45,
+          "question": "J1017 L1215 N1413",
+          "options": [
+            {
+              "key": "a",
+              "text": "R125"
+            },
+            {
+              "key": "b",
+              "text": "P1611"
+            },
+            {
+              "key": "c",
+              "text": "T416"
+            },
+            {
+              "key": "d",
+              "text": "Q678"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "P1611"
+        },
+        {
+          "id": "inductive_reasoning-46",
+          "number": 46,
+          "question": "AC FH KM",
+          "options": [
+            {
+              "key": "a",
+              "text": "AB"
+            },
+            {
+              "key": "b",
+              "text": "EF"
+            },
+            {
+              "key": "c",
+              "text": "PR"
+            },
+            {
+              "key": "d",
+              "text": "VW"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "PR"
+        },
+        {
+          "id": "inductive_reasoning-47",
+          "number": 47,
+          "question": "1516 1819 2122",
+          "options": [
+            {
+              "key": "a",
+              "text": "1716"
+            },
+            {
+              "key": "b",
+              "text": "1115"
+            },
+            {
+              "key": "c",
+              "text": "2324"
+            },
+            {
+              "key": "d",
+              "text": "2425"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "2425"
+        },
+        {
+          "id": "inductive_reasoning-48",
+          "number": 48,
+          "question": "1121 2242 3483",
+          "options": [
+            {
+              "key": "a",
+              "text": "4964"
+            },
+            {
+              "key": "b",
+              "text": "6766"
+            },
+            {
+              "key": "c",
+              "text": "4844"
+            },
+            {
+              "key": "d",
+              "text": "4994"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "4964"
+        },
+        {
+          "id": "inductive_reasoning-49",
+          "number": 49,
+          "question": "aa33bb cc77dd ee1111ff",
+          "options": [
+            {
+              "key": "a",
+              "text": "gg1516hh"
+            },
+            {
+              "key": "b",
+              "text": "gg1515hh"
+            },
+            {
+              "key": "c",
+              "text": "gg1717hh"
+            },
+            {
+              "key": "d",
+              "text": "gg1816hh"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "gg1515hh"
+        },
+        {
+          "id": "inductive_reasoning-50",
+          "number": 50,
+          "question": "b9b9 c7c7 d5d5",
+          "options": [
+            {
+              "key": "a",
+              "text": "e3e2"
+            },
+            {
+              "key": "b",
+              "text": "e4e4"
+            },
+            {
+              "key": "c",
+              "text": "e2e2"
+            },
+            {
+              "key": "d",
+              "text": "e3e3"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "e3e2"
+        }
+      ]
+    }
+  ]
+}

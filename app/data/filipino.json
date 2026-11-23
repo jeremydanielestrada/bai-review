@@ -1,0 +1,4462 @@
+{
+  "subject": "Filipino",
+  "total_questions": 170,
+  "sections": [
+    {
+      "id": "kasingkahulugan",
+      "category": "Filipino",
+      "name": "Kasingkahulugan",
+      "directions": "Kasingkahulugan Panuto: Piliin ang salitang kasingkahulugan ng salitang nakapahilig (italicized).",
+      "question_count": 25,
+      "questions": [
+        {
+          "id": "kasingkahulugan-1",
+          "number": 1,
+          "question": "Nauulinigan ang pag-uusap ng grupo dahil sa lakas ng tinig nila.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nahihimigan"
+            },
+            {
+              "key": "b",
+              "text": "napakikinggan"
+            },
+            {
+              "key": "c",
+              "text": "nakikita"
+            },
+            {
+              "key": "d",
+              "text": "nararamdaman"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "napakikinggan"
+        },
+        {
+          "id": "kasingkahulugan-2",
+          "number": 2,
+          "question": "Karapatan ng bawat batang Pilipino ang magkaroon ng pamilyang mag-aaruga sa kanya.",
+          "options": [
+            {
+              "key": "a",
+              "text": "mag-aalaga"
+            },
+            {
+              "key": "b",
+              "text": "magsasaway"
+            },
+            {
+              "key": "c",
+              "text": "gagabay"
+            },
+            {
+              "key": "d",
+              "text": "tutulong"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "mag-aalaga"
+        },
+        {
+          "id": "kasingkahulugan-3",
+          "number": 3,
+          "question": "Nagugulumihanan si Rochelle kung anong kurso ang kanyang kukunin sa kolehiyo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nagtataka"
+            },
+            {
+              "key": "b",
+              "text": "natutuwa"
+            },
+            {
+              "key": "c",
+              "text": "nagpapasalamat"
+            },
+            {
+              "key": "d",
+              "text": "nalilito"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "nalilito"
+        },
+        {
+          "id": "kasingkahulugan-4",
+          "number": 4,
+          "question": "Tigib na ng pasahero ang dyip nang ito ay umalis.",
+          "options": [
+            {
+              "key": "a",
+              "text": "punung-puno"
+            },
+            {
+              "key": "b",
+              "text": "kulang-kulang"
+            },
+            {
+              "key": "c",
+              "text": "kaunting-kaunti"
+            },
+            {
+              "key": "d",
+              "text": "maraming-marami"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "punung-puno"
+        },
+        {
+          "id": "kasingkahulugan-5",
+          "number": 5,
+          "question": "Hindi na nakapagpigil ang kaawa-awang katulong kaya isiniwalat ang sama ng loob sa mapang-aping amo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "isinabi"
+            },
+            {
+              "key": "b",
+              "text": "inilahad"
+            },
+            {
+              "key": "c",
+              "text": "isinigaw"
+            },
+            {
+              "key": "d",
+              "text": "ibinulgar"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "ibinulgar"
+        },
+        {
+          "id": "kasingkahulugan-6",
+          "number": 6,
+          "question": "Iminungkuhi ang pagbabawal magtapon ng basura sa di-wastong lugar.",
+          "options": [
+            {
+              "key": "a",
+              "text": "ipinanukala"
+            },
+            {
+              "key": "b",
+              "text": "inilahad"
+            },
+            {
+              "key": "c",
+              "text": "isiniwalat"
+            },
+            {
+              "key": "d",
+              "text": "kinalat"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "ipinanukala"
+        },
+        {
+          "id": "kasingkahulugan-7",
+          "number": 7,
+          "question": "Madalas silang mapaaway dahil sa kanilang kapalaluan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "kalabisan"
+            },
+            {
+              "key": "b",
+              "text": "kayabangan"
+            },
+            {
+              "key": "c",
+              "text": "kagandahan"
+            },
+            {
+              "key": "d",
+              "text": "kasinungalingan"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "kayabangan"
+        },
+        {
+          "id": "kasingkahulugan-8",
+          "number": 8,
+          "question": "Pakiramdam niya ay labis-labis ang kanyang suliranin kung kaya siya ay naliligalig.",
+          "options": [
+            {
+              "key": "a",
+              "text": "matalino"
+            },
+            {
+              "key": "b",
+              "text": "masaya"
+            },
+            {
+              "key": "c",
+              "text": "magulo ang isip"
+            },
+            {
+              "key": "d",
+              "text": "malinaw ang isip"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "magulo ang isip"
+        },
+        {
+          "id": "kasingkahulugan-9",
+          "number": 9,
+          "question": "Maalwan lamang ang nararapat na dalahin ng isang bata.",
+          "options": [
+            {
+              "key": "a",
+              "text": "magaan"
+            },
+            {
+              "key": "b",
+              "text": "maganda"
+            },
+            {
+              "key": "c",
+              "text": "malaki"
+            },
+            {
+              "key": "d",
+              "text": "maliit"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "magaan"
+        },
+        {
+          "id": "kasingkahulugan-10",
+          "number": 10,
+          "question": "Sa palihan nagagawa ang mga itak, espada at iba pang yari sa bakal.",
+          "options": [
+            {
+              "key": "a",
+              "text": "palikuran"
+            },
+            {
+              "key": "b",
+              "text": "pamilihang-bayan"
+            },
+            {
+              "key": "c",
+              "text": "palengke"
+            },
+            {
+              "key": "d",
+              "text": "pandayan"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "pandayan"
+        },
+        {
+          "id": "kasingkahulugan-11",
+          "number": 11,
+          "question": "Hindi mo dapat gawing katuwaan ang pagkutya sa kapwa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pagsumbong"
+            },
+            {
+              "key": "b",
+              "text": "paglibak"
+            },
+            {
+              "key": "c",
+              "text": "pagtampo"
+            },
+            {
+              "key": "d",
+              "text": "pagkurot"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "paglibak"
+        },
+        {
+          "id": "kasingkahulugan-12",
+          "number": 12,
+          "question": "Ang pag-eensayo ng banda ay nakabubulahaw.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nakaiinis"
+            },
+            {
+              "key": "b",
+              "text": "nakagugulo"
+            },
+            {
+              "key": "c",
+              "text": "nakatutuwa"
+            },
+            {
+              "key": "d",
+              "text": "nakababahala"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "nakagugulo"
+        },
+        {
+          "id": "kasingkahulugan-13",
+          "number": 13,
+          "question": "Dapat kang magkamal ng salapi sa mabuting paraan lamang.",
+          "options": [
+            {
+              "key": "a",
+              "text": "magmana"
+            },
+            {
+              "key": "b",
+              "text": "magnakaw"
+            },
+            {
+              "key": "c",
+              "text": "magtamasa"
+            },
+            {
+              "key": "d",
+              "text": "maghanda"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "magtamasa"
+        },
+        {
+          "id": "kasingkahulugan-14",
+          "number": 14,
+          "question": "Ilan taon ding siniil ng mga dayuhan ang mga Pilipino.",
+          "options": [
+            {
+              "key": "a",
+              "text": "tinago"
+            },
+            {
+              "key": "b",
+              "text": "inapi"
+            },
+            {
+              "key": "c",
+              "text": "tinimpi"
+            },
+            {
+              "key": "d",
+              "text": "pinalaya"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "inapi"
+        },
+        {
+          "id": "kasingkahulugan-15",
+          "number": 15,
+          "question": "Ang anumang alitan ay di dapat hayaang magtagal.",
+          "options": [
+            {
+              "key": "a",
+              "text": "proyekto"
+            },
+            {
+              "key": "b",
+              "text": "pagkakaibigan"
+            },
+            {
+              "key": "c",
+              "text": "hiniram"
+            },
+            {
+              "key": "d",
+              "text": "bangayan"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "bangayan"
+        },
+        {
+          "id": "kasingkahulugan-16",
+          "number": 16,
+          "question": "Laganap ang krisis kaya tayo ay dapat magtipid.",
+          "options": [
+            {
+              "key": "a",
+              "text": "kalat"
+            },
+            {
+              "key": "b",
+              "text": "kapos"
+            },
+            {
+              "key": "c",
+              "text": "limitado"
+            },
+            {
+              "key": "d",
+              "text": "pantay"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "kalat"
+        },
+        {
+          "id": "kasingkahulugan-17",
+          "number": 17,
+          "question": "Madaling nababalino sa lihis na gawain ang mga kabataang laki sa langsangan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "natutuwa"
+            },
+            {
+              "key": "b",
+              "text": "namamalik-mata"
+            },
+            {
+              "key": "c",
+              "text": "nagaganyak"
+            },
+            {
+              "key": "d",
+              "text": "nakaiiwas"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "nagaganyak"
+        },
+        {
+          "id": "kasingkahulugan-18",
+          "number": 18,
+          "question": "Maraming himutok ang mga mangagawa laban sa kanilang kumpanya gaya ng di pagtaas ng kanilang sahod.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nais"
+            },
+            {
+              "key": "b",
+              "text": "balakid"
+            },
+            {
+              "key": "c",
+              "text": "kilos"
+            },
+            {
+              "key": "d",
+              "text": "reklamo"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "reklamo"
+        },
+        {
+          "id": "kasingkahulugan-19",
+          "number": 19,
+          "question": "Walang minimithi ang iyong magulang kung di ang mabigyan ka ng magandang kinabukasan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "dinadalangin"
+            },
+            {
+              "key": "b",
+              "text": "ninanais"
+            },
+            {
+              "key": "c",
+              "text": "ikinatutuwa"
+            },
+            {
+              "key": "d",
+              "text": "tinitiis"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "ninanais"
+        },
+        {
+          "id": "kasingkahulugan-20",
+          "number": 20,
+          "question": "Iwasang sumugba sa alanganin.",
+          "options": [
+            {
+              "key": "a",
+              "text": "sumugod"
+            },
+            {
+              "key": "b",
+              "text": "tumigil"
+            },
+            {
+              "key": "c",
+              "text": "lumayo"
+            },
+            {
+              "key": "d",
+              "text": "lumapit"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "sumugod"
+        },
+        {
+          "id": "kasingkahulugan-21",
+          "number": 21,
+          "question": "Huwag mong pukawin ang batang nahihimlay.",
+          "options": [
+            {
+              "key": "a",
+              "text": "libangin"
+            },
+            {
+              "key": "b",
+              "text": "palayain"
+            },
+            {
+              "key": "c",
+              "text": "pigilin"
+            },
+            {
+              "key": "d",
+              "text": "gisingin"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "gisingin"
+        },
+        {
+          "id": "kasingkahulugan-22",
+          "number": 22,
+          "question": "Hindi ka dapat magmaktol kung ika’y napagsasabihan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "umiyak"
+            },
+            {
+              "key": "b",
+              "text": "magtampo"
+            },
+            {
+              "key": "c",
+              "text": "magdabog"
+            },
+            {
+              "key": "d",
+              "text": "lumayas"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "magtampo"
+        },
+        {
+          "id": "kasingkahulugan-23",
+          "number": 23,
+          "question": "Tuwing Marso, ang puno ng mangga ay namumutiktik sa bunga.",
+          "options": [
+            {
+              "key": "a",
+              "text": "maraming-marami"
+            },
+            {
+              "key": "b",
+              "text": "bilang na bilang"
+            },
+            {
+              "key": "c",
+              "text": "kakaunti"
+            },
+            {
+              "key": "d",
+              "text": "malalaki"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "maraming-marami"
+        },
+        {
+          "id": "kasingkahulugan-24",
+          "number": 24,
+          "question": "Kumipot ang Maynila sa dami ng taong naninirahan dito.",
+          "options": [
+            {
+              "key": "a",
+              "text": "lumuwag"
+            },
+            {
+              "key": "b",
+              "text": "lumaki"
+            },
+            {
+              "key": "c",
+              "text": "sumikip"
+            },
+            {
+              "key": "d",
+              "text": "lumiit"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "sumikip"
+        },
+        {
+          "id": "kasingkahulugan-25",
+          "number": 25,
+          "question": "Patang-pata siya nang marating ang tuktok ng bundok Apo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pagod na pagod"
+            },
+            {
+              "key": "b",
+              "text": "masiglang-masigla"
+            },
+            {
+              "key": "c",
+              "text": "masayang-masaya"
+            },
+            {
+              "key": "d",
+              "text": "hinayang na hinayang"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "pagod na pagod"
+        }
+      ]
+    },
+    {
+      "id": "kasalungat",
+      "category": "Filipino",
+      "name": "Kasalungat",
+      "directions": "Kasalungat Panuto: Piliin ang salitang kasalungat ng salitang nakapahilig (italicized).",
+      "question_count": 25,
+      "questions": [
+        {
+          "id": "kasalungat-1",
+          "number": 1,
+          "question": "Ang pag-iibigan nina Florante at Laura ay matimyas.",
+          "options": [
+            {
+              "key": "a",
+              "text": "di-magmamaliw"
+            },
+            {
+              "key": "b",
+              "text": "di-totoo"
+            },
+            {
+              "key": "c",
+              "text": "dalisay"
+            },
+            {
+              "key": "d",
+              "text": "wagas"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "di-totoo"
+        },
+        {
+          "id": "kasalungat-2",
+          "number": 2,
+          "question": "Nilalagyan ng pataba ang halaman upang ito’y yumabong.",
+          "options": [
+            {
+              "key": "a",
+              "text": "lumago"
+            },
+            {
+              "key": "b",
+              "text": "dumami"
+            },
+            {
+              "key": "c",
+              "text": "malanta"
+            },
+            {
+              "key": "d",
+              "text": "lumiit"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "malanta"
+        },
+        {
+          "id": "kasalungat-3",
+          "number": 3,
+          "question": "Namamasyal siya sa parke upang mapawi ang lumbay.",
+          "options": [
+            {
+              "key": "a",
+              "text": "galak"
+            },
+            {
+              "key": "b",
+              "text": "lungkok"
+            },
+            {
+              "key": "c",
+              "text": "sama ng loob"
+            },
+            {
+              "key": "d",
+              "text": "gulat"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "galak"
+        },
+        {
+          "id": "kasalungat-4",
+          "number": 4,
+          "question": "Hinintay namin ang pagdaong ng 2GO na barko upang salubungin si Ate.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pag-alis"
+            },
+            {
+              "key": "b",
+              "text": "paglapag"
+            },
+            {
+              "key": "c",
+              "text": "paghimpil"
+            },
+            {
+              "key": "d",
+              "text": "pagtigil"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "pag-alis"
+        },
+        {
+          "id": "kasalungat-5",
+          "number": 5,
+          "question": "Palasak na ang paggamit ng kompyuter.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pambihira"
+            },
+            {
+              "key": "b",
+              "text": "pangkaraniwan"
+            },
+            {
+              "key": "c",
+              "text": "laganap"
+            },
+            {
+              "key": "d",
+              "text": "matipid"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "pambihira"
+        },
+        {
+          "id": "kasalungat-6",
+          "number": 6,
+          "question": "Nabaghan siya nang dumating ang kanyang amang dalawang taong naghanap- buhay sa ibang bansa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nagulat"
+            },
+            {
+              "key": "b",
+              "text": "nagtaka"
+            },
+            {
+              "key": "c",
+              "text": "nainis"
+            },
+            {
+              "key": "d",
+              "text": "nahimatay"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "nainis"
+        },
+        {
+          "id": "kasalungat-7",
+          "number": 7,
+          "question": "Huwag mong ugaliin ang umalipusta ng iyong kapwa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "laitin"
+            },
+            {
+              "key": "b",
+              "text": "purihin"
+            },
+            {
+              "key": "c",
+              "text": "kagalitan"
+            },
+            {
+              "key": "d",
+              "text": "bastusin"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "purihin"
+        },
+        {
+          "id": "kasalungat-8",
+          "number": 8,
+          "question": "Pahapay na ang mga maliliit na kumpanya dahil sa pagbagsak ng ekonomiya.",
+          "options": [
+            {
+              "key": "a",
+              "text": "paunlad"
+            },
+            {
+              "key": "b",
+              "text": "tagilid"
+            },
+            {
+              "key": "c",
+              "text": "pabagsak"
+            },
+            {
+              "key": "d",
+              "text": "pasara"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "paunlad"
+        },
+        {
+          "id": "kasalungat-9",
+          "number": 9,
+          "question": "Makapal at magalas ang palad ng mga mason at karpintero.",
+          "options": [
+            {
+              "key": "a",
+              "text": "mabuto"
+            },
+            {
+              "key": "b",
+              "text": "magaspang"
+            },
+            {
+              "key": "c",
+              "text": "maliksi"
+            },
+            {
+              "key": "d",
+              "text": "makinis"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "makinis"
+        },
+        {
+          "id": "kasalungat-10",
+          "number": 10,
+          "question": "Masalimuot man ang buhay natin, di tayo dapat mawalan ng pag-asa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "mahirap"
+            },
+            {
+              "key": "b",
+              "text": "magulo"
+            },
+            {
+              "key": "c",
+              "text": "maayos"
+            },
+            {
+              "key": "d",
+              "text": "malungkot"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "maayos"
+        },
+        {
+          "id": "kasalungat-11",
+          "number": 11,
+          "question": "Sinaplutan man lamang sana nila ang sanggol bago ito ginamit sa paglilimos.",
+          "options": [
+            {
+              "key": "a",
+              "text": "binalutan"
+            },
+            {
+              "key": "b",
+              "text": "tinakpan"
+            },
+            {
+              "key": "c",
+              "text": "dinamitan"
+            },
+            {
+              "key": "d",
+              "text": "hinubaran"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "hinubaran"
+        },
+        {
+          "id": "kasalungat-12",
+          "number": 12,
+          "question": "Hindi dapat pagkatiwalaan ang mga taong taksil na mabait lamang kung kaharap mo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "suwail"
+            },
+            {
+              "key": "b",
+              "text": "matapat"
+            },
+            {
+              "key": "c",
+              "text": "hunghang"
+            },
+            {
+              "key": "d",
+              "text": "matalino"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "matapat"
+        },
+        {
+          "id": "kasalungat-13",
+          "number": 13,
+          "question": "Tila walang kapaguran ang mabungalngal na bibig ni Lina.",
+          "options": [
+            {
+              "key": "a",
+              "text": "tahimik"
+            },
+            {
+              "key": "b",
+              "text": "masalita"
+            },
+            {
+              "key": "c",
+              "text": "madaldal"
+            },
+            {
+              "key": "d",
+              "text": "masakit"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "tahimik"
+        },
+        {
+          "id": "kasalungat-14",
+          "number": 14,
+          "question": "Napakukupad ng takbo ng karitela kung ikukumpara sa traysikel at dyip.",
+          "options": [
+            {
+              "key": "a",
+              "text": "napakabilis"
+            },
+            {
+              "key": "b",
+              "text": "napakabagal"
+            },
+            {
+              "key": "c",
+              "text": "napakakuyad"
+            },
+            {
+              "key": "d",
+              "text": "napakadali"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "napakabilis"
+        },
+        {
+          "id": "kasalungat-15",
+          "number": 15,
+          "question": "Patuloy na magdarahop ang taong tamad.",
+          "options": [
+            {
+              "key": "a",
+              "text": "aasenso"
+            },
+            {
+              "key": "b",
+              "text": "maghihikahos"
+            },
+            {
+              "key": "c",
+              "text": "magiging salat"
+            },
+            {
+              "key": "d",
+              "text": "maghihirap"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "aasenso"
+        },
+        {
+          "id": "kasalungat-16",
+          "number": 16,
+          "question": "Mahirap pakinggan ang sinasabi ng taong garil.",
+          "options": [
+            {
+              "key": "a",
+              "text": "utal"
+            },
+            {
+              "key": "b",
+              "text": "bulol"
+            },
+            {
+              "key": "c",
+              "text": "matalino"
+            },
+            {
+              "key": "d",
+              "text": "matatas"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "matatas"
+        },
+        {
+          "id": "kasalungat-17",
+          "number": 17,
+          "question": "Kumain ka ng masustansyang pagkain nang hindi maging hawas.",
+          "options": [
+            {
+              "key": "a",
+              "text": "payat"
+            },
+            {
+              "key": "b",
+              "text": "matipuno"
+            },
+            {
+              "key": "c",
+              "text": "manipis"
+            },
+            {
+              "key": "d",
+              "text": "sakitin"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "sakitin"
+        },
+        {
+          "id": "kasalungat-18",
+          "number": 18,
+          "question": "Ang labis na pagiging hidhid ay nakasasama rin lalo pa’t hindi ka marunong magbigay sa nangangailangan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "waldas"
+            },
+            {
+              "key": "b",
+              "text": "kuripot"
+            },
+            {
+              "key": "c",
+              "text": "matipid"
+            },
+            {
+              "key": "d",
+              "text": "mapera"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "waldas"
+        },
+        {
+          "id": "kasalungat-19",
+          "number": 19,
+          "question": "Hungkag ang bigasan dahil nasira ng bagyo ang mga palay.",
+          "options": [
+            {
+              "key": "a",
+              "text": "salat"
+            },
+            {
+              "key": "b",
+              "text": "puno"
+            },
+            {
+              "key": "c",
+              "text": "bulok"
+            },
+            {
+              "key": "d",
+              "text": "bago"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "puno"
+        },
+        {
+          "id": "kasalungat-20",
+          "number": 20,
+          "question": "Ang mga bulaklak ng orkidya ay naluoy sa tindi ng init.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nabulok"
+            },
+            {
+              "key": "b",
+              "text": "natuyo"
+            },
+            {
+              "key": "c",
+              "text": "namukadkad"
+            },
+            {
+              "key": "d",
+              "text": "nalaglag"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "namukadkad"
+        },
+        {
+          "id": "kasalungat-21",
+          "number": 21,
+          "question": "Totoo bang walang latoy ang pagkain sa ospital?",
+          "options": [
+            {
+              "key": "a",
+              "text": "walang lasa"
+            },
+            {
+              "key": "b",
+              "text": "walang sangkap"
+            },
+            {
+              "key": "c",
+              "text": "malasa"
+            },
+            {
+              "key": "d",
+              "text": "kakaunti"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "malasa"
+        },
+        {
+          "id": "kasalungat-22",
+          "number": 22,
+          "question": "Hindi nilubayan ng mga manunulat ang pagtatanong sa panauhing pandangal.",
+          "options": [
+            {
+              "key": "a",
+              "text": "tinigilan"
+            },
+            {
+              "key": "b",
+              "text": "iniwasan"
+            },
+            {
+              "key": "c",
+              "text": "dinikitan"
+            },
+            {
+              "key": "d",
+              "text": "pinagpatuloy"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "pinagpatuloy"
+        },
+        {
+          "id": "kasalungat-23",
+          "number": 23,
+          "question": "Ang mga tirahan ng mayayaman ay maagwat sa isa’t isa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "hiwa-hiwalay"
+            },
+            {
+              "key": "b",
+              "text": "magkakadikit"
+            },
+            {
+              "key": "c",
+              "text": "layo-layo"
+            },
+            {
+              "key": "d",
+              "text": "maliliit"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "magkakadikit"
+        },
+        {
+          "id": "kasalungat-24",
+          "number": 24,
+          "question": "Maantak ang sugat kapag napatakan ng kalamansi.",
+          "options": [
+            {
+              "key": "a",
+              "text": "malaki"
+            },
+            {
+              "key": "b",
+              "text": "maliit"
+            },
+            {
+              "key": "c",
+              "text": "manhid"
+            },
+            {
+              "key": "d",
+              "text": "mahapdi"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "manhid"
+        },
+        {
+          "id": "kasalungat-25",
+          "number": 25,
+          "question": "Tunay na mabalasik ang leon at ang tigre.",
+          "options": [
+            {
+              "key": "a",
+              "text": "maamo"
+            },
+            {
+              "key": "b",
+              "text": "matapang"
+            },
+            {
+              "key": "c",
+              "text": "masungit"
+            },
+            {
+              "key": "d",
+              "text": "maliit"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "maamo"
+        }
+      ]
+    },
+    {
+      "id": "kawikaan",
+      "category": "Filipino",
+      "name": "Mga Kawikaan",
+      "directions": "Kawikaan Panuto: Piliin ang salitang kasingkahulugan ng salitang nakapahilig (italicized).",
+      "question_count": 25,
+      "questions": [
+        {
+          "id": "kawikaan-1",
+          "number": 1,
+          "question": "Nag-alsa balutan ang katulong sa bahay dahil sa kalupitan ng kanyang amo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nagtampo"
+            },
+            {
+              "key": "b",
+              "text": "lumayas"
+            },
+            {
+              "key": "c",
+              "text": "nagtago"
+            },
+            {
+              "key": "d",
+              "text": "nagmaktol"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "lumayas"
+        },
+        {
+          "id": "kawikaan-2",
+          "number": 2,
+          "question": "Hindi totoo ang kanyang katapangan sapagkat bahag ang buntot niya sa harap ng paghihirap.",
+          "options": [
+            {
+              "key": "a",
+              "text": "malakas ang loob"
+            },
+            {
+              "key": "b",
+              "text": "matapang"
+            },
+            {
+              "key": "c",
+              "text": "duwag"
+            },
+            {
+              "key": "d",
+              "text": "matiyaga"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "duwag"
+        },
+        {
+          "id": "kawikaan-3",
+          "number": 3,
+          "question": "Dahil sa paulit-ulit na pagsisinungaling, basa ang papel niya sa karamihan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "ayaw nang paniwalaan"
+            },
+            {
+              "key": "b",
+              "text": "ayaw nang pagbigyan"
+            },
+            {
+              "key": "c",
+              "text": "ayaw nang pakinggan"
+            },
+            {
+              "key": "d",
+              "text": "ayaw nang makasama"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "ayaw nang paniwalaan"
+        },
+        {
+          "id": "kawikaan-4",
+          "number": 4,
+          "question": "Kumukulo ang dugo ng ina ni Robin sa kanya sapagkat hindi siya nag-aral nang mabuti.",
+          "options": [
+            {
+              "key": "a",
+              "text": "tuwang-tuwa"
+            },
+            {
+              "key": "b",
+              "text": "galit na galit"
+            },
+            {
+              "key": "c",
+              "text": "lungkot na lungkot"
+            },
+            {
+              "key": "d",
+              "text": "nakapapaso"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "galit na galit"
+        },
+        {
+          "id": "kawikaan-5",
+          "number": 5,
+          "question": "Di-mahapayang gatang ang pagpapalitan ng kuru-kuro ng mga mambabatas.",
+          "options": [
+            {
+              "key": "a",
+              "text": "hindi maumpisahan"
+            },
+            {
+              "key": "b",
+              "text": "hindi magulo"
+            },
+            {
+              "key": "c",
+              "text": "hindi masaya"
+            },
+            {
+              "key": "d",
+              "text": "hindi maawat"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "hindi maawat"
+        },
+        {
+          "id": "kawikaan-6",
+          "number": 6,
+          "question": "Noong panahon ng pananakop ng Kastila, ang mga Pilipino ay hawak sa tainga ng mga ito.",
+          "options": [
+            {
+              "key": "a",
+              "text": "sunud-sunuran"
+            },
+            {
+              "key": "b",
+              "text": "katuwang"
+            },
+            {
+              "key": "c",
+              "text": "kakampi"
+            },
+            {
+              "key": "d",
+              "text": "alipin"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "sunud-sunuran"
+        },
+        {
+          "id": "kawikaan-7",
+          "number": 7,
+          "question": "Mabulaklak ang landas ng taong masikap.",
+          "options": [
+            {
+              "key": "a",
+              "text": "malabo ang kinabukasan"
+            },
+            {
+              "key": "b",
+              "text": "makulay ang kinabukasan"
+            },
+            {
+              "key": "c",
+              "text": "magulo ang kinabukasan"
+            },
+            {
+              "key": "d",
+              "text": "maganda ang kinabukasan"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "maganda ang kinabukasan"
+        },
+        {
+          "id": "kawikaan-8",
+          "number": 8,
+          "question": "Maliit ang sisidlan ni Mhon kaya iniiwasan siyang biruin.",
+          "options": [
+            {
+              "key": "a",
+              "text": "walang lakas-loob"
+            },
+            {
+              "key": "b",
+              "text": "walang galang"
+            },
+            {
+              "key": "c",
+              "text": "walang malay"
+            },
+            {
+              "key": "d",
+              "text": "walang pasensiya"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "walang pasensiya"
+        },
+        {
+          "id": "kawikaan-9",
+          "number": 9,
+          "question": "Mahilig kasing magbasa kahit sa madilim si Tina kaya siya ay nagmamatang- manok.",
+          "options": [
+            {
+              "key": "a",
+              "text": "lumiliit ang mgata"
+            },
+            {
+              "key": "b",
+              "text": "malabo ang mata"
+            },
+            {
+              "key": "c",
+              "text": "lumuluwa ang mata"
+            },
+            {
+              "key": "d",
+              "text": "kumikislap ang mata"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "malabo ang mata"
+        },
+        {
+          "id": "kawikaan-10",
+          "number": 10,
+          "question": "Kung minsan, inggit ang nagiging dahilan sa pagsasaulian ng kandila.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pagkasira ng tiwala"
+            },
+            {
+              "key": "b",
+              "text": "pagkasira ng pamilya"
+            },
+            {
+              "key": "c",
+              "text": "pagkasira ng pagkakaibigan"
+            },
+            {
+              "key": "d",
+              "text": "pagkasira ng lipunan"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "pagkasira ng pagkakaibigan"
+        },
+        {
+          "id": "kawikaan-11",
+          "number": 11,
+          "question": "Pabalat-bunga lang pala ang pagiging bukas-palad niya; may pulitikal pala itong kadahilanan kaya siya mapagbigay.",
+          "options": [
+            {
+              "key": "a",
+              "text": "taos-puso"
+            },
+            {
+              "key": "b",
+              "text": "pakunwari"
+            },
+            {
+              "key": "c",
+              "text": "pasikreto"
+            },
+            {
+              "key": "d",
+              "text": "sapilitan"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "pakunwari"
+        },
+        {
+          "id": "kawikaan-12",
+          "number": 12,
+          "question": "Tiklop-tuhod ang akusado na siya ay patawarin ng biktima.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nagkukunwari"
+            },
+            {
+              "key": "b",
+              "text": "nananakot"
+            },
+            {
+              "key": "c",
+              "text": "nagmamamakawa"
+            },
+            {
+              "key": "d",
+              "text": "gumagapang"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "nagmamamakawa"
+        },
+        {
+          "id": "kawikaan-13",
+          "number": 13,
+          "question": "Ni ayaw man lamang humarap sa tao ang talo-saling na si Eula.",
+          "options": [
+            {
+              "key": "a",
+              "text": "masungit"
+            },
+            {
+              "key": "b",
+              "text": "isnabera"
+            },
+            {
+              "key": "c",
+              "text": "mahiyain"
+            },
+            {
+              "key": "d",
+              "text": "pangit"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "mahiyain"
+        },
+        {
+          "id": "kawikaan-14",
+          "number": 14,
+          "question": "Di dapat tularan ang mga taong walang kusang-palo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "walang kusang-loob"
+            },
+            {
+              "key": "b",
+              "text": "walang bait sa sarili"
+            },
+            {
+              "key": "c",
+              "text": "walang nalalaman"
+            },
+            {
+              "key": "d",
+              "text": "walang direksiyon"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "walang kusang-loob"
+        },
+        {
+          "id": "kawikaan-15",
+          "number": 15,
+          "question": "Hindi tama ang ika’y walang lingon-likod. Dapat ay suklian ang kabutihan ng iba sa iyo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "mayabang"
+            },
+            {
+              "key": "b",
+              "text": "mapagmataas"
+            },
+            {
+              "key": "c",
+              "text": "walang utang na loob"
+            },
+            {
+              "key": "d",
+              "text": "walang pagkakautang"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "walang utang na loob"
+        },
+        {
+          "id": "kawikaan-16",
+          "number": 16,
+          "question": "Makapigil-hininga ang pelikulang Muro Ami.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nakasasabik"
+            },
+            {
+              "key": "b",
+              "text": "nakaaantok"
+            },
+            {
+              "key": "c",
+              "text": "nakaiinis"
+            },
+            {
+              "key": "d",
+              "text": "nakasusuya"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "nakasasabik"
+        },
+        {
+          "id": "kawikaan-17",
+          "number": 17,
+          "question": "Halang ang kaluluwa ng taong gumagawa ng karumal-dumal na krimen.",
+          "options": [
+            {
+              "key": "a",
+              "text": "mabait"
+            },
+            {
+              "key": "b",
+              "text": "bastos"
+            },
+            {
+              "key": "c",
+              "text": "maitim ang budhi"
+            },
+            {
+              "key": "d",
+              "text": "matapang"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "maitim ang budhi"
+        },
+        {
+          "id": "kawikaan-18",
+          "number": 18,
+          "question": "Di-maliparan ng uwak ang lupain ng mga Aquino sa Tarlac.",
+          "options": [
+            {
+              "key": "a",
+              "text": "napakaliit"
+            },
+            {
+              "key": "b",
+              "text": "napakalawak"
+            },
+            {
+              "key": "c",
+              "text": "nakapakadami"
+            },
+            {
+              "key": "d",
+              "text": "napakasikip"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "napakalawak"
+        },
+        {
+          "id": "kawikaan-19",
+          "number": 19,
+          "question": "Makunat pa sa patola si Lola Rosa kaya uugud-ugod na.",
+          "options": [
+            {
+              "key": "a",
+              "text": "masayahin pa"
+            },
+            {
+              "key": "b",
+              "text": "masigla pa"
+            },
+            {
+              "key": "c",
+              "text": "mukhang bata"
+            },
+            {
+              "key": "d",
+              "text": "napakatanda na"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "napakatanda na"
+        },
+        {
+          "id": "kawikaan-20",
+          "number": 20,
+          "question": "Nilubugan ng araw ang mga taong nasalanta ng bagyo ang mga tirahan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nawalan ng pag-asa"
+            },
+            {
+              "key": "b",
+              "text": "dumilim ang paligid"
+            },
+            {
+              "key": "c",
+              "text": "naputulan ng kuryente"
+            },
+            {
+              "key": "d",
+              "text": "naghirap"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "nawalan ng pag-asa"
+        },
+        {
+          "id": "kawikaan-21",
+          "number": 21,
+          "question": "Hindi mo matatagpuan sa kanilang bahay si Cecile, palibhasa ay may puyo sa talampakan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "mahilig matulog"
+            },
+            {
+              "key": "b",
+              "text": "mahilig mamasyal"
+            },
+            {
+              "key": "c",
+              "text": "mahilig tumakbo"
+            },
+            {
+              "key": "d",
+              "text": "mahilig mag-aral"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "mahilig mamasyal"
+        },
+        {
+          "id": "kawikaan-22",
+          "number": 22,
+          "question": "Binata na si JB kaya siya ay naniningalang-pugad na.",
+          "options": [
+            {
+              "key": "a",
+              "text": "ninigarilyo"
+            },
+            {
+              "key": "b",
+              "text": "nababarkada"
+            },
+            {
+              "key": "c",
+              "text": "nanliligaw"
+            },
+            {
+              "key": "d",
+              "text": "naninirahan nang mag- isa"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "nanliligaw"
+        },
+        {
+          "id": "kawikaan-23",
+          "number": 23,
+          "question": "Malimit na may kabanggaan si Malou sa opisina dahil maanghang ang kanyang dila.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pikon"
+            },
+            {
+              "key": "b",
+              "text": "walang pakialam"
+            },
+            {
+              "key": "c",
+              "text": "masakit magsalita"
+            },
+            {
+              "key": "d",
+              "text": "masayahin"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "masakit magsalita"
+        },
+        {
+          "id": "kawikaan-24",
+          "number": 24,
+          "question": "Di napaunlakan ni Ana ang imbitasyong manood sila ng sine sapagkat butas ang kanyang bulsa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "sira ang pantalon"
+            },
+            {
+              "key": "b",
+              "text": "walang pera"
+            },
+            {
+              "key": "c",
+              "text": "nagtitipid"
+            },
+            {
+              "key": "d",
+              "text": "walang panahon"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "walang pera"
+        },
+        {
+          "id": "kawikaan-25",
+          "number": 25,
+          "question": "Si Karl ay nagtataingang-kawali. Animo’y wala siyang naririnig kahit tinatawag na.",
+          "options": [
+            {
+              "key": "a",
+              "text": "matigas ang tainga"
+            },
+            {
+              "key": "b",
+              "text": "mahina ang pandinig"
+            },
+            {
+              "key": "c",
+              "text": "barado ang tainga"
+            },
+            {
+              "key": "d",
+              "text": "nagbibingi-bingihan"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "nagbibingi-bingihan"
+        }
+      ]
+    },
+    {
+      "id": "wastong_gamit",
+      "category": "Filipino",
+      "name": "Wastong Gamit",
+      "directions": "Wastong Gamit Panuto: Piliin ang titik ng salitang angkop sa patlang.",
+      "question_count": 30,
+      "questions": [
+        {
+          "id": "wastong_gamit-1",
+          "number": 1,
+          "question": "Katungkulan ________ sinuman ang tumulong sa kanyang kapwa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nang"
+            },
+            {
+              "key": "b",
+              "text": "ng"
+            },
+            {
+              "key": "c",
+              "text": "namin"
+            },
+            {
+              "key": "d",
+              "text": "natin"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "ng"
+        },
+        {
+          "id": "wastong_gamit-2",
+          "number": 2,
+          "question": "________ ko kay Inay ang mga kaganapan sa aming paaralan sa isang buong papel.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Isinulat"
+            },
+            {
+              "key": "b",
+              "text": "Isinabi"
+            },
+            {
+              "key": "c",
+              "text": "Sinulat"
+            },
+            {
+              "key": "d",
+              "text": "Sinabi"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Isinulat"
+        },
+        {
+          "id": "wastong_gamit-3",
+          "number": 3,
+          "question": "Ang ________ ng mga manlalaro ay dininig ng komite kahapon.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pakiusapan"
+            },
+            {
+              "key": "b",
+              "text": "pakikipag-usap"
+            },
+            {
+              "key": "c",
+              "text": "ipakiusap"
+            },
+            {
+              "key": "d",
+              "text": "pakiusap"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "pakiusap"
+        },
+        {
+          "id": "wastong_gamit-4",
+          "number": 4,
+          "question": "Nagulat ang mga tao ________ mabalitaan ang kaguluhang nagaganap sa Mindanao.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nang"
+            },
+            {
+              "key": "b",
+              "text": "ng"
+            },
+            {
+              "key": "c",
+              "text": "noon"
+            },
+            {
+              "key": "d",
+              "text": "datapwat"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "nang"
+        },
+        {
+          "id": "wastong_gamit-5",
+          "number": 5,
+          "question": "________ mo si Chin ng damit sa kabinet.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Kunin"
+            },
+            {
+              "key": "b",
+              "text": "Utusan"
+            },
+            {
+              "key": "c",
+              "text": "Hanapan"
+            },
+            {
+              "key": "d",
+              "text": "Hanapin"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Hanapan"
+        },
+        {
+          "id": "wastong_gamit-6",
+          "number": 6,
+          "question": "________ suliranin ng pagtaas ng presyo ng gasolina ang pinakapaksa ng pulong sa kasalukuyan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Hinggil kay"
+            },
+            {
+              "key": "b",
+              "text": "Ayon kay"
+            },
+            {
+              "key": "c",
+              "text": "Hinggil sa"
+            },
+            {
+              "key": "d",
+              "text": "Ayon sa"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Hinggil sa"
+        },
+        {
+          "id": "wastong_gamit-7",
+          "number": 7,
+          "question": "Ang paglalakbay ________ Magellan noong 1521 ang naging dahilan kung bakit nakilala ang Pilipinas sa ibang bansa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "ni"
+            },
+            {
+              "key": "b",
+              "text": "daw"
+            },
+            {
+              "key": "c",
+              "text": "sa"
+            },
+            {
+              "key": "d",
+              "text": "para kay"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "ni"
+        },
+        {
+          "id": "wastong_gamit-8",
+          "number": 8,
+          "question": "Ang pagkakalat o pagtatapon sa kung saan-saan ay ________ batas.",
+          "options": [
+            {
+              "key": "a",
+              "text": "sang-ayon"
+            },
+            {
+              "key": "b",
+              "text": "hinggil sa"
+            },
+            {
+              "key": "c",
+              "text": "laban sa"
+            },
+            {
+              "key": "d",
+              "text": "labag sa"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "labag sa"
+        },
+        {
+          "id": "wastong_gamit-9",
+          "number": 9,
+          "question": "Pinatay ________ mga Hapones si Jose Abad Santos nang tanggihan niyang ibunyag ang lihim ng mga kilusang Pilipino laban sa kanila.",
+          "options": [
+            {
+              "key": "a",
+              "text": "namin"
+            },
+            {
+              "key": "b",
+              "text": "ng"
+            },
+            {
+              "key": "c",
+              "text": "nang"
+            },
+            {
+              "key": "d",
+              "text": "noong"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "ng"
+        },
+        {
+          "id": "wastong_gamit-10",
+          "number": 10,
+          "question": "________ mo naman sa kanila na magdala ng mapagsasaluhan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Usapin"
+            },
+            {
+              "key": "b",
+              "text": "Usap-Usapan"
+            },
+            {
+              "key": "c",
+              "text": "Ipakiusap"
+            },
+            {
+              "key": "d",
+              "text": "Pakiusap"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Ipakiusap"
+        },
+        {
+          "id": "wastong_gamit-11",
+          "number": 11,
+          "question": "________ G. at Gng. Reyes, matagal na nilang pinag-iipunan ang pangtustos sa pag-aaral mo sa kolehiyo.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ayon sa"
+            },
+            {
+              "key": "b",
+              "text": "Ayon kay"
+            },
+            {
+              "key": "c",
+              "text": "Ayon kina"
+            },
+            {
+              "key": "d",
+              "text": "Sang-ayon kina"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Ayon kina"
+        },
+        {
+          "id": "wastong_gamit-12",
+          "number": 12,
+          "question": "________ ni Emilio Jacinto ang Kartilya na naglalaman ng adhikain ng Katipunan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Winika"
+            },
+            {
+              "key": "b",
+              "text": "Sinulatan"
+            },
+            {
+              "key": "c",
+              "text": "Isinabi"
+            },
+            {
+              "key": "d",
+              "text": "Nalaman"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Winika"
+        },
+        {
+          "id": "wastong_gamit-13",
+          "number": 13,
+          "question": "Dumating ang Lola ________ kami’y nagdiwang",
+          "options": [
+            {
+              "key": "a",
+              "text": "kaya"
+            },
+            {
+              "key": "b",
+              "text": "kung"
+            },
+            {
+              "key": "c",
+              "text": "marahil"
+            },
+            {
+              "key": "d",
+              "text": "siguro"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "kaya"
+        },
+        {
+          "id": "wastong_gamit-14",
+          "number": 14,
+          "question": "Ang pagbabara ng mga estero ay dulot ________ walang pakundangang pagtatapon ng basura.",
+          "options": [
+            {
+              "key": "a",
+              "text": "rin"
+            },
+            {
+              "key": "b",
+              "text": "ng"
+            },
+            {
+              "key": "c",
+              "text": "natin"
+            },
+            {
+              "key": "d",
+              "text": "nila"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "ng"
+        },
+        {
+          "id": "wastong_gamit-15",
+          "number": 15,
+          "question": "________ maaari ay magtipid tayo nang husto.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Kung"
+            },
+            {
+              "key": "b",
+              "text": "Dahil"
+            },
+            {
+              "key": "c",
+              "text": "Bagamat"
+            },
+            {
+              "key": "d",
+              "text": "Mandin"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Kung"
+        },
+        {
+          "id": "wastong_gamit-16",
+          "number": 16,
+          "question": "Mapadali ang ating gawain ________ tayo ay magtutulung-tulungan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "upang"
+            },
+            {
+              "key": "b",
+              "text": "kung"
+            },
+            {
+              "key": "c",
+              "text": "kahit"
+            },
+            {
+              "key": "d",
+              "text": "ngunit"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "kung"
+        },
+        {
+          "id": "wastong_gamit-17",
+          "number": 17,
+          "question": "Masaya sila ________ napakaraming pagsubok ang dumarating sa kanilang pamilya.",
+          "options": [
+            {
+              "key": "a",
+              "text": "sapagkat"
+            },
+            {
+              "key": "b",
+              "text": "marahil"
+            },
+            {
+              "key": "c",
+              "text": "kahit"
+            },
+            {
+              "key": "d",
+              "text": "kung"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "kahit"
+        },
+        {
+          "id": "wastong_gamit-18",
+          "number": 18,
+          "question": "________ pagod na pagod na sa biyahe si Rey ay nagawa pa rin niya ang mag-aral.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Bagaman"
+            },
+            {
+              "key": "b",
+              "text": "Maliban"
+            },
+            {
+              "key": "c",
+              "text": "Samakatwid"
+            },
+            {
+              "key": "d",
+              "text": "Maging"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Bagaman"
+        },
+        {
+          "id": "wastong_gamit-19",
+          "number": 19,
+          "question": "Patuloy tayong maghahalinhinan sa pagroronda ________ di pa nahuhuli ang magnanakaw.",
+          "options": [
+            {
+              "key": "a",
+              "text": "samantala"
+            },
+            {
+              "key": "b",
+              "text": "hanggang"
+            },
+            {
+              "key": "c",
+              "text": "palibhasa"
+            },
+            {
+              "key": "d",
+              "text": "bagaman"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "hanggang"
+        },
+        {
+          "id": "wastong_gamit-20",
+          "number": 20,
+          "question": "Nagtatalon sa tuwa si Regina ________ mapanalunan ang patimpalak sa pagsusulat ng maikling kuwento.",
+          "options": [
+            {
+              "key": "a",
+              "text": "subalit"
+            },
+            {
+              "key": "b",
+              "text": "disin sana’y"
+            },
+            {
+              "key": "c",
+              "text": "nang"
+            },
+            {
+              "key": "d",
+              "text": "ng"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "nang"
+        },
+        {
+          "id": "wastong_gamit-21",
+          "number": 21,
+          "question": "Hindi maaaring ibilanggo ang sino man dahil ________ kanyang pagkakautang.",
+          "options": [
+            {
+              "key": "a",
+              "text": "na"
+            },
+            {
+              "key": "b",
+              "text": "ng"
+            },
+            {
+              "key": "c",
+              "text": "nang"
+            },
+            {
+              "key": "d",
+              "text": "sa"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "sa"
+        },
+        {
+          "id": "wastong_gamit-22",
+          "number": 22,
+          "question": "Nagpapatugtog sila ________ awiting Pilipino.",
+          "options": [
+            {
+              "key": "a",
+              "text": "sa"
+            },
+            {
+              "key": "b",
+              "text": "nang"
+            },
+            {
+              "key": "c",
+              "text": "ng"
+            },
+            {
+              "key": "d",
+              "text": "na"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "ng"
+        },
+        {
+          "id": "wastong_gamit-23",
+          "number": 23,
+          "question": "Ang ________ ng mga mamamayan na huwag munang magtaas ng presyo ng langis ay pinag-aaralan ng kinauukulan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "usapin"
+            },
+            {
+              "key": "b",
+              "text": "pakiusapan"
+            },
+            {
+              "key": "c",
+              "text": "ipakiusap"
+            },
+            {
+              "key": "d",
+              "text": "pakiusap"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "pakiusap"
+        },
+        {
+          "id": "wastong_gamit-24",
+          "number": 24,
+          "question": "Hindi ________ nabibigyang lunas ang sakit na AIDS sa ngayon.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pa"
+            },
+            {
+              "key": "b",
+              "text": "na"
+            },
+            {
+              "key": "c",
+              "text": "sa"
+            },
+            {
+              "key": "d",
+              "text": "ka"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "pa"
+        },
+        {
+          "id": "wastong_gamit-25",
+          "number": 25,
+          "question": "________ bang suliranin na hindi kayang lutasin?",
+          "options": [
+            {
+              "key": "a",
+              "text": "May"
+            },
+            {
+              "key": "b",
+              "text": "Mayroon"
+            },
+            {
+              "key": "c",
+              "text": "Sino"
+            },
+            {
+              "key": "d",
+              "text": "Anong"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Mayroon"
+        },
+        {
+          "id": "wastong_gamit-26",
+          "number": 26,
+          "question": "________ patimpalak sa Balagtasan na gaganapin sa plasa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "May"
+            },
+            {
+              "key": "b",
+              "text": "Mayroon"
+            },
+            {
+              "key": "c",
+              "text": "Anong"
+            },
+            {
+              "key": "d",
+              "text": "Bakit"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "May"
+        },
+        {
+          "id": "wastong_gamit-27",
+          "number": 27,
+          "question": "________ ba nagkaroon ng isang bulkan?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Sino"
+            },
+            {
+              "key": "b",
+              "text": "Alin"
+            },
+            {
+              "key": "c",
+              "text": "Ano"
+            },
+            {
+              "key": "d",
+              "text": "Paano"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Paano"
+        },
+        {
+          "id": "wastong_gamit-28",
+          "number": 28,
+          "question": "________ natin ang ating kapwang nangangailangan ng tulong.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Abutan"
+            },
+            {
+              "key": "b",
+              "text": "Kunin"
+            },
+            {
+              "key": "c",
+              "text": "Abutin"
+            },
+            {
+              "key": "d",
+              "text": "Kunan"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Abutan"
+        },
+        {
+          "id": "wastong_gamit-29",
+          "number": 29,
+          "question": "Huwag mong ________ ang sino mang nasa kapangyarihan kung nais mo lamang makakuha ng pabor.",
+          "options": [
+            {
+              "key": "a",
+              "text": "abutin"
+            },
+            {
+              "key": "b",
+              "text": "abutan"
+            },
+            {
+              "key": "c",
+              "text": "kunin"
+            },
+            {
+              "key": "d",
+              "text": "kunan"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "abutan"
+        },
+        {
+          "id": "wastong_gamit-30",
+          "number": 30,
+          "question": "________ mo ang mabibigat na dalahin ng Inay.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Abutan"
+            },
+            {
+              "key": "b",
+              "text": "Tanawin"
+            },
+            {
+              "key": "c",
+              "text": "Kunin"
+            },
+            {
+              "key": "d",
+              "text": "Kunan"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Kunin"
+        }
+      ]
+    },
+    {
+      "id": "pagkilala_sa_mali",
+      "category": "Filipino",
+      "name": "Pagkilala sa Mali",
+      "directions": "Hanapin ang salita o grupo ng mga salitang may salungguhit na di wasto ang gamit. Kung walang mali, piliin ang titik e.",
+      "question_count": 25,
+      "questions": [
+        {
+          "id": "pagkilala_sa_mali-1",
+          "number": 1,
+          "question": "Ang walang kamatayang Mi Ultimo Adios ay sinulat ng Rizal sa Fort Santiago.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "d",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-2",
+          "number": 2,
+          "question": "Si Teodora Alonzo at Francisco Mercado ang mga magulang ni Jose Rizal.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "a",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-3",
+          "number": 3,
+          "question": "Hindi dapat lumikha nang buwis na hindi makakayang bayaran ng kahit sino.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-4",
+          "number": 4,
+          "question": "Iniisip rin ng ating pamahalaan ang kapakanan ng mga maralita. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "a",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-5",
+          "number": 5,
+          "question": "Mainam sa lahat ng paraan ng pag-aaral ang magbalik-aral ng mga aralin bago pa man dumating ang mga pagsusulit sa paaralan. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "a",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-6",
+          "number": 6,
+          "question": "Ang mga payo kung binitawan ay dapat mong pakinggan. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-7",
+          "number": 7,
+          "question": "Mag-aral ng mabuti upang hindi masayang ang iyong pera at panahon. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-8",
+          "number": 8,
+          "question": "Tunay nga na masipag at maalahanin ang panganay na si Rochell. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "c",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-9",
+          "number": 9,
+          "question": "Hindi lamang sipag kundi tiyaga din ang kinakailangan upang magtagumpay sa isang negosyo. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-10",
+          "number": 10,
+          "question": "Upang maiwasan ang pagkasira ng ngipin, ipinapayo ng mga dentista na nagsisipilyo matapos kumain. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "c",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-11",
+          "number": 11,
+          "question": "Haluin mo ang sopas ng iba’t ibang gulay. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "a",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-12",
+          "number": 12,
+          "question": "Kundi ka kikilos at di gagawin ang iyong proyekto ay wala kang mapapala.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "a",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-13",
+          "number": 13,
+          "question": "Alam mo ba na mayroon proyekto ang CHED na tinaguriang “Study Now, Pay Later”? Walang Mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-14",
+          "number": 14,
+          "question": "Nagtutulungan ang mga ninuno nating Ifugao kaya nayari ang hagdan-hagdang taniman ng palay. Walang mali",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "a",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-15",
+          "number": 15,
+          "question": "Ginigising lamang daw ng Maykapal ang mga taong nakalilimot sa Kanya sapagkat nagkakaroon ng kalamidad. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "d",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-16",
+          "number": 16,
+          "question": "Maganda siya ngunit masungit kaya hindi siya popular sa mga kamag-aral.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "e",
+          "answer_text": "Walang mali",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-17",
+          "number": 17,
+          "question": "Upang umunlad ang bayan kailangan ang pagtutulungan nang lahat. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "d",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-18",
+          "number": 18,
+          "question": "Hindi nawawalan ng pag-asa ang mga mayroon matibay na paniniwala.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-19",
+          "number": 19,
+          "question": "Ipinakiusap mo ba na pinayagan kang gamitin ang kompyuter? Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-20",
+          "number": 20,
+          "question": "Hanapan mo ng sagot sa iyong katanungan ang iyong guro. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "e",
+          "answer_text": "Walang mali",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-21",
+          "number": 21,
+          "question": "Ayon sa mga dalubhasa, malaki raw ang naitutulong ng pag-eehersisyo ng pag- iwas sa pagkakaroon ng sakit sa puso. Walang mali.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "c",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-22",
+          "number": 22,
+          "question": "Dapat nating iiwasan ang labis na pagkain ng mga maaalat na pagkain.",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "b",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-23",
+          "number": 23,
+          "question": "Panatilihin nating laging malinis at malayo sa polusyon ang ating kapaligiran para na rin sa ating kalusugan. Walang mali",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "e",
+          "answer_text": "Walang mali",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-24",
+          "number": 24,
+          "question": "Laban sa batas ang smuggling dahil ito ay isang paraan ng pagsabotahe sa ekonomiya. Walang mali",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "a",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        },
+        {
+          "id": "pagkilala_sa_mali-25",
+          "number": 25,
+          "question": "Walang kabutihang naidudulot ang droga, bagkus ito pa nga ang nakasisira nang tahanan at lipunan. Walang mali. Pag-unawa sa Binasa",
+          "options": [
+            {
+              "key": "a",
+              "text": null
+            },
+            {
+              "key": "b",
+              "text": null
+            },
+            {
+              "key": "c",
+              "text": null
+            },
+            {
+              "key": "d",
+              "text": null
+            },
+            {
+              "key": "e",
+              "text": "Walang mali"
+            }
+          ],
+          "answer": "d",
+          "note": "underlined segments (choices a-d) are not preserved in text; refer to PDF"
+        }
+      ]
+    },
+    {
+      "id": "pag_unawa_sa_binasa",
+      "category": "Filipino",
+      "name": "Pag-unawa sa Binasa",
+      "directions": "Panuto: Basahing mabuti ang bawat pangungusap, talata, tula, sanaysay, at grapo. Piliin ang titik ng wastong sagot ayon sa iyong binasa. A. Sa Langit Kong Gusto",
+      "question_count": 30,
+      "questions": [
+        {
+          "id": "pag_unawa_sa_binasa-1",
+          "number": 1,
+          "question": "Ano ang nais mapuntahan ng manunula?",
+          "passage": "A. Sa Langit Kong Gusto\nni Czarmaine Feliciano\nGusto kong pamunta\nSa langit kong gusto\nna may mga Anghel\nna nanunuod sa akin\nsa langit kong gusto\nSa mga ibon na lumilipad\nkatulad nila gusto ko ring lumipad\nnang mataas na mataas sa langit\nsa langit kong gusto mapuntahan.\nKung mayroon lang isang hagdan patungo doon\nAakyat na ako agad doon\nDoon sa langit kong gustong mapuntahan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "ibon"
+            },
+            {
+              "key": "b",
+              "text": "langit"
+            },
+            {
+              "key": "c",
+              "text": "Anghel"
+            },
+            {
+              "key": "d",
+              "text": "hagdan"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "langit"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-2",
+          "number": 2,
+          "question": "Ano ang tayutay ng ginamit sa unang dalawang linya ng ikalawang saknong?",
+          "passage": "A. Sa Langit Kong Gusto\nni Czarmaine Feliciano\nGusto kong pamunta\nSa langit kong gusto\nna may mga Anghel\nna nanunuod sa akin\nsa langit kong gusto\nSa mga ibon na lumilipad\nkatulad nila gusto ko ring lumipad\nnang mataas na mataas sa langit\nsa langit kong gusto mapuntahan.\nKung mayroon lang isang hagdan patungo doon\nAakyat na ako agad doon\nDoon sa langit kong gustong mapuntahan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pagtutulad"
+            },
+            {
+              "key": "b",
+              "text": "pagwawangis"
+            },
+            {
+              "key": "c",
+              "text": "pagmamalabis"
+            },
+            {
+              "key": "d",
+              "text": "pagbibigay katauhan"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "pagtutulad"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-3",
+          "number": 3,
+          "question": "Sa anong saknong ipinahihiwatig ng manunula ang pangunahing kaisipan ng kanyang tula?",
+          "passage": "A. Sa Langit Kong Gusto\nni Czarmaine Feliciano\nGusto kong pamunta\nSa langit kong gusto\nna may mga Anghel\nna nanunuod sa akin\nsa langit kong gusto\nSa mga ibon na lumilipad\nkatulad nila gusto ko ring lumipad\nnang mataas na mataas sa langit\nsa langit kong gusto mapuntahan.\nKung mayroon lang isang hagdan patungo doon\nAakyat na ako agad doon\nDoon sa langit kong gustong mapuntahan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "unang saknong"
+            },
+            {
+              "key": "b",
+              "text": "ikalawang saknong"
+            },
+            {
+              "key": "c",
+              "text": "ikatlong saknong"
+            },
+            {
+              "key": "d",
+              "text": "walang pangunahing kaisipan"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "unang saknong"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-4",
+          "number": 4,
+          "question": "Aling sa mga sumusunod ang HINDI nagpapakita ng pagmamalasakit sa pamayanan?",
+          "passage": "B. Kabataan: Pag-asa ng Bayan\n“Ang kabataan ang pag-asa ng bayan.” Ito ang sinabi ni Dr. Jose Rizal, ang ating\npambansang bayani. Malaki ang pagtitiwala niya sa angking talino at kakayahan ng\nmga kabataan. Naniniwala siya na mahahango ang bansang Pilipinas sa tiyak na\nkasawian kung sila, ang mga kabataan, ang magkakaroon ng tunay na pag-ibig sa\nbayan.\nMaraming maitutulong ang mga kabataan sa pagpapaunlad ng bansa. Maaaring\nsimulan nila ang pagmamalasakit sa kani-kanilang mga pamayanan. Sa mga\nproyektong inilulunsad ng pamaghalaan, may mga gawaing pangkabataan katulad ng\npagpapaganda ng kapaligiran at paglilinis ng mga sari-sariling bakuran. Makatutulong\ndin ang mga kabataan sa pagpapanatili ng katahimikan at kapayapaan sa mga\npamayanan. Ngunit, bakit tila yata ang mga kabataang ito ang bibigo sa dakilang\npangarap ng yumaong bayani? Bakit tila nais nilang sikilin ang damdaming\nmakabayang siyang sandata sa pagtatanggol sa Inang Bayan?\nMula sa Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Pakikiisa sa mga proyekto ng pamayanan."
+            },
+            {
+              "key": "b",
+              "text": "Pagpapanatili ng kapayapaan at katahimikan."
+            },
+            {
+              "key": "c",
+              "text": "Paglilinis ng mga sari-sariling bakuran."
+            },
+            {
+              "key": "d",
+              "text": "Pakikiisa sa kapuwa kabataang may masamang bisyo."
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Pakikiisa sa kapuwa kabataang may masamang bisyo."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-5",
+          "number": 5,
+          "question": "Paano maiaahon ng kabataan ang bansang Pilipinas sa tiyak na kasawian?",
+          "passage": "B. Kabataan: Pag-asa ng Bayan\n“Ang kabataan ang pag-asa ng bayan.” Ito ang sinabi ni Dr. Jose Rizal, ang ating\npambansang bayani. Malaki ang pagtitiwala niya sa angking talino at kakayahan ng\nmga kabataan. Naniniwala siya na mahahango ang bansang Pilipinas sa tiyak na\nkasawian kung sila, ang mga kabataan, ang magkakaroon ng tunay na pag-ibig sa\nbayan.\nMaraming maitutulong ang mga kabataan sa pagpapaunlad ng bansa. Maaaring\nsimulan nila ang pagmamalasakit sa kani-kanilang mga pamayanan. Sa mga\nproyektong inilulunsad ng pamaghalaan, may mga gawaing pangkabataan katulad ng\npagpapaganda ng kapaligiran at paglilinis ng mga sari-sariling bakuran. Makatutulong\ndin ang mga kabataan sa pagpapanatili ng katahimikan at kapayapaan sa mga\npamayanan. Ngunit, bakit tila yata ang mga kabataang ito ang bibigo sa dakilang\npangarap ng yumaong bayani? Bakit tila nais nilang sikilin ang damdaming\nmakabayang siyang sandata sa pagtatanggol sa Inang Bayan?\nMula sa Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Sa pamamagitan ng pagkakaroon ng tunay na pag-ibig sa bayan."
+            },
+            {
+              "key": "b",
+              "text": "Sa pamamagitan ng pagtugon sa kani-kaniyang kagustuhan lamang."
+            },
+            {
+              "key": "c",
+              "text": "Parehong tama ang a at b"
+            },
+            {
+              "key": "d",
+              "text": "Walang tamang sagot."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Sa pamamagitan ng pagkakaroon ng tunay na pag-ibig sa bayan."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-6",
+          "number": 6,
+          "question": "Ano ang nadarama ng may-akda sa kabataan na kanyang ipinahiwatig sa dalawang huling pangungusap ng talata?",
+          "passage": "B. Kabataan: Pag-asa ng Bayan\n“Ang kabataan ang pag-asa ng bayan.” Ito ang sinabi ni Dr. Jose Rizal, ang ating\npambansang bayani. Malaki ang pagtitiwala niya sa angking talino at kakayahan ng\nmga kabataan. Naniniwala siya na mahahango ang bansang Pilipinas sa tiyak na\nkasawian kung sila, ang mga kabataan, ang magkakaroon ng tunay na pag-ibig sa\nbayan.\nMaraming maitutulong ang mga kabataan sa pagpapaunlad ng bansa. Maaaring\nsimulan nila ang pagmamalasakit sa kani-kanilang mga pamayanan. Sa mga\nproyektong inilulunsad ng pamaghalaan, may mga gawaing pangkabataan katulad ng\npagpapaganda ng kapaligiran at paglilinis ng mga sari-sariling bakuran. Makatutulong\ndin ang mga kabataan sa pagpapanatili ng katahimikan at kapayapaan sa mga\npamayanan. Ngunit, bakit tila yata ang mga kabataang ito ang bibigo sa dakilang\npangarap ng yumaong bayani? Bakit tila nais nilang sikilin ang damdaming\nmakabayang siyang sandata sa pagtatanggol sa Inang Bayan?\nMula sa Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Tuwa sapagkat tunay na pag-asa ng bayan ang kabataan."
+            },
+            {
+              "key": "b",
+              "text": "Lungkot dahil tila bibiguin ng mga kabataan ang paniniwala ni Rizal."
+            },
+            {
+              "key": "c",
+              "text": "Galak dahil patuloy ang kabataan sa pagpapaunlad ng bayan."
+            },
+            {
+              "key": "d",
+              "text": "Dalamhati sapagkat naaalala niya ang kabataan ni Rizal."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Lungkot dahil tila bibiguin ng mga kabataan ang paniniwala ni Rizal."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-7",
+          "number": 7,
+          "question": "“Ang kabataan ay pag-asa ng bayan.” Ano ang implikasyon ng pangungusap na ito?",
+          "passage": "B. Kabataan: Pag-asa ng Bayan\n“Ang kabataan ang pag-asa ng bayan.” Ito ang sinabi ni Dr. Jose Rizal, ang ating\npambansang bayani. Malaki ang pagtitiwala niya sa angking talino at kakayahan ng\nmga kabataan. Naniniwala siya na mahahango ang bansang Pilipinas sa tiyak na\nkasawian kung sila, ang mga kabataan, ang magkakaroon ng tunay na pag-ibig sa\nbayan.\nMaraming maitutulong ang mga kabataan sa pagpapaunlad ng bansa. Maaaring\nsimulan nila ang pagmamalasakit sa kani-kanilang mga pamayanan. Sa mga\nproyektong inilulunsad ng pamaghalaan, may mga gawaing pangkabataan katulad ng\npagpapaganda ng kapaligiran at paglilinis ng mga sari-sariling bakuran. Makatutulong\ndin ang mga kabataan sa pagpapanatili ng katahimikan at kapayapaan sa mga\npamayanan. Ngunit, bakit tila yata ang mga kabataang ito ang bibigo sa dakilang\npangarap ng yumaong bayani? Bakit tila nais nilang sikilin ang damdaming\nmakabayang siyang sandata sa pagtatanggol sa Inang Bayan?\nMula sa Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Masagana ang bayan"
+            },
+            {
+              "key": "b",
+              "text": "Mapayapa ang bayan"
+            },
+            {
+              "key": "c",
+              "text": "May suliranin ang bayan"
+            },
+            {
+              "key": "d",
+              "text": "May bayani ang bayan"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "May suliranin ang bayan"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-8",
+          "number": 8,
+          "question": "Ano ang Ixora coccinea L.?",
+          "passage": "C. Ang pang-agham na pangalan ay Ixora coccinea L. at karaniwang tinatawag na\nhalamang Santan sa ating bayan.Ito ay isa sa mga kaaya-ayang halaman na\npampalamuti. Maraming klase ang Santan – may puti, pula, dilaw at malaginto. Iba-iba\nrin ang laki – may mahaba pero makitid ang mga dahon, samantalang ang iba ay mas\nmalapad at maikli. May mabangong Santan at mayroon ding walang amoy. Ang Ixora\ncoccinea L. ay galing sa India. Mahalaga ito dahil sa maaaring ipanggamot. Ang\nsolusyon mula sa pinakulong ugat ay maaaring purga. Maaaring ipainom sa\nnagduduwal at sa sinisinok. Nakatutulong ito sa pagkakaroon ng gana sa pagkain.\nMabuti rin ito sa di dinadatnan at nagtatae. Para sa makating lalamunan, maaaring\nipangmumog ito. Iyong binayong sariwang sanga nito ay mainam na gamot at pantapal\nsa pilay, mga maysakit na bahagi ng katawan, eksema at sa mga galis. Mabisang\ngamot ang Santan.\nHango sa: Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Pangalan punungkahoy."
+            },
+            {
+              "key": "b",
+              "text": "Pang-agham na pangalan ng Santan."
+            },
+            {
+              "key": "c",
+              "text": "Pang-agham na pangalan ng prutas."
+            },
+            {
+              "key": "d",
+              "text": "Pang-agham ng pangalanng mga halamang namumulaklak."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Pang-agham na pangalan ng Santan."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-9",
+          "number": 9,
+          "question": "Alin sa mga sumusunod na pangungusap ang wasto?",
+          "passage": "C. Ang pang-agham na pangalan ay Ixora coccinea L. at karaniwang tinatawag na\nhalamang Santan sa ating bayan.Ito ay isa sa mga kaaya-ayang halaman na\npampalamuti. Maraming klase ang Santan – may puti, pula, dilaw at malaginto. Iba-iba\nrin ang laki – may mahaba pero makitid ang mga dahon, samantalang ang iba ay mas\nmalapad at maikli. May mabangong Santan at mayroon ding walang amoy. Ang Ixora\ncoccinea L. ay galing sa India. Mahalaga ito dahil sa maaaring ipanggamot. Ang\nsolusyon mula sa pinakulong ugat ay maaaring purga. Maaaring ipainom sa\nnagduduwal at sa sinisinok. Nakatutulong ito sa pagkakaroon ng gana sa pagkain.\nMabuti rin ito sa di dinadatnan at nagtatae. Para sa makating lalamunan, maaaring\nipangmumog ito. Iyong binayong sariwang sanga nito ay mainam na gamot at pantapal\nsa pilay, mga maysakit na bahagi ng katawan, eksema at sa mga galis. Mabisang\ngamot ang Santan.\nHango sa: Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ang lahat ng Santan ay mabango."
+            },
+            {
+              "key": "b",
+              "text": "Ang Santang pula ay galing sa Tsina."
+            },
+            {
+              "key": "c",
+              "text": "Maraming klase ang Santan ngunit walang malaginto ang kulay."
+            },
+            {
+              "key": "d",
+              "text": "Maaaring ipanggamot ang Santan."
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Maaaring ipanggamot ang Santan."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-10",
+          "number": 10,
+          "question": "Anong bahagi ng Santan ang may pinakamaraming gamit bilang gamot.",
+          "passage": "C. Ang pang-agham na pangalan ay Ixora coccinea L. at karaniwang tinatawag na\nhalamang Santan sa ating bayan.Ito ay isa sa mga kaaya-ayang halaman na\npampalamuti. Maraming klase ang Santan – may puti, pula, dilaw at malaginto. Iba-iba\nrin ang laki – may mahaba pero makitid ang mga dahon, samantalang ang iba ay mas\nmalapad at maikli. May mabangong Santan at mayroon ding walang amoy. Ang Ixora\ncoccinea L. ay galing sa India. Mahalaga ito dahil sa maaaring ipanggamot. Ang\nsolusyon mula sa pinakulong ugat ay maaaring purga. Maaaring ipainom sa\nnagduduwal at sa sinisinok. Nakatutulong ito sa pagkakaroon ng gana sa pagkain.\nMabuti rin ito sa di dinadatnan at nagtatae. Para sa makating lalamunan, maaaring\nipangmumog ito. Iyong binayong sariwang sanga nito ay mainam na gamot at pantapal\nsa pilay, mga maysakit na bahagi ng katawan, eksema at sa mga galis. Mabisang\ngamot ang Santan.\nHango sa: Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "dahon"
+            },
+            {
+              "key": "b",
+              "text": "bulaklak"
+            },
+            {
+              "key": "c",
+              "text": "ugat"
+            },
+            {
+              "key": "d",
+              "text": "sanga"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "ugat"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-11",
+          "number": 11,
+          "question": "Ano ang pinakamabuting pamagat para sa talatang nabasa?",
+          "passage": "C. Ang pang-agham na pangalan ay Ixora coccinea L. at karaniwang tinatawag na\nhalamang Santan sa ating bayan.Ito ay isa sa mga kaaya-ayang halaman na\npampalamuti. Maraming klase ang Santan – may puti, pula, dilaw at malaginto. Iba-iba\nrin ang laki – may mahaba pero makitid ang mga dahon, samantalang ang iba ay mas\nmalapad at maikli. May mabangong Santan at mayroon ding walang amoy. Ang Ixora\ncoccinea L. ay galing sa India. Mahalaga ito dahil sa maaaring ipanggamot. Ang\nsolusyon mula sa pinakulong ugat ay maaaring purga. Maaaring ipainom sa\nnagduduwal at sa sinisinok. Nakatutulong ito sa pagkakaroon ng gana sa pagkain.\nMabuti rin ito sa di dinadatnan at nagtatae. Para sa makating lalamunan, maaaring\nipangmumog ito. Iyong binayong sariwang sanga nito ay mainam na gamot at pantapal\nsa pilay, mga maysakit na bahagi ng katawan, eksema at sa mga galis. Mabisang\ngamot ang Santan.\nHango sa: Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ang Ugat ng Santan"
+            },
+            {
+              "key": "b",
+              "text": "Ang Santan"
+            },
+            {
+              "key": "c",
+              "text": "Ang Santan Bilang Gamot"
+            },
+            {
+              "key": "d",
+              "text": "Mga Uri ng Santan"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Ang Santan"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-12",
+          "number": 12,
+          "question": "Alin sa mga sumusunod ang wastong gamit ng solusyon mula sa pinakulong ugat ng santan?",
+          "passage": "C. Ang pang-agham na pangalan ay Ixora coccinea L. at karaniwang tinatawag na\nhalamang Santan sa ating bayan.Ito ay isa sa mga kaaya-ayang halaman na\npampalamuti. Maraming klase ang Santan – may puti, pula, dilaw at malaginto. Iba-iba\nrin ang laki – may mahaba pero makitid ang mga dahon, samantalang ang iba ay mas\nmalapad at maikli. May mabangong Santan at mayroon ding walang amoy. Ang Ixora\ncoccinea L. ay galing sa India. Mahalaga ito dahil sa maaaring ipanggamot. Ang\nsolusyon mula sa pinakulong ugat ay maaaring purga. Maaaring ipainom sa\nnagduduwal at sa sinisinok. Nakatutulong ito sa pagkakaroon ng gana sa pagkain.\nMabuti rin ito sa di dinadatnan at nagtatae. Para sa makating lalamunan, maaaring\nipangmumog ito. Iyong binayong sariwang sanga nito ay mainam na gamot at pantapal\nsa pilay, mga maysakit na bahagi ng katawan, eksema at sa mga galis. Mabisang\ngamot ang Santan.\nHango sa: Likha IV nina Samonte, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Maaaring pampagana ng pagkain"
+            },
+            {
+              "key": "b",
+              "text": "Maaaring pantapal sa pilay"
+            },
+            {
+              "key": "c",
+              "text": "Maaaring gawing palamuti"
+            },
+            {
+              "key": "d",
+              "text": "Maaaring pang-alis ng eksema at galis"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Maaaring pampagana ng pagkain"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-13",
+          "number": 13,
+          "question": "Ano ang pangunahing diwa ng seleksiyon?",
+          "passage": "D. Bakit mahalaga ang pagbabasa sa ating buhay? Sapagkat naging malawak at\nmasalimuot ang buhay ng tao sa daigdig, kasama na ang mga kaugalian ng mga tao.\nSa pagbabasa, naririto ang kasanayan sa pagkilala ng mga salita, pag-unawa,\npaggamit ng sanggunian, mga kasanayan sa pag-iisip, panlasa, saloobin, at kawilihan.\nDagdag pa rito ang pagpasok ng mga bagong kaalaman, mga bagong tuklas sa\nlarangan ng siyensiya, teknolohiya, sining. Ang mga balitang pandaigdig at babasahing\ninilalathala taun-taon, ang mga mahuhusay na aklat sa aklatan na di pa man nalalaman\no nababasa ng isang tao sa buong buhay niya ay ilan sa mga bagay-bagay na\nmaaaring bigyang pansin sa pagbabasa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ang bilang ng nababasa"
+            },
+            {
+              "key": "b",
+              "text": "Ang kahalagahan ng aklat"
+            },
+            {
+              "key": "c",
+              "text": "Ang kahalagahan ng pagbabasa"
+            },
+            {
+              "key": "d",
+              "text": "Ang hirap ng pagbabasa"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Ang kahalagahan ng pagbabasa"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-14",
+          "number": 14,
+          "question": "Bakit mahalaga ang pagbabasa?",
+          "passage": "D. Bakit mahalaga ang pagbabasa sa ating buhay? Sapagkat naging malawak at\nmasalimuot ang buhay ng tao sa daigdig, kasama na ang mga kaugalian ng mga tao.\nSa pagbabasa, naririto ang kasanayan sa pagkilala ng mga salita, pag-unawa,\npaggamit ng sanggunian, mga kasanayan sa pag-iisip, panlasa, saloobin, at kawilihan.\nDagdag pa rito ang pagpasok ng mga bagong kaalaman, mga bagong tuklas sa\nlarangan ng siyensiya, teknolohiya, sining. Ang mga balitang pandaigdig at babasahing\ninilalathala taun-taon, ang mga mahuhusay na aklat sa aklatan na di pa man nalalaman\no nababasa ng isang tao sa buong buhay niya ay ilan sa mga bagay-bagay na\nmaaaring bigyang pansin sa pagbabasa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Sapagkat sa halos lahat ng gawain, kasangkot ang pagbabasa."
+            },
+            {
+              "key": "b",
+              "text": "Sapagkat mararating ang daigdig ng pangarap sa pagbabasa."
+            },
+            {
+              "key": "c",
+              "text": "Lahat ng nabanaggit sa tama."
+            },
+            {
+              "key": "d",
+              "text": "Walang tamang sagot."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Lahat ng nabanaggit sa tama."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-15",
+          "number": 15,
+          "question": "Ano ang pinakamainam na pamagat ng nabasa?",
+          "passage": "D. Bakit mahalaga ang pagbabasa sa ating buhay? Sapagkat naging malawak at\nmasalimuot ang buhay ng tao sa daigdig, kasama na ang mga kaugalian ng mga tao.\nSa pagbabasa, naririto ang kasanayan sa pagkilala ng mga salita, pag-unawa,\npaggamit ng sanggunian, mga kasanayan sa pag-iisip, panlasa, saloobin, at kawilihan.\nDagdag pa rito ang pagpasok ng mga bagong kaalaman, mga bagong tuklas sa\nlarangan ng siyensiya, teknolohiya, sining. Ang mga balitang pandaigdig at babasahing\ninilalathala taun-taon, ang mga mahuhusay na aklat sa aklatan na di pa man nalalaman\no nababasa ng isang tao sa buong buhay niya ay ilan sa mga bagay-bagay na\nmaaaring bigyang pansin sa pagbabasa.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ang Kahalagahan ng Pagbabasa"
+            },
+            {
+              "key": "b",
+              "text": "Pagbabasa at Kaunlaran"
+            },
+            {
+              "key": "c",
+              "text": "Pagbabasa ng mga Pilipino"
+            },
+            {
+              "key": "d",
+              "text": "Sa Makulay na Mundo ng Pagbabasa"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Ang Kahalagahan ng Pagbabasa"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-16",
+          "number": 16,
+          "question": "Ano ang paksang pangungusap sa talata?",
+          "passage": "E. Nakikita sa mata ang iba’t ibang emosyon. Tuwa, lungkot, pighati, pangamba, pag-\nasam, pakiusap. Ito ang salamin ng kaluluwa ng tao. Sa pamamagitan nito,\nnakapagpapahayag siya ng pag-ibig, nakakakuha ng pansin, nanunukso, at maaaring\nmagbadya ng galit. Noon, ang mata ay isa lang bahagi ng mukha. Ngayon, ito’y\npinalalamutian sa kasayahan, at ginagamit sa kasamaan. Ngunit maaari rin itong\npuhunan sa pagandahan.Tunay ngang maraming gamit ang matang minumuta,\nkinakapitan ng sakit, lumalabo at ginagamit sa pagtingin.\nHango sa: Gamiting Pilipino nina Buensuceso, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Nakikita sa mata ang iba’t ibang emosyon."
+            },
+            {
+              "key": "b",
+              "text": "Ito ang salamin sa kaluluwa ng tao."
+            },
+            {
+              "key": "c",
+              "text": "Sa pamamagitan nito, nakapagpapahayag siya ng damdamin."
+            },
+            {
+              "key": "d",
+              "text": "Tunay ngang maraming gamit ang matang minumuta, kinakapitan ng sakit, lumalabo at ginagamit sa pagtingin."
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Tunay ngang maraming gamit ang matang minumuta, kinakapitan ng sakit, lumalabo at ginagamit sa pagtingin."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-17",
+          "number": 17,
+          "question": "Ano ang pinakamainam sa pamagat sa talata?",
+          "passage": "E. Nakikita sa mata ang iba’t ibang emosyon. Tuwa, lungkot, pighati, pangamba, pag-\nasam, pakiusap. Ito ang salamin ng kaluluwa ng tao. Sa pamamagitan nito,\nnakapagpapahayag siya ng pag-ibig, nakakakuha ng pansin, nanunukso, at maaaring\nmagbadya ng galit. Noon, ang mata ay isa lang bahagi ng mukha. Ngayon, ito’y\npinalalamutian sa kasayahan, at ginagamit sa kasamaan. Ngunit maaari rin itong\npuhunan sa pagandahan.Tunay ngang maraming gamit ang matang minumuta,\nkinakapitan ng sakit, lumalabo at ginagamit sa pagtingin.\nHango sa: Gamiting Pilipino nina Buensuceso, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ang Mga Emosyon sa Mata"
+            },
+            {
+              "key": "b",
+              "text": "Mata: Bahagi ng Mukha"
+            },
+            {
+              "key": "c",
+              "text": "Ang Iba’t Ibang Gamit ng Mata"
+            },
+            {
+              "key": "d",
+              "text": "Mga Sakit sa Mata"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Ang Iba’t Ibang Gamit ng Mata"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-18",
+          "number": 18,
+          "question": "Alin sa mga sumusunod ang hindi nabanggit na nagagawa ng mata?",
+          "passage": "E. Nakikita sa mata ang iba’t ibang emosyon. Tuwa, lungkot, pighati, pangamba, pag-\nasam, pakiusap. Ito ang salamin ng kaluluwa ng tao. Sa pamamagitan nito,\nnakapagpapahayag siya ng pag-ibig, nakakakuha ng pansin, nanunukso, at maaaring\nmagbadya ng galit. Noon, ang mata ay isa lang bahagi ng mukha. Ngayon, ito’y\npinalalamutian sa kasayahan, at ginagamit sa kasamaan. Ngunit maaari rin itong\npuhunan sa pagandahan.Tunay ngang maraming gamit ang matang minumuta,\nkinakapitan ng sakit, lumalabo at ginagamit sa pagtingin.\nHango sa: Gamiting Pilipino nina Buensuceso, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "nagpapahiwatig ng emosyon"
+            },
+            {
+              "key": "b",
+              "text": "nagpapakita ng matinding karamdaman"
+            },
+            {
+              "key": "c",
+              "text": "nagbabadya ng galit"
+            },
+            {
+              "key": "d",
+              "text": "nanunukso"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "nagpapakita ng matinding karamdaman"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-19",
+          "number": 19,
+          "question": "Paano nagbago ang pananaw ng tao hinggil sa mga mata?",
+          "passage": "E. Nakikita sa mata ang iba’t ibang emosyon. Tuwa, lungkot, pighati, pangamba, pag-\nasam, pakiusap. Ito ang salamin ng kaluluwa ng tao. Sa pamamagitan nito,\nnakapagpapahayag siya ng pag-ibig, nakakakuha ng pansin, nanunukso, at maaaring\nmagbadya ng galit. Noon, ang mata ay isa lang bahagi ng mukha. Ngayon, ito’y\npinalalamutian sa kasayahan, at ginagamit sa kasamaan. Ngunit maaari rin itong\npuhunan sa pagandahan.Tunay ngang maraming gamit ang matang minumuta,\nkinakapitan ng sakit, lumalabo at ginagamit sa pagtingin.\nHango sa: Gamiting Pilipino nina Buensuceso, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Natutuhan na nilang gamitin ang mata upang magpahiwatig ng iba’t ibang emosyon."
+            },
+            {
+              "key": "b",
+              "text": "Natuklasan nila na ang mata ay nakikitaan ng sakit."
+            },
+            {
+              "key": "c",
+              "text": "Natuklasan nila na ang mata ay maaaring mabulag."
+            },
+            {
+              "key": "d",
+              "text": "Natutuhan nila na may palamuti para sa mga mata."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Natutuhan na nilang gamitin ang mata upang magpahiwatig ng iba’t ibang emosyon."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-20",
+          "number": 20,
+          "question": "Anong parirala ang nagpapahiwatig ng paggamit ng mata sa kasamaan?",
+          "passage": "E. Nakikita sa mata ang iba’t ibang emosyon. Tuwa, lungkot, pighati, pangamba, pag-\nasam, pakiusap. Ito ang salamin ng kaluluwa ng tao. Sa pamamagitan nito,\nnakapagpapahayag siya ng pag-ibig, nakakakuha ng pansin, nanunukso, at maaaring\nmagbadya ng galit. Noon, ang mata ay isa lang bahagi ng mukha. Ngayon, ito’y\npinalalamutian sa kasayahan, at ginagamit sa kasamaan. Ngunit maaari rin itong\npuhunan sa pagandahan.Tunay ngang maraming gamit ang matang minumuta,\nkinakapitan ng sakit, lumalabo at ginagamit sa pagtingin.\nHango sa: Gamiting Pilipino nina Buensuceso, et al.",
+          "options": [
+            {
+              "key": "a",
+              "text": "mapungay na mata"
+            },
+            {
+              "key": "b",
+              "text": "matang nagsusumamo"
+            },
+            {
+              "key": "c",
+              "text": "nanlilisik na mata"
+            },
+            {
+              "key": "d",
+              "text": "matambaka"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "nanlilisik na mata"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-21",
+          "number": 21,
+          "question": "Tungkol saan ang grapong nabasa?",
+          "passage": "F. Makikita sa ibaba ang tsart ng Minimum Wage sa Maynila mula 1990 hanggang\n1999. Ang mga tuldok ay kumakatawan sa pasahod sa iba’t ibang taon.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Pinakamataas na pasahod sa Maynila sa iba’t ibang taon."
+            },
+            {
+              "key": "b",
+              "text": "Pinakamababang pasahod sa Maynila sa iba’t ibang taon."
+            },
+            {
+              "key": "c",
+              "text": "Regional Triparite Wages and Productivity Board"
+            },
+            {
+              "key": "d",
+              "text": "Bilang ng mga mangagawang napasahod sa iba’t ibang taon."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Pinakamababang pasahod sa Maynila sa iba’t ibang taon."
+        },
+        {
+          "id": "pag_unawa_sa_binasa-22",
+          "number": 22,
+          "question": "Gaano kalaki ang pagkakaiba ng pasahod noong Oktubre 1999 at noong Mayo 1996?",
+          "passage": "F. Makikita sa ibaba ang tsart ng Minimum Wage sa Maynila mula 1990 hanggang\n1999. Ang mga tuldok ay kumakatawan sa pasahod sa iba’t ibang taon.",
+          "options": [
+            {
+              "key": "a",
+              "text": "₱78.50"
+            },
+            {
+              "key": "b",
+              "text": "₱38.50"
+            },
+            {
+              "key": "c",
+              "text": "₱388.50"
+            },
+            {
+              "key": "d",
+              "text": "₱58.50"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "₱58.50"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-23",
+          "number": 23,
+          "question": "Kailan nagkaroon ng pinakamababang pagtaas ng pasahod ayon sa grapo?",
+          "passage": "F. Makikita sa ibaba ang tsart ng Minimum Wage sa Maynila mula 1990 hanggang\n1999. Ang mga tuldok ay kumakatawan sa pasahod sa iba’t ibang taon.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Nobyembre 1990"
+            },
+            {
+              "key": "b",
+              "text": "Enero 1991"
+            },
+            {
+              "key": "c",
+              "text": "Disyembre 1993"
+            },
+            {
+              "key": "d",
+              "text": "Abril 1994"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Abril 1994"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-24",
+          "number": 24,
+          "question": "Gaano katagal naging pinakamababang pasahod ng mga empleyado ang halagang ₱145?",
+          "passage": "F. Makikita sa ibaba ang tsart ng Minimum Wage sa Maynila mula 1990 hanggang\n1999. Ang mga tuldok ay kumakatawan sa pasahod sa iba’t ibang taon.",
+          "options": [
+            {
+              "key": "a",
+              "text": "dalawang buwan"
+            },
+            {
+              "key": "b",
+              "text": "dalawampu’t apat na buwan"
+            },
+            {
+              "key": "c",
+              "text": "limang buwan"
+            },
+            {
+              "key": "d",
+              "text": "dalawampu’t limang buwan"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "dalawampu’t limang buwan"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-25",
+          "number": 25,
+          "question": "Ilang beses nagkaroon ng dalawampung piso (₱20) pagtaas sa minimum wage?",
+          "passage": "F. Makikita sa ibaba ang tsart ng Minimum Wage sa Maynila mula 1990 hanggang\n1999. Ang mga tuldok ay kumakatawan sa pasahod sa iba’t ibang taon.",
+          "options": [
+            {
+              "key": "a",
+              "text": "isa"
+            },
+            {
+              "key": "b",
+              "text": "dalawa"
+            },
+            {
+              "key": "c",
+              "text": "tatlo"
+            },
+            {
+              "key": "d",
+              "text": "wala"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "dalawa"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-26",
+          "number": 26,
+          "question": "Anong pamagat ang angkop sa tsart sa itaas?",
+          "passage": "G. (chart/figure in the PDF; not extractable as text)",
+          "options": [
+            {
+              "key": "a",
+              "text": "Badyet para sa Militar ng Iba’t Ibang Bansa"
+            },
+            {
+              "key": "b",
+              "text": "Kalagayang Pang-Ekonomiya"
+            },
+            {
+              "key": "c",
+              "text": "Badyet at Katayuang Pangmilitar ng mga Piling Bansa"
+            },
+            {
+              "key": "d",
+              "text": "Bilang ng mga Militar sa Iba’t Ibang Bansa"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Badyet at Katayuang Pangmilitar ng mga Piling Bansa"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-27",
+          "number": 27,
+          "question": "Anong bansa ang may pinakamataas na bilang ng tropa?",
+          "passage": "G. (chart/figure in the PDF; not extractable as text)",
+          "options": [
+            {
+              "key": "a",
+              "text": "Japan"
+            },
+            {
+              "key": "b",
+              "text": "South Korea"
+            },
+            {
+              "key": "c",
+              "text": "Brunei"
+            },
+            {
+              "key": "d",
+              "text": "Malaysia"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Malaysia"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-28",
+          "number": 28,
+          "question": "Anong bansa ang may inilalaang pinakamalaking porsiyento ng GDP para sa badyet militar?",
+          "passage": "G. (chart/figure in the PDF; not extractable as text)",
+          "options": [
+            {
+              "key": "a",
+              "text": "Japan"
+            },
+            {
+              "key": "b",
+              "text": "South Korea"
+            },
+            {
+              "key": "c",
+              "text": "Brunei"
+            },
+            {
+              "key": "d",
+              "text": "Malaysia"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Brunei"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-29",
+          "number": 29,
+          "question": "Anong bansa ang may pinakamalaking GDP?",
+          "passage": "G. (chart/figure in the PDF; not extractable as text)",
+          "options": [
+            {
+              "key": "a",
+              "text": "Japan"
+            },
+            {
+              "key": "b",
+              "text": "Brunei"
+            },
+            {
+              "key": "c",
+              "text": "Malaysia"
+            },
+            {
+              "key": "d",
+              "text": "South Korea"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Japan"
+        },
+        {
+          "id": "pag_unawa_sa_binasa-30",
+          "number": 30,
+          "question": "Ano ang maaaring dahilan kung bakit mababa lamang ang bilang ng katayuang pangmilitar ng Brunei?",
+          "passage": "G. (chart/figure in the PDF; not extractable as text)",
+          "options": [
+            {
+              "key": "a",
+              "text": "Kulang sila sa pananalapi"
+            },
+            {
+              "key": "b",
+              "text": "Maliit na bansa lamang ang Brunei"
+            },
+            {
+              "key": "c",
+              "text": "Hindi nila kailangan ang militar"
+            },
+            {
+              "key": "d",
+              "text": "Walang nais magsundalo sa kanilang mga tao."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Maliit na bansa lamang ang Brunei"
+        }
+      ]
+    },
+    {
+      "id": "pagtatalata",
+      "category": "Filipino",
+      "name": "Pagtatalata",
+      "directions": "Pagtatalata Panuto: Basahing mabuti ang bawat pangungusap at sagutin ang mga tanong na sumusunod dito.",
+      "question_count": 10,
+      "questions": [
+        {
+          "id": "pagtatalata-1",
+          "number": 1,
+          "question": "Ano ang wastong ayos ng mga pangungusap na makabubuo ng isang makabuluhang talata?",
+          "passage": "I.\nA. Ayon batas na ito, pagbabayarin ang mga may-ari ng kumpanya at sasakyan na\nnakapipinsala sa kalidad ng hangin dahil sa mga usok na binubuga nito.\nB. Ang “Clean Air Act” ay isang batas na naglalayong mapanatiling malinis ang ating\nhangin.\nC. Sa ibang banda naman, ang mga kumpanyang magkakabit o maglalagay ng mga\ngamit laban sa polusyon sa kanilang lugar ay bibigyan ng “tax break”.\nD. Ano nga ba ang “Clean Air Act”?",
+          "options": [
+            {
+              "key": "a",
+              "text": "A-D-B-C"
+            },
+            {
+              "key": "b",
+              "text": "B-D-A-C"
+            },
+            {
+              "key": "c",
+              "text": "D-A-B-C"
+            },
+            {
+              "key": "d",
+              "text": "D-B-A-C"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "D-B-A-C"
+        },
+        {
+          "id": "pagtatalata-2",
+          "number": 2,
+          "question": "Kung daragdagan ng isang pangwakas na pangungusap ang mga nasa itaas, alin sa mga sumusunod ang pinaka-angkop?",
+          "passage": "I.\nA. Ayon batas na ito, pagbabayarin ang mga may-ari ng kumpanya at sasakyan na\nnakapipinsala sa kalidad ng hangin dahil sa mga usok na binubuga nito.\nB. Ang “Clean Air Act” ay isang batas na naglalayong mapanatiling malinis ang ating\nhangin.\nC. Sa ibang banda naman, ang mga kumpanyang magkakabit o maglalagay ng mga\ngamit laban sa polusyon sa kanilang lugar ay bibigyan ng “tax break”.\nD. Ano nga ba ang “Clean Air Act”?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ang “Clean Air Act” ang tamang solusyon sa lahat ng polusyon."
+            },
+            {
+              "key": "b",
+              "text": "Alamin ang tungkol sa “Clean Air Act”."
+            },
+            {
+              "key": "c",
+              "text": "Kung ikaw ang may-ari ng kumpanya, sang-ayon kaba sa “Clean Air Act”?"
+            },
+            {
+              "key": "d",
+              "text": "Tumulong mapanatiling malinis ang hangin."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Kung ikaw ang may-ari ng kumpanya, sang-ayon kaba sa “Clean Air Act”?"
+        },
+        {
+          "id": "pagtatalata-3",
+          "number": 3,
+          "question": "Ano ang pinaka-angkop na pamagat sa nabuong talata?",
+          "passage": "I.\nA. Ayon batas na ito, pagbabayarin ang mga may-ari ng kumpanya at sasakyan na\nnakapipinsala sa kalidad ng hangin dahil sa mga usok na binubuga nito.\nB. Ang “Clean Air Act” ay isang batas na naglalayong mapanatiling malinis ang ating\nhangin.\nC. Sa ibang banda naman, ang mga kumpanyang magkakabit o maglalagay ng mga\ngamit laban sa polusyon sa kanilang lugar ay bibigyan ng “tax break”.\nD. Ano nga ba ang “Clean Air Act”?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ang Kalinisan"
+            },
+            {
+              "key": "b",
+              "text": "Ang Clean Air Act"
+            },
+            {
+              "key": "c",
+              "text": "Ang Hangin"
+            },
+            {
+              "key": "d",
+              "text": "Ang Kumpanya"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Ang Clean Air Act"
+        },
+        {
+          "id": "pagtatalata-4",
+          "number": 4,
+          "question": "Ano ang wastong pagkakasunod-sunod ng mga pangungusap na makabubuo ng makabuluhang talata?",
+          "passage": "II.\nA. Ayon sa saligang batas, maraming mga katangiang dapat taglayin ang sino mang\nnagnanais na maging Presidente ng bansa.\nB. Ikalawa, nararapat din na siya ay rehistradong botante at marunong bumasa at\nsumulat.\nC. Isa pang mahalagang katangian ay kinakailangang 40 taon man lamang siya sa\naraw ng halalan.\nD. Isa sa mga katangiang ito ay nararapat na isa siyang katutubong ipinanganak na\nmamamayan ng Pilipinas.\nE. At ang huli ay nararapat na siya ay residente ng Pilipinas sa loob ng sampung\ntaon bago dumating ang halalan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "A-B-C-D-E"
+            },
+            {
+              "key": "b",
+              "text": "A-B-D-C-E"
+            },
+            {
+              "key": "c",
+              "text": "A-D-B-C-E"
+            },
+            {
+              "key": "d",
+              "text": "A-D-C-B-E"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "A-D-B-C-E"
+        },
+        {
+          "id": "pagtatalata-5",
+          "number": 5,
+          "question": "Ano ang pamamaraang ginamit upang mabuo ang talata?",
+          "passage": "II.\nA. Ayon sa saligang batas, maraming mga katangiang dapat taglayin ang sino mang\nnagnanais na maging Presidente ng bansa.\nB. Ikalawa, nararapat din na siya ay rehistradong botante at marunong bumasa at\nsumulat.\nC. Isa pang mahalagang katangian ay kinakailangang 40 taon man lamang siya sa\naraw ng halalan.\nD. Isa sa mga katangiang ito ay nararapat na isa siyang katutubong ipinanganak na\nmamamayan ng Pilipinas.\nE. At ang huli ay nararapat na siya ay residente ng Pilipinas sa loob ng sampung\ntaon bago dumating ang halalan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pagbibigay ng sanhi at bunga"
+            },
+            {
+              "key": "b",
+              "text": "paglalarawan"
+            },
+            {
+              "key": "c",
+              "text": "paghahambing"
+            },
+            {
+              "key": "d",
+              "text": "pag-iisa-isa o enumerasyon"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "pag-iisa-isa o enumerasyon"
+        },
+        {
+          "id": "pagtatalata-6",
+          "number": 6,
+          "question": "Anong pangungusap ang nagsasabing hindi maaaring maging Presidente ng bansa ang isang dayuhan?",
+          "passage": "II.\nA. Ayon sa saligang batas, maraming mga katangiang dapat taglayin ang sino mang\nnagnanais na maging Presidente ng bansa.\nB. Ikalawa, nararapat din na siya ay rehistradong botante at marunong bumasa at\nsumulat.\nC. Isa pang mahalagang katangian ay kinakailangang 40 taon man lamang siya sa\naraw ng halalan.\nD. Isa sa mga katangiang ito ay nararapat na isa siyang katutubong ipinanganak na\nmamamayan ng Pilipinas.\nE. At ang huli ay nararapat na siya ay residente ng Pilipinas sa loob ng sampung\ntaon bago dumating ang halalan.",
+          "options": [
+            {
+              "key": "a",
+              "text": "pangungusap B"
+            },
+            {
+              "key": "b",
+              "text": "pangungusap C"
+            },
+            {
+              "key": "c",
+              "text": "pangungusap D"
+            },
+            {
+              "key": "d",
+              "text": "pangungusap E"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "pangungusap D"
+        },
+        {
+          "id": "pagtatalata-7",
+          "number": 7,
+          "question": "Ano ang wastong pagkakasunud-sunod ng mga pangungusap na makabubuo ng isang makabuluhang talata?",
+          "passage": "III.\nA. Ang mga ito ay nagmula sa Gitnang Asya at naglakad sa mga tulay na lupang\nnagkakabit ng iba’t ibang bahagi ng Asya sa Pilipinas.\nB. Sila ay sinundan ng Indones na galing sa Timog Silangang Asya.\nC. Ang pinakaunang pangkat ng mga tao sa Pilipinas ay ang mga Ita o Negrito.\nD. Ang huling pangkat naman na dumating upang manirahan dito sa ating bansa ay\nang mga Malay na nagmula rin sa Timog Silangang Asya.",
+          "options": [
+            {
+              "key": "a",
+              "text": "A-B-C-D"
+            },
+            {
+              "key": "b",
+              "text": "C-A-B-D"
+            },
+            {
+              "key": "c",
+              "text": "C-B-D-A"
+            },
+            {
+              "key": "d",
+              "text": "C-B-A-D"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "C-A-B-D"
+        },
+        {
+          "id": "pagtatalata-8",
+          "number": 8,
+          "question": "Ano ang pambungad na paksang pangungusap ang angkop para sa talatang nabuo?",
+          "passage": "III.\nA. Ang mga ito ay nagmula sa Gitnang Asya at naglakad sa mga tulay na lupang\nnagkakabit ng iba’t ibang bahagi ng Asya sa Pilipinas.\nB. Sila ay sinundan ng Indones na galing sa Timog Silangang Asya.\nC. Ang pinakaunang pangkat ng mga tao sa Pilipinas ay ang mga Ita o Negrito.\nD. Ang huling pangkat naman na dumating upang manirahan dito sa ating bansa ay\nang mga Malay na nagmula rin sa Timog Silangang Asya.",
+          "options": [
+            {
+              "key": "a",
+              "text": "May tatlong pangkat ng tao ang dumating rito sa Pilipinas noong unang panahon."
+            },
+            {
+              "key": "b",
+              "text": "Tatatlong tao lamang ang pangkat ng mga sinaunang Pilipino."
+            },
+            {
+              "key": "c",
+              "text": "Tatlong pangkat ang mga Pilipino ngayon."
+            },
+            {
+              "key": "d",
+              "text": "May tatlong sinaunang Pilipino."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "May tatlong pangkat ng tao ang dumating rito sa Pilipinas noong unang panahon."
+        },
+        {
+          "id": "pagtatalata-9",
+          "number": 9,
+          "question": "Ano ang angkop na pamagat para sa talata?",
+          "passage": "III.\nA. Ang mga ito ay nagmula sa Gitnang Asya at naglakad sa mga tulay na lupang\nnagkakabit ng iba’t ibang bahagi ng Asya sa Pilipinas.\nB. Sila ay sinundan ng Indones na galing sa Timog Silangang Asya.\nC. Ang pinakaunang pangkat ng mga tao sa Pilipinas ay ang mga Ita o Negrito.\nD. Ang huling pangkat naman na dumating upang manirahan dito sa ating bansa ay\nang mga Malay na nagmula rin sa Timog Silangang Asya.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Ita, Indones at Malay"
+            },
+            {
+              "key": "b",
+              "text": "Mga Pangkat ng Tao mula sa Asya"
+            },
+            {
+              "key": "c",
+              "text": "Sino Ako?"
+            },
+            {
+              "key": "d",
+              "text": "Ang mga Unang Pangkat ng mga Pilipino"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Ang mga Unang Pangkat ng mga Pilipino"
+        },
+        {
+          "id": "pagtatalata-10",
+          "number": 10,
+          "question": "Kung idaragdag bilang pangungusap E ang sumusunod na pangungusap: “Ang mga Indones ay dumating nang dalawang bugso may limang libong taon na ang nakaraan”; ano ang magiging panibagong pagkakasunud-sunod ng mga pangungusap upang makabuo ng makabuluhang talata?",
+          "passage": "III.\nA. Ang mga ito ay nagmula sa Gitnang Asya at naglakad sa mga tulay na lupang\nnagkakabit ng iba’t ibang bahagi ng Asya sa Pilipinas.\nB. Sila ay sinundan ng Indones na galing sa Timog Silangang Asya.\nC. Ang pinakaunang pangkat ng mga tao sa Pilipinas ay ang mga Ita o Negrito.\nD. Ang huling pangkat naman na dumating upang manirahan dito sa ating bansa ay\nang mga Malay na nagmula rin sa Timog Silangang Asya.",
+          "options": [
+            {
+              "key": "a",
+              "text": "A-B-E-C-D"
+            },
+            {
+              "key": "b",
+              "text": "C-A-B-E-D"
+            },
+            {
+              "key": "c",
+              "text": "C-B-E-D-A"
+            },
+            {
+              "key": "d",
+              "text": "C-B-E-A-D"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "C-A-B-E-D"
+        }
+      ]
+    }
+  ]
+}

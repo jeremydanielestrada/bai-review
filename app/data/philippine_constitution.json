@@ -1,0 +1,765 @@
+{
+  "subject": "Philippine Constitution",
+  "total_questions": 30,
+  "sections": [
+    {
+      "id": "philippine_constitution",
+      "category": "General",
+      "name": "Philippine Constitution",
+      "directions": "Constitution Directions: Choose the letter that corresponds to the answer that will make each statement correct.",
+      "question_count": 30,
+      "questions": [
+        {
+          "id": "philippine_constitution-1",
+          "number": 1,
+          "question": "What do you call the introductory part of the Constitution?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Preface"
+            },
+            {
+              "key": "b",
+              "text": "Amendments"
+            },
+            {
+              "key": "c",
+              "text": "Preamble"
+            },
+            {
+              "key": "d",
+              "text": "Bill of Rights"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Preamble"
+        },
+        {
+          "id": "philippine_constitution-2",
+          "number": 2,
+          "question": "What form of government does the Philippines adopt?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Republican"
+            },
+            {
+              "key": "b",
+              "text": "Democratic"
+            },
+            {
+              "key": "c",
+              "text": "neither a nor b"
+            },
+            {
+              "key": "d",
+              "text": "both a and b"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "both a and b"
+        },
+        {
+          "id": "philippine_constitution-3",
+          "number": 3,
+          "question": "What is the power of the State to take private property for public use upon payment of a just compensation?",
+          "options": [
+            {
+              "key": "a",
+              "text": "right of confiscation"
+            },
+            {
+              "key": "b",
+              "text": "right of limiting resources"
+            },
+            {
+              "key": "c",
+              "text": "right of sequestration"
+            },
+            {
+              "key": "d",
+              "text": "right of eminent domain"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "right of eminent domain"
+        },
+        {
+          "id": "philippine_constitution-4",
+          "number": 4,
+          "question": "Who among the following may issue a warrant of arrest or a search warrant?",
+          "options": [
+            {
+              "key": "a",
+              "text": "a senator"
+            },
+            {
+              "key": "b",
+              "text": "a judge"
+            },
+            {
+              "key": "c",
+              "text": "a congressman"
+            },
+            {
+              "key": "d",
+              "text": "the President"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "a judge"
+        },
+        {
+          "id": "philippine_constitution-5",
+          "number": 5,
+          "question": "A foreigner may acquire Filipino citizenship through",
+          "options": [
+            {
+              "key": "a",
+              "text": "naturalization"
+            },
+            {
+              "key": "b",
+              "text": "extradition"
+            },
+            {
+              "key": "c",
+              "text": "rebirth"
+            },
+            {
+              "key": "d",
+              "text": "Visa application"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "naturalization"
+        },
+        {
+          "id": "philippine_constitution-6",
+          "number": 6,
+          "question": "The right to vote is also known as ____________.",
+          "options": [
+            {
+              "key": "a",
+              "text": "suffrage"
+            },
+            {
+              "key": "b",
+              "text": "naturalization"
+            },
+            {
+              "key": "c",
+              "text": "democracy"
+            },
+            {
+              "key": "d",
+              "text": "plebiscite"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "suffrage"
+        },
+        {
+          "id": "philippine_constitution-7",
+          "number": 7,
+          "question": "How many Senators are there in the Senate?",
+          "options": [
+            {
+              "key": "a",
+              "text": "twenty-five"
+            },
+            {
+              "key": "b",
+              "text": "twenty-four"
+            },
+            {
+              "key": "c",
+              "text": "twelve"
+            },
+            {
+              "key": "d",
+              "text": "thirty"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "twenty-four"
+        },
+        {
+          "id": "philippine_constitution-8",
+          "number": 8,
+          "question": "What is the minimum age requirements of a Senator?",
+          "options": [
+            {
+              "key": "a",
+              "text": "thirty"
+            },
+            {
+              "key": "b",
+              "text": "twenty-five"
+            },
+            {
+              "key": "c",
+              "text": "twenty"
+            },
+            {
+              "key": "d",
+              "text": "thirty-five"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "thirty-five"
+        },
+        {
+          "id": "philippine_constitution-9",
+          "number": 9,
+          "question": "Which of the following bills do not originate from the House of Representative?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Appropriation bills"
+            },
+            {
+              "key": "b",
+              "text": "Revenue of tariff bills"
+            },
+            {
+              "key": "c",
+              "text": "Amnesty"
+            },
+            {
+              "key": "d",
+              "text": "Private bills"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Amnesty"
+        },
+        {
+          "id": "philippine_constitution-10",
+          "number": 10,
+          "question": "The Members of the Lower House are",
+          "options": [
+            {
+              "key": "a",
+              "text": "elected by region and by party list"
+            },
+            {
+              "key": "b",
+              "text": "elected by region and appointed by the President"
+            },
+            {
+              "key": "c",
+              "text": "elected by district and party list"
+            },
+            {
+              "key": "d",
+              "text": "elected by district and appointed by the Senators"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "elected by district and party list"
+        },
+        {
+          "id": "philippine_constitution-11",
+          "number": 11,
+          "question": "The legislative power of the government shall be vested in the",
+          "options": [
+            {
+              "key": "a",
+              "text": "President"
+            },
+            {
+              "key": "b",
+              "text": "Congress"
+            },
+            {
+              "key": "c",
+              "text": "Supreme Court"
+            },
+            {
+              "key": "d",
+              "text": "all of the above"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Congress"
+        },
+        {
+          "id": "philippine_constitution-12",
+          "number": 12,
+          "question": "Which of the following may disqualify a person from running for Presidency?",
+          "options": [
+            {
+              "key": "a",
+              "text": "He is sixty years old on the day of the election."
+            },
+            {
+              "key": "b",
+              "text": "He lived abroad five years preceding the election."
+            },
+            {
+              "key": "c",
+              "text": "He has Filipino parents but was born in the United States."
+            },
+            {
+              "key": "d",
+              "text": "He is a registered voter."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "He lived abroad five years preceding the election."
+        },
+        {
+          "id": "philippine_constitution-13",
+          "number": 13,
+          "question": "Which of the following shows the transfer of power should the President be incapable of discharging his duties?",
+          "options": [
+            {
+              "key": "a",
+              "text": "President -→ Vice-President -→ Senate President -→ House Speaker"
+            },
+            {
+              "key": "b",
+              "text": "President -→ Vice-President -→ Chief Justice -→ Senate President"
+            },
+            {
+              "key": "c",
+              "text": "President -→ Vice-President -→ Chief Justice -→ House Speaker"
+            },
+            {
+              "key": "d",
+              "text": "President -→ Vice-President -→ House Speaker -→ Senate President"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "President -→ Vice-President -→ Senate President -→ House Speaker"
+        },
+        {
+          "id": "philippine_constitution-14",
+          "number": 14,
+          "question": "A member of the Supreme Court",
+          "options": [
+            {
+              "key": "a",
+              "text": "must have been for fifteen years or more, a judge of a lower court."
+            },
+            {
+              "key": "b",
+              "text": "must have been for ten years, a judge of the Court of Appeals"
+            },
+            {
+              "key": "c",
+              "text": "may not be a member of the Philippine Bar"
+            },
+            {
+              "key": "d",
+              "text": "may be a naturalized citizen"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "must have been for fifteen years or more, a judge of a lower court."
+        },
+        {
+          "id": "philippine_constitution-15",
+          "number": 15,
+          "question": "The Supreme Court is composed of",
+          "options": [
+            {
+              "key": "a",
+              "text": "a Chief Justice and fourteen Associate Justices"
+            },
+            {
+              "key": "b",
+              "text": "two Chief Justices and fourteen Associate Justices"
+            },
+            {
+              "key": "c",
+              "text": "a Chief Justic and twelve Associate Justices"
+            },
+            {
+              "key": "d",
+              "text": "a Chief Justice and an indefinite number of Associate Justices"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "a Chief Justice and fourteen Associate Justices"
+        },
+        {
+          "id": "philippine_constitution-16",
+          "number": 16,
+          "question": "Which of the following is a Constitutional Commission?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Commission of Human Rights"
+            },
+            {
+              "key": "b",
+              "text": "Philippine Commission on Good Government"
+            },
+            {
+              "key": "c",
+              "text": "Civil Service Commission"
+            },
+            {
+              "key": "d",
+              "text": "Commission on Natural Resources"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Civil Service Commission"
+        },
+        {
+          "id": "philippine_constitution-17",
+          "number": 17,
+          "question": "What branch of government has the sole right to initiate all cases of impeachment?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Senate"
+            },
+            {
+              "key": "b",
+              "text": "Commission of Election"
+            },
+            {
+              "key": "c",
+              "text": "House of Representative"
+            },
+            {
+              "key": "d",
+              "text": "Judiciary"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "House of Representative"
+        },
+        {
+          "id": "philippine_constitution-18",
+          "number": 18,
+          "question": "Which of the following is not removable from office by impeachment?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Member of the Supreme Court"
+            },
+            {
+              "key": "b",
+              "text": "Member of the Constitutional Commissions"
+            },
+            {
+              "key": "c",
+              "text": "The Ombudsman"
+            },
+            {
+              "key": "d",
+              "text": "Senators"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Senators"
+        },
+        {
+          "id": "philippine_constitution-19",
+          "number": 19,
+          "question": "The national language of the Philippines is",
+          "options": [
+            {
+              "key": "a",
+              "text": "Pilipino"
+            },
+            {
+              "key": "b",
+              "text": "English and Filipino"
+            },
+            {
+              "key": "c",
+              "text": "Tagalog"
+            },
+            {
+              "key": "d",
+              "text": "Filipino"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Filipino"
+        },
+        {
+          "id": "philippine_constitution-20",
+          "number": 20,
+          "question": "Who may propose any amendment to, or revision of the Constitution?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Congress or a Constitutional Convention"
+            },
+            {
+              "key": "b",
+              "text": "Congress and a Constitutional Convention"
+            },
+            {
+              "key": "c",
+              "text": "Judiciary and Congress"
+            },
+            {
+              "key": "d",
+              "text": "Judiciary and Constitutional Convention"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Congress or a Constitutional Convention"
+        },
+        {
+          "id": "philippine_constitution-21",
+          "number": 21,
+          "question": "What tax is paid by individuals who derive compensation income?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Value added tax"
+            },
+            {
+              "key": "b",
+              "text": "Excise tax"
+            },
+            {
+              "key": "c",
+              "text": "Income tax"
+            },
+            {
+              "key": "d",
+              "text": "Real estate tax"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Income tax"
+        },
+        {
+          "id": "philippine_constitution-22",
+          "number": 22,
+          "question": "When is the deadline for filing income tax returns for every taxable year?",
+          "options": [
+            {
+              "key": "a",
+              "text": "April 15"
+            },
+            {
+              "key": "b",
+              "text": "April 30"
+            },
+            {
+              "key": "c",
+              "text": "March 15"
+            },
+            {
+              "key": "d",
+              "text": "March 30"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "April 15"
+        },
+        {
+          "id": "philippine_constitution-23",
+          "number": 23,
+          "question": "Which of the following statements is true about taxes?",
+          "options": [
+            {
+              "key": "a",
+              "text": "It is a voluntary payment"
+            },
+            {
+              "key": "b",
+              "text": "It is payable both in cash and in kind"
+            },
+            {
+              "key": "c",
+              "text": "It is an enforced contribution"
+            },
+            {
+              "key": "d",
+              "text": "It is based on one’s desire to pay."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "It is an enforced contribution"
+        },
+        {
+          "id": "philippine_constitution-24",
+          "number": 24,
+          "question": "What tax is imposed on one’s right to transmit property at death, and is measured by the value of the property?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Excise tax"
+            },
+            {
+              "key": "b",
+              "text": "Withholding tax"
+            },
+            {
+              "key": "c",
+              "text": "Donor’s tax"
+            },
+            {
+              "key": "d",
+              "text": "Estate tax"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Estate tax"
+        },
+        {
+          "id": "philippine_constitution-25",
+          "number": 25,
+          "question": "Which of the following is classified as being a “Head of the Family” for income tax purposes?",
+          "options": [
+            {
+              "key": "a",
+              "text": "a married individual with dependents"
+            },
+            {
+              "key": "b",
+              "text": "an unmarried individual with dependents"
+            },
+            {
+              "key": "c",
+              "text": "a married individual without dependents"
+            },
+            {
+              "key": "d",
+              "text": "an unmarried individual without dependents"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "an unmarried individual with dependents"
+        },
+        {
+          "id": "philippine_constitution-26",
+          "number": 26,
+          "question": "What Act implements the mandate for the “State to make essential goods, health and other social services available to all the people at affordable cost?”",
+          "options": [
+            {
+              "key": "a",
+              "text": "Land Reform Program"
+            },
+            {
+              "key": "b",
+              "text": "Generics Act"
+            },
+            {
+              "key": "c",
+              "text": "Resettlement Act"
+            },
+            {
+              "key": "d",
+              "text": "Freedom Act"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Generics Act"
+        },
+        {
+          "id": "philippine_constitution-27",
+          "number": 27,
+          "question": "Which of the following is true about elective local officials?",
+          "options": [
+            {
+              "key": "a",
+              "text": "The term of office is three years"
+            },
+            {
+              "key": "b",
+              "text": "Barangay officials’ term of office is indefinite"
+            },
+            {
+              "key": "c",
+              "text": "An official may be reelected indefinitely"
+            },
+            {
+              "key": "d",
+              "text": "An official may not serve for less than three terms"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "The term of office is three years"
+        },
+        {
+          "id": "philippine_constitution-28",
+          "number": 28,
+          "question": "What may be classified as alienable lands of the public domain?",
+          "options": [
+            {
+              "key": "a",
+              "text": "forest"
+            },
+            {
+              "key": "b",
+              "text": "mineral lands"
+            },
+            {
+              "key": "c",
+              "text": "national park"
+            },
+            {
+              "key": "d",
+              "text": "agricultural lands"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "agricultural lands"
+        },
+        {
+          "id": "philippine_constitution-29",
+          "number": 29,
+          "question": "What is the maximum equity for aliens in a corporation or association in the exploration development and utilization of natural resources?",
+          "options": [
+            {
+              "key": "a",
+              "text": "60%"
+            },
+            {
+              "key": "b",
+              "text": "40%"
+            },
+            {
+              "key": "c",
+              "text": "50%"
+            },
+            {
+              "key": "d",
+              "text": "30%"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "40%"
+        },
+        {
+          "id": "philippine_constitution-30",
+          "number": 30,
+          "question": "What is recognized by the State as the foundation of the nation?",
+          "options": [
+            {
+              "key": "a",
+              "text": "barangay"
+            },
+            {
+              "key": "b",
+              "text": "community"
+            },
+            {
+              "key": "c",
+              "text": "family"
+            },
+            {
+              "key": "d",
+              "text": "municipality"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "family"
+        }
+      ]
+    }
+  ]
+}

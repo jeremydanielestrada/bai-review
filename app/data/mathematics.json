@@ -1,0 +1,2519 @@
+{
+  "subject": "Mathematics",
+  "total_questions": 95,
+  "sections": [
+    {
+      "id": "math_word_problems",
+      "category": "Mathematics",
+      "name": "Word Problems and Operations",
+      "directions": "MATHEMATICS Word Problems and Operations Directions: Analyze and solve each problem carefully. Choose the correct answer.",
+      "question_count": 75,
+      "questions": [
+        {
+          "id": "math_word_problems-1",
+          "number": 1,
+          "question": "If 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55, then 11 + 12 + 13 + 14 + 15 + 16 + 17 + 18 + 19 + 20 = ?",
+          "options": [
+            {
+              "key": "a",
+              "text": "65"
+            },
+            {
+              "key": "b",
+              "text": "155"
+            },
+            {
+              "key": "c",
+              "text": "125"
+            },
+            {
+              "key": "d",
+              "text": "550"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "155"
+        },
+        {
+          "id": "math_word_problems-2",
+          "number": 2,
+          "question": "Evaluate: {16 − (24 − 8) + 22 × 8 − 8}.",
+          "options": [
+            {
+              "key": "a",
+              "text": "40"
+            },
+            {
+              "key": "b",
+              "text": "48"
+            },
+            {
+              "key": "c",
+              "text": "64"
+            },
+            {
+              "key": "d",
+              "text": "168"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "168"
+        },
+        {
+          "id": "math_word_problems-3",
+          "number": 3,
+          "question": "Find the product: 800 x 125.",
+          "options": [
+            {
+              "key": "a",
+              "text": "925"
+            },
+            {
+              "key": "b",
+              "text": "1000"
+            },
+            {
+              "key": "c",
+              "text": "10 000"
+            },
+            {
+              "key": "d",
+              "text": "100 000"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "100 000"
+        },
+        {
+          "id": "math_word_problems-4",
+          "number": 4,
+          "question": "Find the quotient: 8 000 ÷ 125",
+          "options": [
+            {
+              "key": "a",
+              "text": "48"
+            },
+            {
+              "key": "b",
+              "text": "64"
+            },
+            {
+              "key": "c",
+              "text": "80"
+            },
+            {
+              "key": "d",
+              "text": "88"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "64"
+        },
+        {
+          "id": "math_word_problems-5",
+          "number": 5,
+          "question": "Find the sum: 299 + 943 + 398 + 101",
+          "options": [
+            {
+              "key": "a",
+              "text": "1,531"
+            },
+            {
+              "key": "b",
+              "text": "1,641"
+            },
+            {
+              "key": "c",
+              "text": "1,741"
+            },
+            {
+              "key": "d",
+              "text": "122,222"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "1,741"
+        },
+        {
+          "id": "math_word_problems-6",
+          "number": 6,
+          "question": "If 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55, then 101 + 102 + 103 + 104 + 105 + 106 + 107 + 108 + 109 + 110 = ?",
+          "options": [
+            {
+              "key": "a",
+              "text": "1,055"
+            },
+            {
+              "key": "b",
+              "text": "1,065"
+            },
+            {
+              "key": "c",
+              "text": "1,075"
+            },
+            {
+              "key": "d",
+              "text": "5,500"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "1,055"
+        },
+        {
+          "id": "math_word_problems-7",
+          "number": 7,
+          "question": "What is the remainder when 192 888 is divided by 8?",
+          "options": [
+            {
+              "key": "a",
+              "text": "0"
+            },
+            {
+              "key": "b",
+              "text": "4"
+            },
+            {
+              "key": "c",
+              "text": "8"
+            },
+            {
+              "key": "d",
+              "text": "24 111"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "0"
+        },
+        {
+          "id": "math_word_problems-8",
+          "number": 8,
+          "question": "Rounding 299 943 to the nearest thousands, the result is",
+          "options": [
+            {
+              "key": "a",
+              "text": "299 940"
+            },
+            {
+              "key": "b",
+              "text": "299 000"
+            },
+            {
+              "key": "c",
+              "text": "299 900"
+            },
+            {
+              "key": "d",
+              "text": "300 000"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "300 000"
+        },
+        {
+          "id": "math_word_problems-9",
+          "number": 9,
+          "question": "If 23 + 28 + 37 + x + 53 = 168 and 23 + 28 + 40 + y + 50 = 120. Find the value of x – y?",
+          "options": [
+            {
+              "key": "a",
+              "text": "36"
+            },
+            {
+              "key": "b",
+              "text": "48"
+            },
+            {
+              "key": "c",
+              "text": "56"
+            },
+            {
+              "key": "d",
+              "text": "64"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "48"
+        },
+        {
+          "id": "math_word_problems-10",
+          "number": 10,
+          "question": "398.101 is read as",
+          "options": [
+            {
+              "key": "a",
+              "text": "three hundred ninety eight, one hundred one."
+            },
+            {
+              "key": "b",
+              "text": "three hundred ninety eight and one hundred one."
+            },
+            {
+              "key": "c",
+              "text": "three hundred ninety eight and one hundred one hundredths"
+            },
+            {
+              "key": "d",
+              "text": "three hundred ninety eight and one hundred one thousands"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "three hundred ninety eight and one hundred one thousands"
+        },
+        {
+          "id": "math_word_problems-11",
+          "number": 11,
+          "question": "A number is divisible by 8 if its last three digits is divisible by 8. Which of the following numbers is divisible by 8?",
+          "options": [
+            {
+              "key": "a",
+              "text": "9 208"
+            },
+            {
+              "key": "b",
+              "text": "6 236"
+            },
+            {
+              "key": "c",
+              "text": "88 254"
+            },
+            {
+              "key": "d",
+              "text": "8 886"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "9 208"
+        },
+        {
+          "id": "math_word_problems-12",
+          "number": 12,
+          "question": "Which of the following statements is true?",
+          "options": [
+            {
+              "key": "a",
+              "text": "If a number is divisible by 5, then it is divisible by 10."
+            },
+            {
+              "key": "b",
+              "text": "If a number is divisible by 10, then it is divisible by 5."
+            },
+            {
+              "key": "c",
+              "text": "If a number is divisble by 3, then it is divisible by 6"
+            },
+            {
+              "key": "d",
+              "text": "If a number is divisible by 4, then it is divisible by 8"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "If a number is divisible by 10, then it is divisible by 5."
+        },
+        {
+          "id": "math_word_problems-13",
+          "number": 13,
+          "question": "Simplify: ½ (128 – 84) – ½ (128 – 84)",
+          "options": [
+            {
+              "key": "a",
+              "text": "0"
+            },
+            {
+              "key": "b",
+              "text": "20"
+            },
+            {
+              "key": "c",
+              "text": "44"
+            },
+            {
+              "key": "d",
+              "text": "64"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "44"
+        },
+        {
+          "id": "math_word_problems-14",
+          "number": 14,
+          "question": "Simplify: 33 1/3% of 48 + 12 ½% of 96 – 44 4/9% of 27",
+          "options": [
+            {
+              "key": "a",
+              "text": "12"
+            },
+            {
+              "key": "b",
+              "text": "16"
+            },
+            {
+              "key": "c",
+              "text": "24"
+            },
+            {
+              "key": "d",
+              "text": "48"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "16"
+        },
+        {
+          "id": "math_word_problems-15",
+          "number": 15,
+          "question": "Reduce 231/1001 to its lowest terms",
+          "options": [
+            {
+              "key": "a",
+              "text": "7/11"
+            },
+            {
+              "key": "b",
+              "text": "3/31"
+            },
+            {
+              "key": "c",
+              "text": "3/13"
+            },
+            {
+              "key": "d",
+              "text": "7/13"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "3/13"
+        },
+        {
+          "id": "math_word_problems-16",
+          "number": 16,
+          "question": "Which of the foloowing is true?",
+          "options": [
+            {
+              "key": "a",
+              "text": "-16 > 8"
+            },
+            {
+              "key": "b",
+              "text": "8/64 = ¼"
+            },
+            {
+              "key": "c",
+              "text": "54 – 8 ≥ 8 – 54"
+            },
+            {
+              "key": "d",
+              "text": "9/117 = 1/17"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "54 – 8 ≥ 8 – 54"
+        },
+        {
+          "id": "math_word_problems-17",
+          "number": 17,
+          "question": "Find the value of x: [(3/8)(72) + (5/7)(35)]",
+          "options": [
+            {
+              "key": "a",
+              "text": "27"
+            },
+            {
+              "key": "b",
+              "text": "36"
+            },
+            {
+              "key": "c",
+              "text": "45"
+            },
+            {
+              "key": "d",
+              "text": "52"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "52"
+        },
+        {
+          "id": "math_word_problems-18",
+          "number": 18,
+          "question": "What is 25% of 228?",
+          "options": [
+            {
+              "key": "a",
+              "text": "52"
+            },
+            {
+              "key": "b",
+              "text": "57"
+            },
+            {
+              "key": "c",
+              "text": "54"
+            },
+            {
+              "key": "d",
+              "text": "912"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "57"
+        },
+        {
+          "id": "math_word_problems-19",
+          "number": 19,
+          "question": "228 is 25% of what number?",
+          "options": [
+            {
+              "key": "a",
+              "text": "52"
+            },
+            {
+              "key": "b",
+              "text": "57"
+            },
+            {
+              "key": "c",
+              "text": "54"
+            },
+            {
+              "key": "d",
+              "text": "912"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "912"
+        },
+        {
+          "id": "math_word_problems-20",
+          "number": 20,
+          "question": "168 is what percent of 672?",
+          "options": [
+            {
+              "key": "a",
+              "text": "25%"
+            },
+            {
+              "key": "b",
+              "text": "50%"
+            },
+            {
+              "key": "c",
+              "text": "400%"
+            },
+            {
+              "key": "d",
+              "text": "80%"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "25%"
+        },
+        {
+          "id": "math_word_problems-21",
+          "number": 21,
+          "question": "Evaluate: 123 x 0.1 + 123 x 0.01 + 123 x 0.001",
+          "options": [
+            {
+              "key": "a",
+              "text": "13.653"
+            },
+            {
+              "key": "b",
+              "text": "135.53"
+            },
+            {
+              "key": "c",
+              "text": "1 356.3"
+            },
+            {
+              "key": "d",
+              "text": "13 563"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "13.653"
+        },
+        {
+          "id": "math_word_problems-22",
+          "number": 22,
+          "question": "Find 3 ¼ of 16",
+          "options": [
+            {
+              "key": "a",
+              "text": "7"
+            },
+            {
+              "key": "b",
+              "text": "16"
+            },
+            {
+              "key": "c",
+              "text": "39"
+            },
+            {
+              "key": "d",
+              "text": "52"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "52"
+        },
+        {
+          "id": "math_word_problems-23",
+          "number": 23,
+          "question": "Evaluate: 1 + ½ + ¼ + 1/8 = ?",
+          "options": [
+            {
+              "key": "a",
+              "text": "1 3/16"
+            },
+            {
+              "key": "b",
+              "text": "1 3/8"
+            },
+            {
+              "key": "c",
+              "text": "1 5/8"
+            },
+            {
+              "key": "d",
+              "text": "1 7/8"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "1 7/8"
+        },
+        {
+          "id": "math_word_problems-24",
+          "number": 24,
+          "question": "Find the value of x in the equation: 3x + 7 = 28",
+          "options": [
+            {
+              "key": "a",
+              "text": "7"
+            },
+            {
+              "key": "b",
+              "text": "-7"
+            },
+            {
+              "key": "c",
+              "text": "±7"
+            },
+            {
+              "key": "d",
+              "text": "4"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "7"
+        },
+        {
+          "id": "math_word_problems-25",
+          "number": 25,
+          "question": "Which of the following has the greatest value? 8",
+          "options": [
+            {
+              "key": "a",
+              "text": "8 / [(6²)(8²)]"
+            },
+            {
+              "key": "b",
+              "text": "16 / [(6²)(8³)]"
+            },
+            {
+              "key": "c",
+              "text": "1 / [(6³)(8²)]"
+            },
+            {
+              "key": "d",
+              "text": "168 / [(6⁴)(8³)]"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "16 / [(6²)(8³)]"
+        },
+        {
+          "id": "math_word_problems-26",
+          "number": 26,
+          "question": "Whic of the following cannot yield an odd integer when divided by 10?",
+          "options": [
+            {
+              "key": "a",
+              "text": "The sum of two odd integers."
+            },
+            {
+              "key": "b",
+              "text": "The product of a prime number and an odd integer"
+            },
+            {
+              "key": "c",
+              "text": "The product of two odd integers"
+            },
+            {
+              "key": "d",
+              "text": "The sum of three consecutive integers"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "The product of two odd integers"
+        },
+        {
+          "id": "math_word_problems-27",
+          "number": 27,
+          "question": "If 8x + 12 = 24, what is the value of 24x + 36",
+          "options": [
+            {
+              "key": "a",
+              "text": "4"
+            },
+            {
+              "key": "b",
+              "text": "6"
+            },
+            {
+              "key": "c",
+              "text": "8"
+            },
+            {
+              "key": "d",
+              "text": "72"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "72"
+        },
+        {
+          "id": "math_word_problems-28",
+          "number": 28,
+          "question": "If a positive integer m is divisible by both 3 and 8, then m must also be divisible by",
+          "options": [
+            {
+              "key": "a",
+              "text": "10"
+            },
+            {
+              "key": "b",
+              "text": "18"
+            },
+            {
+              "key": "c",
+              "text": "24"
+            },
+            {
+              "key": "d",
+              "text": "60"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "24"
+        },
+        {
+          "id": "math_word_problems-29",
+          "number": 29,
+          "question": "If positive integers m and n are not both odd, which of the following is always true?",
+          "options": [
+            {
+              "key": "a",
+              "text": "m + n is even"
+            },
+            {
+              "key": "b",
+              "text": "mn is even"
+            },
+            {
+              "key": "c",
+              "text": "m – n cannot be odd"
+            },
+            {
+              "key": "d",
+              "text": "m + n – 1 is odd"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "mn is even"
+        },
+        {
+          "id": "math_word_problems-30",
+          "number": 30,
+          "question": "Find the average temperature change for the 12-day period. Temperature change in degree celsius: 2.6, 3.8, 7.0, 4.5, 4.6, 7.9, 5.0, 8.1, 4.4, 5.3, 6.4, 5.2",
+          "options": [
+            {
+              "key": "a",
+              "text": "4.8"
+            },
+            {
+              "key": "b",
+              "text": "4.9"
+            },
+            {
+              "key": "c",
+              "text": "5.2"
+            },
+            {
+              "key": "d",
+              "text": "5.4"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "5.4"
+        },
+        {
+          "id": "math_word_problems-31",
+          "number": 31,
+          "question": "Find the set of all odd numbers x satisfying the conditions 5x - 4≤ 0 and 3x – 7 ≥ 0",
+          "options": [
+            {
+              "key": "a",
+              "text": "{x | x ≠ 1}"
+            },
+            {
+              "key": "b",
+              "text": "{1}"
+            },
+            {
+              "key": "c",
+              "text": "{x | x ∈ ℝ}"
+            },
+            {
+              "key": "d",
+              "text": "{ } (empty set)"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "{ } (empty set)"
+        },
+        {
+          "id": "math_word_problems-32",
+          "number": 32,
+          "question": "State the property illustrated. If 8(6) + 4 = 48 + 4 = 52, then 8(6) + 4 = 52",
+          "options": [
+            {
+              "key": "a",
+              "text": "distributive property of multiplication over addition"
+            },
+            {
+              "key": "b",
+              "text": "commutative property of addition"
+            },
+            {
+              "key": "c",
+              "text": "associative property"
+            },
+            {
+              "key": "d",
+              "text": "transitive property of equality"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "transitive property of equality"
+        },
+        {
+          "id": "math_word_problems-33",
+          "number": 33,
+          "question": "If 8 less than the product of a number and -3 is greater than 7, which of the following could be that number?",
+          "options": [
+            {
+              "key": "a",
+              "text": "-6"
+            },
+            {
+              "key": "b",
+              "text": "-5"
+            },
+            {
+              "key": "c",
+              "text": "5"
+            },
+            {
+              "key": "d",
+              "text": "6"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "-6"
+        },
+        {
+          "id": "math_word_problems-34",
+          "number": 34,
+          "question": "The difference between 8 times a number and 17 is 231. Find the number.",
+          "options": [
+            {
+              "key": "a",
+              "text": "31"
+            },
+            {
+              "key": "b",
+              "text": "37"
+            },
+            {
+              "key": "c",
+              "text": "48"
+            },
+            {
+              "key": "d",
+              "text": "1 984"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "31"
+        },
+        {
+          "id": "math_word_problems-35",
+          "number": 35,
+          "question": "Four times the perimeter of a parking lot is 16 less than 2,000 meters. What is the perimeter of the lot?",
+          "options": [
+            {
+              "key": "a",
+              "text": "496 m"
+            },
+            {
+              "key": "b",
+              "text": "504 m"
+            },
+            {
+              "key": "c",
+              "text": "992 m"
+            },
+            {
+              "key": "d",
+              "text": "1,008 m"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "496 m"
+        },
+        {
+          "id": "math_word_problems-36",
+          "number": 36,
+          "question": "The amount of last month’s telephone bill, decreased by the product of 3 and Php30.00 equals Php1,319.50",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 1,229.50"
+            },
+            {
+              "key": "b",
+              "text": "Php 1,289.50"
+            },
+            {
+              "key": "c",
+              "text": "Php 1,310.50"
+            },
+            {
+              "key": "d",
+              "text": "Php 1, 409.50"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Php 1, 409.50"
+        },
+        {
+          "id": "math_word_problems-37",
+          "number": 37,
+          "question": "Eighteen less than seven times the number of sandwiches is 269. How many sandwiches are there?",
+          "options": [
+            {
+              "key": "a",
+              "text": "32"
+            },
+            {
+              "key": "b",
+              "text": "41"
+            },
+            {
+              "key": "c",
+              "text": "44"
+            },
+            {
+              "key": "d",
+              "text": "45"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "41"
+        },
+        {
+          "id": "math_word_problems-38",
+          "number": 38,
+          "question": "A house and lot are sold for Php 14M. The house costs 1.5 times as much as the lot. How much does the lot cost?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 5.6M"
+            },
+            {
+              "key": "b",
+              "text": "Php 8.4M"
+            },
+            {
+              "key": "c",
+              "text": "Php 10.5 M"
+            },
+            {
+              "key": "d",
+              "text": "Php 21M"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Php 5.6M"
+        },
+        {
+          "id": "math_word_problems-39",
+          "number": 39,
+          "question": "The sale price of a television set is Php 7,200. The discount rate is 40%. Find its regular price.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 4,320"
+            },
+            {
+              "key": "b",
+              "text": "Php 12,000"
+            },
+            {
+              "key": "c",
+              "text": "Php 6,800"
+            },
+            {
+              "key": "d",
+              "text": "Php 10,000"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Php 12,000"
+        },
+        {
+          "id": "math_word_problems-40",
+          "number": 40,
+          "question": "The lenghts of the sides of a triangle can be represented by three consecutive integers. The perimeter of the triangle is 96cm. Find the length of the longest side of the triangle.",
+          "options": [
+            {
+              "key": "a",
+              "text": "28"
+            },
+            {
+              "key": "b",
+              "text": "32"
+            },
+            {
+              "key": "c",
+              "text": "33"
+            },
+            {
+              "key": "d",
+              "text": "36"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "33"
+        },
+        {
+          "id": "math_word_problems-41",
+          "number": 41,
+          "question": "The length of a rectangle is 8 meters more than twice its width. The perimeter is 112 meters. Find its area.",
+          "options": [
+            {
+              "key": "a",
+              "text": "16m"
+            },
+            {
+              "key": "b",
+              "text": "24m"
+            },
+            {
+              "key": "c",
+              "text": "28 m2"
+            },
+            {
+              "key": "d",
+              "text": "640 m2"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "640 m2"
+        },
+        {
+          "id": "math_word_problems-42",
+          "number": 42,
+          "question": "Paula is twice as old as Queenie. Seven years ago the sum of their ages was 16. How old is Queenie now?",
+          "options": [
+            {
+              "key": "a",
+              "text": "8"
+            },
+            {
+              "key": "b",
+              "text": "10"
+            },
+            {
+              "key": "c",
+              "text": "16"
+            },
+            {
+              "key": "d",
+              "text": "20"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "10"
+        },
+        {
+          "id": "math_word_problems-43",
+          "number": 43,
+          "question": "For what value of x will x be the average of 2, 4x, 6, 8, 10?",
+          "options": [
+            {
+              "key": "a",
+              "text": "4"
+            },
+            {
+              "key": "b",
+              "text": "12"
+            },
+            {
+              "key": "c",
+              "text": "26"
+            },
+            {
+              "key": "d",
+              "text": "39"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "26"
+        },
+        {
+          "id": "math_word_problems-44",
+          "number": 44,
+          "question": "How many integers between 197 and 303 are divisible by 4 or 10?",
+          "options": [
+            {
+              "key": "a",
+              "text": "25"
+            },
+            {
+              "key": "b",
+              "text": "26"
+            },
+            {
+              "key": "c",
+              "text": "31"
+            },
+            {
+              "key": "d",
+              "text": "37"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "26"
+        },
+        {
+          "id": "math_word_problems-45",
+          "number": 45,
+          "question": "A patient must take his medication every 7 hours starting at 7:00 AM, Sunday. On what day will the patient first receive his medication at 8 AM?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Sunday"
+            },
+            {
+              "key": "b",
+              "text": "Wednesday"
+            },
+            {
+              "key": "c",
+              "text": "Thursday"
+            },
+            {
+              "key": "d",
+              "text": "Tuesday"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Tuesday"
+        },
+        {
+          "id": "math_word_problems-46",
+          "number": 46,
+          "question": "Of the 300 grocery shoppers surveyed, 96 did not have a regular day of the week on which they shop. What percentage of the shoppers did not have a regular day of shopping?",
+          "options": [
+            {
+              "key": "a",
+              "text": "32%"
+            },
+            {
+              "key": "b",
+              "text": "48%"
+            },
+            {
+              "key": "c",
+              "text": "64%"
+            },
+            {
+              "key": "d",
+              "text": "96%"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "32%"
+        },
+        {
+          "id": "math_word_problems-47",
+          "number": 47,
+          "question": "A water container has 100mL of water in it and is 20% full. How many mL of water can this container hold if it is full?",
+          "options": [
+            {
+              "key": "a",
+              "text": "200 mL"
+            },
+            {
+              "key": "b",
+              "text": "400 mL"
+            },
+            {
+              "key": "c",
+              "text": "500 mL"
+            },
+            {
+              "key": "d",
+              "text": "800 mL"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "500 mL"
+        },
+        {
+          "id": "math_word_problems-48",
+          "number": 48,
+          "question": "How many containers each occupies an area of 2 1/8 square meters can be stored in a 952 square meter warehouse?",
+          "options": [
+            {
+              "key": "a",
+              "text": "358"
+            },
+            {
+              "key": "b",
+              "text": "448"
+            },
+            {
+              "key": "c",
+              "text": "530"
+            },
+            {
+              "key": "d",
+              "text": "630"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "448"
+        },
+        {
+          "id": "math_word_problems-49",
+          "number": 49,
+          "question": "A starting salary of a secretary at ABC Computer Specialists is Php15,000 a month. Next year the starting salary will be raised to Php18,000. What is the rate of increase in the starting salary?",
+          "options": [
+            {
+              "key": "a",
+              "text": "3%"
+            },
+            {
+              "key": "b",
+              "text": "20%"
+            },
+            {
+              "key": "c",
+              "text": "25%"
+            },
+            {
+              "key": "d",
+              "text": "30%"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "20%"
+        },
+        {
+          "id": "math_word_problems-50",
+          "number": 50,
+          "question": "The cost of a square meter commercial lot in a certain municipality five years ago was Php12,500. There was a 420% increase in the price in the last five years. What is the price per square meter of that lot today?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 17,500"
+            },
+            {
+              "key": "b",
+              "text": "Php 52,500"
+            },
+            {
+              "key": "c",
+              "text": "Php 19,000"
+            },
+            {
+              "key": "d",
+              "text": "Php 65,000"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Php 65,000"
+        },
+        {
+          "id": "math_word_problems-51",
+          "number": 51,
+          "question": "Last month, a store manager decided to decrease the prices of all items by 10%. This month, he increased the prices by 10%. What would be the price for a pair of pants that had cost Php750 before prices were decreased last month?",
+          "options": [
+            {
+              "key": "a",
+              "text": "PHp 742.50"
+            },
+            {
+              "key": "b",
+              "text": "Php 750.00"
+            },
+            {
+              "key": "c",
+              "text": "Php 675.00"
+            },
+            {
+              "key": "d",
+              "text": "Php 825.00"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "PHp 742.50"
+        },
+        {
+          "id": "math_word_problems-52",
+          "number": 52,
+          "question": "When the original price of an item is increased by a certain rate, the increased price is Php 3,100. When the original price is decreased by the same rate, the decreased price is Php1,900. What is the original price of this item?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php1,200"
+            },
+            {
+              "key": "b",
+              "text": "Php200"
+            },
+            {
+              "key": "c",
+              "text": "Php2,500"
+            },
+            {
+              "key": "d",
+              "text": "Php2,800"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Php2,500"
+        },
+        {
+          "id": "math_word_problems-53",
+          "number": 53,
+          "question": "How much must one has to invest in corporate bonds paying 9.6% in order to earn an income of Php12,000 per annum?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php11,520"
+            },
+            {
+              "key": "b",
+              "text": "Php 23,040"
+            },
+            {
+              "key": "c",
+              "text": "Php 125,000"
+            },
+            {
+              "key": "d",
+              "text": "Php 250,000"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Php 125,000"
+        },
+        {
+          "id": "math_word_problems-54",
+          "number": 54,
+          "question": "How much must be cut form the edge of a piece of glass 16 1/8 cm wide, in order for it to fit into an opening 14 ¾ cm wide?",
+          "options": [
+            {
+              "key": "a",
+              "text": "2 3/8cm"
+            },
+            {
+              "key": "b",
+              "text": "1 7/8cm"
+            },
+            {
+              "key": "c",
+              "text": "1 3/8cm"
+            },
+            {
+              "key": "d",
+              "text": "2 5/8 cm"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "1 3/8cm"
+        },
+        {
+          "id": "math_word_problems-55",
+          "number": 55,
+          "question": "A race car traveled for 2 ½ hours with an average speed of 132 5/8 km per hour. Find the total distance it covered.",
+          "options": [
+            {
+              "key": "a",
+              "text": "264 5/16km"
+            },
+            {
+              "key": "b",
+              "text": "331 9/16km"
+            },
+            {
+              "key": "c",
+              "text": "330 5/16km"
+            },
+            {
+              "key": "d",
+              "text": "135 1/8km"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "331 9/16km"
+        },
+        {
+          "id": "math_word_problems-56",
+          "number": 56,
+          "question": "If the weight of a 241-kg freight car increases 3 1/8 times when fully loaded, what will be its weight with a full load?",
+          "options": [
+            {
+              "key": "a",
+              "text": "750 3/8kg"
+            },
+            {
+              "key": "b",
+              "text": "824 3/8kg"
+            },
+            {
+              "key": "c",
+              "text": "720 5/8kg"
+            },
+            {
+              "key": "d",
+              "text": "753 1/8kg"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "753 1/8kg"
+        },
+        {
+          "id": "math_word_problems-57",
+          "number": 57,
+          "question": "How many liters will remain in 1 1000-liter storage tank if 8.2% of the liquid has evaporated due to excessive heat?",
+          "options": [
+            {
+              "key": "a",
+              "text": "918"
+            },
+            {
+              "key": "b",
+              "text": "991.8"
+            },
+            {
+              "key": "c",
+              "text": "999.18"
+            },
+            {
+              "key": "d",
+              "text": "998"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "918"
+        },
+        {
+          "id": "math_word_problems-58",
+          "number": 58,
+          "question": "Dante recently sold some stocks for which he originally bought for Php358. If it has increased in value by 116%, how much did he receive for the stock?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php678.27"
+            },
+            {
+              "key": "b",
+              "text": "Php772"
+            },
+            {
+              "key": "c",
+              "text": "Php773.28"
+            },
+            {
+              "key": "d",
+              "text": "Php778"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Php773.28"
+        },
+        {
+          "id": "math_word_problems-59",
+          "number": 59,
+          "question": "Mr. Manny Vargas, a real estate broker sold a building for Php175M. How much did he receive if his commission is 5.5% of the sale price of the property?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php9.5M"
+            },
+            {
+              "key": "b",
+              "text": "Php9.7M"
+            },
+            {
+              "key": "c",
+              "text": "Php9.625M"
+            },
+            {
+              "key": "d",
+              "text": "Php180.5M"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "Php9.625M"
+        },
+        {
+          "id": "math_word_problems-60",
+          "number": 60,
+          "question": "If 560 out of 700 examinees passed in the recent Career Service exam for Sub- Professional level, what percent of the examinees passed?",
+          "options": [
+            {
+              "key": "a",
+              "text": "65%"
+            },
+            {
+              "key": "b",
+              "text": "72%"
+            },
+            {
+              "key": "c",
+              "text": "80%"
+            },
+            {
+              "key": "d",
+              "text": "140%"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "80%"
+        },
+        {
+          "id": "math_word_problems-61",
+          "number": 61,
+          "question": "Mr. Cruz borrows Php750,000 from Asian Bank and is charged Php90,000 interest. What rate of interest did Asian Bank charge for the loan?",
+          "options": [
+            {
+              "key": "a",
+              "text": "8%"
+            },
+            {
+              "key": "b",
+              "text": "9%"
+            },
+            {
+              "key": "c",
+              "text": "10%"
+            },
+            {
+              "key": "d",
+              "text": "12%"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "12%"
+        },
+        {
+          "id": "math_word_problems-62",
+          "number": 62,
+          "question": "A store sells shirts for Php1,078 each or 3 for Php2,997. How much would one save by buying 3 shirts at a time instead of 3 shirts, one at a time?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php237"
+            },
+            {
+              "key": "b",
+              "text": "Php921"
+            },
+            {
+              "key": "c",
+              "text": "Php1,237"
+            },
+            {
+              "key": "d",
+              "text": "Php1,921"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Php237"
+        },
+        {
+          "id": "math_word_problems-63",
+          "number": 63,
+          "question": "A computer can be rented for Php1,745 a week or Php 347.50 a day. You need the computer only for 6 days. At which rate (daily or weekly), would it be cheaper to rent and by how much cheaper?",
+          "options": [
+            {
+              "key": "a",
+              "text": "weekly: Php340"
+            },
+            {
+              "key": "b",
+              "text": "daily: Php240"
+            },
+            {
+              "key": "c",
+              "text": "daily:Php340"
+            },
+            {
+              "key": "d",
+              "text": "weekly: Php240"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "weekly: Php340"
+        },
+        {
+          "id": "math_word_problems-64",
+          "number": 64,
+          "question": "A 1.25 kg of box of Brand A detergent sells for Php 87.50. A 1.5 kg box of Brand B detergent sells for Php103.20. What is the difference in the price per kg.?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 1.20"
+            },
+            {
+              "key": "b",
+              "text": "Php 1.50"
+            },
+            {
+              "key": "c",
+              "text": "Php 1.80"
+            },
+            {
+              "key": "d",
+              "text": "Php 2.00"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Php 1.20"
+        },
+        {
+          "id": "math_word_problems-65",
+          "number": 65,
+          "question": "A 30-cm long plastic pipe costs Php249. At this rate, what is the price of the pipe per meter?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 830"
+            },
+            {
+              "key": "b",
+              "text": "Php 840"
+            },
+            {
+              "key": "c",
+              "text": "Php 747"
+            },
+            {
+              "key": "d",
+              "text": "Php 749"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Php 830"
+        },
+        {
+          "id": "math_word_problems-66",
+          "number": 66,
+          "question": "A homeowner can rent a chain saw from a rental agency at Php 2,700 a day. The brand new of the same saw can be bought for Php18,900. For how many days could the homeonwer rent the saw before renting would cost more than buying?",
+          "options": [
+            {
+              "key": "a",
+              "text": "5"
+            },
+            {
+              "key": "b",
+              "text": "6"
+            },
+            {
+              "key": "c",
+              "text": "7"
+            },
+            {
+              "key": "d",
+              "text": "8"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "7"
+        },
+        {
+          "id": "math_word_problems-67",
+          "number": 67,
+          "question": "Paula uses ten 100-watt bulbs in her house. She uses these bulbs at an average of 5 hours each day. How many KWH do these bulbs use each day?",
+          "options": [
+            {
+              "key": "a",
+              "text": "5"
+            },
+            {
+              "key": "b",
+              "text": "10"
+            },
+            {
+              "key": "c",
+              "text": "50"
+            },
+            {
+              "key": "d",
+              "text": "5,000"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "5"
+        },
+        {
+          "id": "math_word_problems-68",
+          "number": 68,
+          "question": "An electric range uses 12,200 watts per hour and is run an average of 60 hours a year. How many kilowatt-hour is this?",
+          "options": [
+            {
+              "key": "a",
+              "text": "73.2"
+            },
+            {
+              "key": "b",
+              "text": "732"
+            },
+            {
+              "key": "c",
+              "text": "7,320"
+            },
+            {
+              "key": "d",
+              "text": "7.32"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "732"
+        },
+        {
+          "id": "math_word_problems-69",
+          "number": 69,
+          "question": "A DVD movie, purchased for Php440 was marked up 25% on the selling price. Later, as retail prices fell, this movie was marked down 20% on the current sale price. Find its new sale price.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 352"
+            },
+            {
+              "key": "b",
+              "text": "Php 440"
+            },
+            {
+              "key": "c",
+              "text": "Php 500"
+            },
+            {
+              "key": "d",
+              "text": "Php 550"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Php 440"
+        },
+        {
+          "id": "math_word_problems-70",
+          "number": 70,
+          "question": "VNS Inc. bought these office supplies last week: 1,320 pens @ Php 0.125; 1,480 packs paper clips @ Php 0.625; 1,240 boxes of tape @ Php 0.875; 1,720 boxes of cards @ 0.80. A 5% sales tax is added. What was the company’s total bill?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Php 173.25"
+            },
+            {
+              "key": "b",
+              "text": "Php 3,551"
+            },
+            {
+              "key": "c",
+              "text": "Php 971.25"
+            },
+            {
+              "key": "d",
+              "text": "Php 3,728.55"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "Php 3,728.55"
+        },
+        {
+          "id": "math_word_problems-71",
+          "number": 71,
+          "question": "The question “How many flowers are needed to border a rectangular garden?”, involves",
+          "options": [
+            {
+              "key": "a",
+              "text": "weight"
+            },
+            {
+              "key": "b",
+              "text": "perimeter"
+            },
+            {
+              "key": "c",
+              "text": "volume"
+            },
+            {
+              "key": "d",
+              "text": "area"
+            }
+          ],
+          "answer": null,
+          "review_flag": "no_answer_marked_in_source"
+        },
+        {
+          "id": "math_word_problems-72",
+          "number": 72,
+          "question": "How many meters of fencing are needed to enclose an 84-meter by 48-meter rectangular garden?",
+          "options": [
+            {
+              "key": "a",
+              "text": "132m"
+            },
+            {
+              "key": "b",
+              "text": "244m"
+            },
+            {
+              "key": "c",
+              "text": "264m"
+            },
+            {
+              "key": "d",
+              "text": "4,032m2"
+            }
+          ],
+          "answer": "c",
+          "answer_text": "264m"
+        },
+        {
+          "id": "math_word_problems-73",
+          "number": 73,
+          "question": "How many 1-cm square stickers are needed to cover a photo box 4 cm long, 3cm wide and 5cm high?",
+          "options": [
+            {
+              "key": "a",
+              "text": "47"
+            },
+            {
+              "key": "b",
+              "text": "60"
+            },
+            {
+              "key": "c",
+              "text": "88"
+            },
+            {
+              "key": "d",
+              "text": "94"
+            }
+          ],
+          "answer": "d",
+          "answer_text": "94"
+        },
+        {
+          "id": "math_word_problems-74",
+          "number": 74,
+          "question": "One side of a triangle is 3cm longer than the shortest side, and the other side is 4cm longer than the shortest side. How long is the shortest side if the perimeter is 67 cm?",
+          "options": [
+            {
+              "key": "a",
+              "text": "20 cm"
+            },
+            {
+              "key": "b",
+              "text": "23 cm"
+            },
+            {
+              "key": "c",
+              "text": "24 cm"
+            },
+            {
+              "key": "d",
+              "text": "27 cm"
+            }
+          ],
+          "answer": "a",
+          "answer_text": "20 cm"
+        },
+        {
+          "id": "math_word_problems-75",
+          "number": 75,
+          "question": "The length of a rectangle is 2cm less than twice its width. What is its width in cm, if its perimeter is 50cm?",
+          "options": [
+            {
+              "key": "a",
+              "text": "8"
+            },
+            {
+              "key": "b",
+              "text": "9"
+            },
+            {
+              "key": "c",
+              "text": "16"
+            },
+            {
+              "key": "d",
+              "text": "25"
+            }
+          ],
+          "answer": "b",
+          "answer_text": "9"
+        }
+      ]
+    },
+    {
+      "id": "data_sufficiency",
+      "category": "Mathematics",
+      "name": "Data Sufficiency",
+      "directions": "Decide whether the data given in statements (1) and (2) are sufficient to answer the question.",
+      "question_count": 20,
+      "questions": [
+        {
+          "id": "data_sufficiency-1",
+          "number": 1,
+          "question": "By what percent was the price per kilo of chicken inceased?",
+          "statement_1": "The price per kilo of chicken was increased by Php20",
+          "statement_2": "The price per kilo of chicken was increased by Php120",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-2",
+          "number": 2,
+          "question": "A real estate broker received a commission of 8% of the selling price of a certain property, what was the selling price of the property?",
+          "statement_1": "The selling price minus the real estate agent’s commission was Php 9,200,000",
+          "statement_2": "The selling price was 250% of the original purchase price of Php 4,000,000.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "d",
+          "answer_text": "EACH statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-3",
+          "number": 3,
+          "question": "Cherry and Keanna were among those who sold raffle tickets to raise money for the club. If Cherry and Keanna sold a total of 168 tickets, how many tickets did Cherry sell?",
+          "statement_1": "Keanna sold 60% as many raffle tickets as Cherry",
+          "statement_2": "Keanna sold 8% of all the raffle tickets sold.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-4",
+          "number": 4,
+          "question": "What is the ratio of m : s: a?",
+          "statement_1": "a = 2, and ms = 64",
+          "statement_2": "m/s = 2 and a/s = ¼",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-5",
+          "number": 5,
+          "question": "If x and y are integers, is x divisible by 17?",
+          "statement_1": "The product xy is divisible by 17",
+          "statement_2": "y is not divisible by 17",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-6",
+          "number": 6,
+          "question": "On Saturday monring the printing machine of Gerpress Printing ran continuously at uniform rate to fill a production order. At what time did it completely fill the order that morning?",
+          "statement_1": "The supervisor began the plan for production 8:08am.",
+          "statement_2": "The machine had filled 50% of the order at 9:48am and 5/6 of the order by 10:18am",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-7",
+          "number": 7,
+          "question": "How many books does Gerard have?",
+          "statement_1": "If Gerard had 18 fewer books, he would have only half as many as he actually has.",
+          "statement_2": "Gerard has three times as many fiction as non-fiction books.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-8",
+          "number": 8,
+          "question": "What number is 24% of x?",
+          "statement_1": "16 is 8% of x",
+          "statement_2": "1/8 of x is 1,600",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "d",
+          "answer_text": "EACH statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-9",
+          "number": 9,
+          "question": "What was the total amount raised for the Payatas Tragedy from private corporations and personal donations?",
+          "statement_1": "Of the amount donated,48% came from private corporations",
+          "statement_2": "Of the amount donated, Php15M came from personal donations.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-10",
+          "number": 10,
+          "question": "Mary’s total score in the three bowling games was 530. What were her scores?",
+          "statement_1": "Mary’s highest score was 198",
+          "statement_2": "The sum of Mary’s two highest scores was 368",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-11",
+          "number": 11,
+          "question": "If the value of n closer to 48 than to 78?",
+          "statement_1": "78 – n > n – 48",
+          "statement_2": "n > 60",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-12",
+          "number": 12,
+          "question": "In last Saturday’s Midnight Sale at Gaisano Mall a certain shop sold 75% of the shirts in its inventory. Each shirt was sold for Php358. What was the total revenue from the sale of these shirts on that day?",
+          "statement_1": "When the shop opened last Saturday, there were 448 shirts in its inventory",
+          "statement_2": "All but 112 of the shop’s inventory were sold last Saturday.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "d",
+          "answer_text": "EACH statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-13",
+          "number": 13,
+          "question": "How many more boys than girls are there in the room?",
+          "statement_1": "There is a total of 56 girls and boys in the room.",
+          "statement_2": "The number of boys in the room equals the square of the number of girls in the room.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-14",
+          "number": 14,
+          "question": "In what year was David born?",
+          "statement_1": "David’s friend Michelle, who is ½ years younger than him, was born in 1979.",
+          "statement_2": "In 1998, David turned 20 years old",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-15",
+          "number": 15,
+          "question": "A box contains 48 balls, of which 30 are red and 18 are blue. If 16 of the balls are removed, how many of the balls left in the box are blue?",
+          "statement_1": "Of the balls removed, the ratio of the number of red ones to the number of blue ones is 5:3",
+          "statement_2": "Of the first 8 marbles removed, 5 are red",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-16",
+          "number": 16,
+          "question": "How long did it take Mrs. Lim to drive non-stop on a trip from here home to Ayala Alabang?",
+          "statement_1": "If Mrs. Lim average speed for the trip had been 1.5 times as fast, the trip would have taken 2 hours.",
+          "statement_2": "Mrs. Lim average speed for the trip was 80 km per hour.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "a",
+          "answer_text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-17",
+          "number": 17,
+          "question": "If Lorna had a dentist’s appointment on a certain day, was the appointment on a Friday?",
+          "statement_1": "Exactly 64 hours before the appointment, it was Wednesday.",
+          "statement_2": "The appointment is between 2:00pm to 7:00pm",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-18",
+          "number": 18,
+          "question": "What was the average number of kilometers per liter of gasoline a car can consume during a certain trip?",
+          "statement_1": "The total cost of the gasoline used by the card or the 640-km trip was Php1,152.",
+          "statement_2": "The cost for the gasoline used by the car for the trip was Php18.00 per liter.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "c",
+          "answer_text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+        },
+        {
+          "id": "data_sufficiency-19",
+          "number": 19,
+          "question": "What is the ratio of a to b?",
+          "statement_1": "a is 8 more than twice b.",
+          "statement_2": "The ratio of a to 4b is 3 : 7.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "b",
+          "answer_text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+        },
+        {
+          "id": "data_sufficiency-20",
+          "number": 20,
+          "question": "At Avanti Review Center, 400 students are enrolled for the Review Program or Academic Advancement Program or both. If 100 of these students are not enrolled in the Review Program, how many of them are enrolled in both Avanti Review Program and Avanti Academic Advancement Program?",
+          "statement_1": "Of the 400 students, 160 are not enrolled in the Academic Advancement Program.",
+          "statement_2": "A total of 240 of the students are enrolled in the Academic Advancement Program.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+            },
+            {
+              "key": "b",
+              "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+            },
+            {
+              "key": "c",
+              "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+            },
+            {
+              "key": "d",
+              "text": "EACH statement ALONE is sufficient."
+            },
+            {
+              "key": "e",
+              "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+            }
+          ],
+          "answer": "d",
+          "answer_text": "EACH statement ALONE is sufficient."
+        }
+      ]
+    }
+  ]
+}
