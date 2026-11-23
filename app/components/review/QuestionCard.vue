@@ -29,26 +29,28 @@ const isCorrect = computed(
         <p class="text-xs font-semibold uppercase tracking-[0.14em] text-indigo-600">
           Question {{ position }} of {{ total }}
         </p>
-        <div class="mt-2 h-1.5 w-32 overflow-hidden rounded-full bg-slate-200">
-          <div
-            class="h-full rounded-full bg-indigo-600 transition-[width]"
-            :style="{ width: `${Math.max(5, (position / total) * 100)}%` }"
+          <Progress
+            :model-value="Math.max(5, (position / total) * 100)"
+            class="mt-2 h-1.5 w-32 bg-indigo-100"
           />
-        </div>
       </div>
-      <div class="flex items-center gap-2 rounded-full border border-slate-200 bg-white px-3 py-1.5 text-sm font-semibold text-slate-600">
+      <Badge variant="outline" class="gap-2 rounded-full px-3 py-1.5 text-sm text-slate-600">
         <Clock3 class="h-4 w-4 text-slate-400" />
         14:32
-      </div>
+      </Badge>
     </div>
 
-    <article class="rounded-2xl border border-slate-200 bg-white p-5 shadow-[0_8px_30px_rgba(15,23,42,0.05)] sm:p-8">
-      <p v-if="question.sectionName" class="mb-3 text-xs font-semibold text-slate-500">
-        {{ question.sectionName }}
-      </p>
-      <p v-if="question.sectionDirections" class="mb-5 rounded-lg bg-slate-50 px-3 py-2.5 text-sm leading-6 text-slate-600">
-        {{ question.sectionDirections }}
-      </p>
+    <Card class="gap-0 rounded-2xl border-slate-200 py-0 shadow-[0_8px_30px_rgba(15,23,42,0.05)]">
+      <CardHeader class="px-5 pt-5 sm:px-8 sm:pt-8">
+        <CardDescription v-if="question.sectionName" class="text-xs font-semibold text-slate-500">
+          {{ question.sectionName }}
+        </CardDescription>
+        <div v-if="question.sectionDirections" class="mt-3 rounded-lg bg-slate-50 px-3 py-2.5 text-sm leading-6 text-slate-600">
+          {{ question.sectionDirections }}
+        </div>
+      </CardHeader>
+
+      <CardContent class="px-5 pb-5 sm:px-8 sm:pb-8">
 
       <div v-if="question.items?.length" class="mb-5 space-y-1 rounded-lg border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-700">
         <p v-for="item in question.items" :key="item">{{ item }}</p>
@@ -105,33 +107,35 @@ const isCorrect = computed(
       />
 
       <div class="mt-7 flex items-center justify-between border-t border-slate-100 pt-5">
-        <button
+        <Button
           type="button"
-          class="rounded-lg px-3 py-2.5 text-sm font-semibold text-slate-500 hover:bg-slate-50 disabled:cursor-not-allowed disabled:text-slate-300"
+          variant="ghost"
+          class="text-slate-500"
           :disabled="position <= 1"
           @click="emit('previous')"
         >
           Previous
-        </button>
-        <button
+        </Button>
+        <Button
           v-if="!submitted"
           type="button"
-          class="rounded-lg bg-indigo-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-indigo-700 disabled:cursor-not-allowed disabled:bg-slate-200 disabled:text-slate-400"
+          class="bg-indigo-600 text-white hover:bg-indigo-700"
           :disabled="!selectedKey"
           @click="emit('submit')"
         >
           Submit answer
-        </button>
-        <button
+        </Button>
+        <Button
           v-else
           type="button"
-          class="rounded-lg bg-slate-900 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-slate-800 disabled:cursor-not-allowed disabled:bg-slate-200 disabled:text-slate-400"
+          class="bg-slate-900 text-white hover:bg-slate-800"
           :disabled="position >= total"
           @click="emit('next')"
         >
           Next question
-        </button>
+        </Button>
       </div>
-    </article>
+      </CardContent>
+    </Card>
   </div>
 </template>

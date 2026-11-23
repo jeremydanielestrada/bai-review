@@ -30,7 +30,9 @@ const {
     @previous="previousQuestion"
     @next="nextQuestion"
   />
-  <div v-else class="mx-auto max-w-[750px] px-6 py-10 text-center text-sm text-slate-500">
-    No questions are available for this subject.
-  </div>
+  <Card v-else class="mx-4 mt-6 max-w-[750px] gap-0 py-8 text-center sm:mx-auto">
+    <CardContent class="text-sm text-slate-500">
+      No questions are available for this subject.
+    </CardContent>
+  </Card>
 </template>

@@ -9,8 +9,8 @@ defineProps<{
 </script>
 
 <template>
-  <div
-    class="mt-5 rounded-xl border px-4 py-3.5"
+  <Alert
+    class="mt-5"
     :class="isCorrect
       ? 'border-emerald-200 bg-emerald-50'
       : 'border-rose-200 bg-rose-50'"
@@ -19,20 +19,20 @@ defineProps<{
       <CheckCircle2 v-if="isCorrect" class="mt-0.5 h-5 w-5 shrink-0 text-emerald-600" />
       <XCircle v-else class="mt-0.5 h-5 w-5 shrink-0 text-rose-600" />
       <div>
-        <p class="text-sm font-bold" :class="isCorrect ? 'text-emerald-900' : 'text-rose-900'">
+        <AlertTitle class="text-sm font-bold" :class="isCorrect ? 'text-emerald-900' : 'text-rose-900'">
           {{ isCorrect ? "Correct" : "Incorrect" }}
           <span class="font-semibold">
             — Answer: {{ question.answer_text || question.answer.toUpperCase() }}
           </span>
-        </p>
-        <p
+        </AlertTitle>
+        <AlertDescription
           v-if="question.explanation || question.rationale"
           class="mt-1 text-sm leading-6"
           :class="isCorrect ? 'text-emerald-800' : 'text-rose-800'"
         >
           {{ question.explanation || question.rationale }}
-        </p>
+        </AlertDescription>
       </div>
     </div>
-  </div>
+  </Alert>
 </template>

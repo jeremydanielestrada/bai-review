@@ -31,9 +31,10 @@ function select(subjectId: string) {
 
 <template>
   <div class="h-[100dvh] overflow-hidden bg-slate-50 text-slate-900">
-    <button
+    <Button
       v-if="sidebarOpen"
-      class="fixed inset-0 z-40 bg-slate-950/40 lg:hidden"
+      variant="ghost"
+      class="fixed inset-0 z-40 h-full w-full rounded-none bg-slate-950/40 hover:bg-slate-950/40 lg:hidden"
       aria-label="Close navigation"
       @click="sidebarOpen = false"
     />
@@ -51,13 +52,15 @@ function select(subjectId: string) {
           <p class="text-sm font-bold leading-tight">Reviewer App</p>
           <p class="mt-0.5 text-xs text-slate-500">Learning library</p>
         </div>
-        <button
-          class="ml-auto flex h-9 w-9 items-center justify-center rounded-lg text-slate-500 hover:bg-slate-100 lg:hidden"
+        <Button
+          variant="ghost"
+          size="icon"
+          class="ml-auto text-slate-500 lg:hidden"
           aria-label="Close navigation"
           @click="sidebarOpen = false"
         >
           <X class="h-5 w-5" />
-        </button>
+        </Button>
       </div>
 
       <nav class="min-h-0 flex-1 overflow-y-auto px-3 py-4">
@@ -65,11 +68,12 @@ function select(subjectId: string) {
           Subjects
         </p>
         <div class="space-y-1">
-          <button
+          <Button
             v-for="subject in reviewerSubjects"
             :key="subject.id"
             type="button"
-            class="flex w-full items-center rounded-lg px-3 py-2.5 text-left text-sm font-medium transition-colors"
+            variant="ghost"
+            class="h-auto w-full justify-start px-3 py-2.5 text-left text-sm font-medium"
             :class="selectedSubjectId === subject.id
               ? 'bg-indigo-50 text-indigo-700'
               : 'text-slate-600 hover:bg-slate-50 hover:text-slate-950'"
@@ -88,29 +92,31 @@ function select(subjectId: string) {
             <span class="ml-auto shrink-0 text-xs font-medium text-slate-400">
               {{ subject.totalQuestions }}
             </span>
-          </button>
+          </Button>
         </div>
       </nav>
 
       <div class="shrink-0 border-t border-slate-100 p-3">
-        <button class="flex w-full items-center rounded-lg px-3 py-2.5 text-sm font-medium text-slate-600 hover:bg-slate-50 hover:text-slate-950">
+        <Button variant="ghost" class="h-auto w-full justify-start px-3 py-2.5 text-sm font-medium text-slate-600">
           <span class="mr-3 flex h-8 w-8 items-center justify-center rounded-lg bg-slate-100">
             <Settings class="h-4 w-4" />
           </span>
           Settings
-        </button>
+        </Button>
       </div>
     </aside>
 
     <section class="flex h-dvh min-w-0 flex-col lg:ml-[250px]">
       <header class="flex h-16 shrink-0 items-center border-b border-slate-200 bg-white px-4 sm:px-6">
-        <button
-          class="mr-3 flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-slate-200 text-slate-600 hover:bg-slate-50 lg:hidden"
+        <Button
+          variant="outline"
+          size="icon"
+          class="mr-3 shrink-0 lg:hidden"
           aria-label="Open subject navigation"
           @click="sidebarOpen = true"
         >
           <Menu class="h-5 w-5" />
-        </button>
+        </Button>
         <div class="min-w-0">
           <h1 class="truncate text-base font-bold text-slate-950">Reviewer App</h1>
           <p class="truncate text-xs text-slate-500">

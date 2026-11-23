@@ -33,12 +33,13 @@ const badgeClass = computed(() => {
 </script>
 
 <template>
-  <button
+  <Button
     type="button"
     role="radio"
     :aria-checked="selected"
     :disabled="disabled"
-    class="group flex w-full items-center gap-3 rounded-xl border px-3 py-3 text-left transition-colors disabled:cursor-default sm:px-4 sm:py-3.5"
+    variant="outline"
+    class="h-auto w-full justify-start gap-3 whitespace-normal px-3 py-3 text-left disabled:cursor-default sm:px-4 sm:py-3.5"
     :class="stateClass"
   >
     <span
@@ -57,5 +58,5 @@ const badgeClass = computed(() => {
       />
       <span v-else>{{ option.text || "Choice not available in source" }}</span>
     </span>
-  </button>
+  </Button>
 </template>
