@@ -12,12 +12,12 @@ const props = defineProps<{
 const stateClass = computed(() => {
   if (!props.submitted) {
     return props.selected
-      ? "border-indigo-500 bg-indigo-50/70 ring-1 ring-indigo-500"
-      : "border-slate-200 bg-white hover:border-slate-300 hover:bg-slate-50"
+      ? "border-indigo-500 bg-indigo-50 ring-1 ring-indigo-500 shadow-sm"
+      : "border-slate-300 bg-white shadow-sm hover:border-indigo-300 hover:bg-indigo-50/40"
   }
-  if (props.correct) return "border-emerald-500 bg-emerald-50 ring-1 ring-emerald-500"
-  if (props.selected) return "border-rose-400 bg-rose-50 ring-1 ring-rose-400"
-  return "border-slate-200 bg-white"
+  if (props.correct) return "border-emerald-500 bg-emerald-50 ring-1 ring-emerald-500 shadow-sm"
+  if (props.selected) return "border-rose-400 bg-rose-50 ring-1 ring-rose-400 shadow-sm"
+  return "border-slate-200 bg-slate-50"
 })
 
 const badgeClass = computed(() => {
@@ -38,8 +38,8 @@ const badgeClass = computed(() => {
     role="radio"
     :aria-checked="selected"
     :disabled="disabled"
-    variant="outline"
-    class="h-auto w-full justify-start gap-3 whitespace-normal px-3 py-3 text-left disabled:cursor-default sm:px-4 sm:py-3.5"
+    variant="ghost"
+    class="flex h-auto min-h-0 w-full items-center justify-start gap-3 rounded-xl border px-3 py-3 text-left whitespace-normal disabled:cursor-default sm:px-4 sm:py-3.5"
     :class="stateClass"
   >
     <span

@@ -73,10 +73,10 @@ function select(subjectId: string) {
             :key="subject.id"
             type="button"
             variant="ghost"
-            class="h-auto w-full justify-start px-3 py-2.5 text-left text-sm font-medium"
+            class="flex h-auto w-full items-center justify-start rounded-lg border px-3 py-2.5 text-left text-sm font-medium shadow-sm"
             :class="selectedSubjectId === subject.id
-              ? 'bg-indigo-50 text-indigo-700'
-              : 'text-slate-600 hover:bg-slate-50 hover:text-slate-950'"
+              ? 'border-indigo-200 bg-indigo-50 text-indigo-700 shadow-indigo-100'
+              : 'border-slate-200 bg-white text-slate-600 hover:border-slate-300 hover:bg-slate-50 hover:text-slate-950'"
             :aria-current="selectedSubjectId === subject.id ? 'page' : undefined"
             @click="select(subject.id)"
           >
@@ -97,7 +97,7 @@ function select(subjectId: string) {
       </nav>
 
       <div class="shrink-0 border-t border-slate-100 p-3">
-        <Button variant="ghost" class="h-auto w-full justify-start px-3 py-2.5 text-sm font-medium text-slate-600">
+        <Button variant="ghost" class="h-auto w-full justify-start rounded-lg border border-transparent px-3 py-2.5 text-sm font-medium text-slate-600 hover:border-slate-200 hover:bg-slate-50">
           <span class="mr-3 flex h-8 w-8 items-center justify-center rounded-lg bg-slate-100">
             <Settings class="h-4 w-4" />
           </span>
