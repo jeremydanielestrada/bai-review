@@ -20,6 +20,21 @@ const emit = defineEmits<{
 const isCorrect = computed(
   () => props.selectedKey?.toLowerCase() === props.question.answer.toLowerCase(),
 )
+
+const questionSegments = computed(() => {
+  const question = props.question.question
+  const emphasized = props.question.italicized
+  if (!emphasized) return [{ text: question, emphasized: false }]
+
+  const index = question.toLowerCase().indexOf(emphasized.toLowerCase())
+  if (index < 0) return [{ text: question, emphasized: false }]
+
+  return [
+    { text: question.slice(0, index), emphasized: false },
+    { text: question.slice(index, index + emphasized.length), emphasized: true },
+    { text: question.slice(index + emphasized.length), emphasized: false },
+  ].filter((segment) => segment.text.length > 0)
+})
 </script>
 
 <template>
@@ -72,7 +87,10 @@ const isCorrect = computed(
           {{ position }}
         </span>
         <h2 class="pt-0.5 text-lg font-bold leading-7 text-slate-950 sm:text-xl sm:leading-8">
-          {{ question.question }}
+          <template v-for="(segment, index) in questionSegments" :key="index">
+            <em v-if="segment.emphasized" class="underline decoration-indigo-500 decoration-2 underline-offset-3">{{ segment.text }}</em>
+            <template v-else>{{ segment.text }}</template>
+          </template>
         </h2>
       </div>
 

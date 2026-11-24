@@ -15,6 +15,7 @@ export interface ReviewQuestion {
   id: string
   number: number
   question: string
+  italicized?: string
   image?: string
   options: ReviewOption[]
   answer: string

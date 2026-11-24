@@ -32,7 +32,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "napakikinggan"
+          "answer_text": "napakikinggan",
+          "italicized": "Nauulinigan"
         },
         {
           "id": "kasingkahulugan-2",
@@ -57,7 +58,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "mag-aalaga"
+          "answer_text": "mag-aalaga",
+          "italicized": "mag-aaruga"
         },
         {
           "id": "kasingkahulugan-3",
@@ -82,7 +84,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "nalilito"
+          "answer_text": "nalilito",
+          "italicized": "Nagugulumihanan"
         },
         {
           "id": "kasingkahulugan-4",
@@ -107,7 +110,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "punung-puno"
+          "answer_text": "punung-puno",
+          "italicized": "Tigib"
         },
         {
           "id": "kasingkahulugan-5",
@@ -132,7 +136,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "ibinulgar"
+          "answer_text": "ibinulgar",
+          "italicized": "isiniwalat"
         },
         {
           "id": "kasingkahulugan-6",
@@ -157,7 +162,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "ipinanukala"
+          "answer_text": "ipinanukala",
+          "italicized": "Iminungkuhi"
         },
         {
           "id": "kasingkahulugan-7",
@@ -182,7 +188,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "kayabangan"
+          "answer_text": "kayabangan",
+          "italicized": "kapalaluan"
         },
         {
           "id": "kasingkahulugan-8",
@@ -207,7 +214,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "magulo ang isip"
+          "answer_text": "magulo ang isip",
+          "italicized": "naliligalig"
         },
         {
           "id": "kasingkahulugan-9",
@@ -232,7 +240,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "magaan"
+          "answer_text": "magaan",
+          "italicized": "Maalwan"
         },
         {
           "id": "kasingkahulugan-10",
@@ -257,7 +266,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "pandayan"
+          "answer_text": "pandayan",
+          "italicized": "palihan"
         },
         {
           "id": "kasingkahulugan-11",
@@ -282,7 +292,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "paglibak"
+          "answer_text": "paglibak",
+          "italicized": "pagkutya"
         },
         {
           "id": "kasingkahulugan-12",
@@ -307,7 +318,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "nakagugulo"
+          "answer_text": "nakagugulo",
+          "italicized": "nakabubulahaw"
         },
         {
           "id": "kasingkahulugan-13",
@@ -332,7 +344,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "magtamasa"
+          "answer_text": "magtamasa",
+          "italicized": "magkamal"
         },
         {
           "id": "kasingkahulugan-14",
@@ -357,7 +370,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "inapi"
+          "answer_text": "inapi",
+          "italicized": "siniil"
         },
         {
           "id": "kasingkahulugan-15",
@@ -382,7 +396,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "bangayan"
+          "answer_text": "bangayan",
+          "italicized": "alitan"
         },
         {
           "id": "kasingkahulugan-16",
@@ -407,7 +422,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "kalat"
+          "answer_text": "kalat",
+          "italicized": "Laganap"
         },
         {
           "id": "kasingkahulugan-17",
@@ -432,7 +448,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "nagaganyak"
+          "answer_text": "nagaganyak",
+          "italicized": "nababalino"
         },
         {
           "id": "kasingkahulugan-18",
@@ -457,7 +474,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "reklamo"
+          "answer_text": "reklamo",
+          "italicized": "himutok"
         },
         {
           "id": "kasingkahulugan-19",
@@ -482,7 +500,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "ninanais"
+          "answer_text": "ninanais",
+          "italicized": "minimithi"
         },
         {
           "id": "kasingkahulugan-20",
@@ -507,7 +526,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "sumugod"
+          "answer_text": "sumugod",
+          "italicized": "sumugba"
         },
         {
           "id": "kasingkahulugan-21",
@@ -532,7 +552,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "gisingin"
+          "answer_text": "gisingin",
+          "italicized": "pukawin"
         },
         {
           "id": "kasingkahulugan-22",
@@ -557,7 +578,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "magtampo"
+          "answer_text": "magtampo",
+          "italicized": "magmaktol"
         },
         {
           "id": "kasingkahulugan-23",
@@ -582,7 +604,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "maraming-marami"
+          "answer_text": "maraming-marami",
+          "italicized": "namumutiktik"
         },
         {
           "id": "kasingkahulugan-24",
@@ -607,7 +630,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "sumikip"
+          "answer_text": "sumikip",
+          "italicized": "Kumipot"
         },
         {
           "id": "kasingkahulugan-25",
@@ -632,7 +656,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "pagod na pagod"
+          "answer_text": "pagod na pagod",
+          "italicized": "Patang-pata"
         }
       ]
     },
@@ -666,7 +691,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "di-totoo"
+          "answer_text": "di-totoo",
+          "italicized": "matimyas"
         },
         {
           "id": "kasalungat-2",
@@ -691,7 +717,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "malanta"
+          "answer_text": "malanta",
+          "italicized": "yumabong"
         },
         {
           "id": "kasalungat-3",
@@ -716,7 +743,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "galak"
+          "answer_text": "galak",
+          "italicized": "lumbay"
         },
         {
           "id": "kasalungat-4",
@@ -741,7 +769,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "pag-alis"
+          "answer_text": "pag-alis",
+          "italicized": "pagdaong"
         },
         {
           "id": "kasalungat-5",
@@ -766,7 +795,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "pambihira"
+          "answer_text": "pambihira",
+          "italicized": "Palasak"
         },
         {
           "id": "kasalungat-6",
@@ -791,7 +821,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "nainis"
+          "answer_text": "nainis",
+          "italicized": "Nabaghan"
         },
         {
           "id": "kasalungat-7",
@@ -816,7 +847,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "purihin"
+          "answer_text": "purihin",
+          "italicized": "umalipusta"
         },
         {
           "id": "kasalungat-8",
@@ -841,7 +873,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "paunlad"
+          "answer_text": "paunlad",
+          "italicized": "Pahapay"
         },
         {
           "id": "kasalungat-9",
@@ -866,7 +899,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "makinis"
+          "answer_text": "makinis",
+          "italicized": "magalas"
         },
         {
           "id": "kasalungat-10",
@@ -891,7 +925,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "maayos"
+          "answer_text": "maayos",
+          "italicized": "Masalimuot"
         },
         {
           "id": "kasalungat-11",
@@ -916,7 +951,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "hinubaran"
+          "answer_text": "hinubaran",
+          "italicized": "Sinaplutan"
         },
         {
           "id": "kasalungat-12",
@@ -941,7 +977,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "matapat"
+          "answer_text": "matapat",
+          "italicized": "taksil"
         },
         {
           "id": "kasalungat-13",
@@ -966,7 +1003,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "tahimik"
+          "answer_text": "tahimik",
+          "italicized": "mabungalngal"
         },
         {
           "id": "kasalungat-14",
@@ -991,7 +1029,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "napakabilis"
+          "answer_text": "napakabilis",
+          "italicized": "Napakukupad"
         },
         {
           "id": "kasalungat-15",
@@ -1016,7 +1055,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "aasenso"
+          "answer_text": "aasenso",
+          "italicized": "magdarahop"
         },
         {
           "id": "kasalungat-16",
@@ -1041,7 +1081,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "matatas"
+          "answer_text": "matatas",
+          "italicized": "garil"
         },
         {
           "id": "kasalungat-17",
@@ -1066,7 +1107,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "sakitin"
+          "answer_text": "sakitin",
+          "italicized": "hawas"
         },
         {
           "id": "kasalungat-18",
@@ -1091,7 +1133,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "waldas"
+          "answer_text": "waldas",
+          "italicized": "hidhid"
         },
         {
           "id": "kasalungat-19",
@@ -1116,7 +1159,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "puno"
+          "answer_text": "puno",
+          "italicized": "Hungkag"
         },
         {
           "id": "kasalungat-20",
@@ -1141,7 +1185,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "namukadkad"
+          "answer_text": "namukadkad",
+          "italicized": "naluoy"
         },
         {
           "id": "kasalungat-21",
@@ -1166,7 +1211,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "malasa"
+          "answer_text": "malasa",
+          "italicized": "walang latoy"
         },
         {
           "id": "kasalungat-22",
@@ -1191,7 +1237,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "pinagpatuloy"
+          "answer_text": "pinagpatuloy",
+          "italicized": "nilubayan"
         },
         {
           "id": "kasalungat-23",
@@ -1216,7 +1263,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "magkakadikit"
+          "answer_text": "magkakadikit",
+          "italicized": "maagwat"
         },
         {
           "id": "kasalungat-24",
@@ -1241,7 +1289,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "manhid"
+          "answer_text": "manhid",
+          "italicized": "Maantak"
         },
         {
           "id": "kasalungat-25",
@@ -1266,7 +1315,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "maamo"
+          "answer_text": "maamo",
+          "italicized": "mabalasik"
         }
       ]
     },
@@ -1300,7 +1350,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "lumayas"
+          "answer_text": "lumayas",
+          "italicized": "Nag-alsa balutan"
         },
         {
           "id": "kawikaan-2",
@@ -1325,7 +1376,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "duwag"
+          "answer_text": "duwag",
+          "italicized": "bahag ang buntot"
         },
         {
           "id": "kawikaan-3",
@@ -1350,7 +1402,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "ayaw nang paniwalaan"
+          "answer_text": "ayaw nang paniwalaan",
+          "italicized": "basa ang papel"
         },
         {
           "id": "kawikaan-4",
@@ -1375,7 +1428,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "galit na galit"
+          "answer_text": "galit na galit",
+          "italicized": "Kumukulo ang dugo"
         },
         {
           "id": "kawikaan-5",
@@ -1400,7 +1454,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "hindi maawat"
+          "answer_text": "hindi maawat",
+          "italicized": "Di-mahapayang gatang"
         },
         {
           "id": "kawikaan-6",
@@ -1425,7 +1480,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "sunud-sunuran"
+          "answer_text": "sunud-sunuran",
+          "italicized": "hawak sa tainga"
         },
         {
           "id": "kawikaan-7",
@@ -1450,7 +1506,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "maganda ang kinabukasan"
+          "answer_text": "maganda ang kinabukasan",
+          "italicized": "Mabulaklak ang landas"
         },
         {
           "id": "kawikaan-8",
@@ -1475,12 +1532,13 @@
             }
           ],
           "answer": "d",
-          "answer_text": "walang pasensiya"
+          "answer_text": "walang pasensiya",
+          "italicized": "Maliit ang sisidlan"
         },
         {
           "id": "kawikaan-9",
           "number": 9,
-          "question": "Mahilig kasing magbasa kahit sa madilim si Tina kaya siya ay nagmamatang- manok.",
+          "question": "Mahilig kasing magbasa kahit sa madilim si Tina kaya siya ay nagmamatang-manok.",
           "options": [
             {
               "key": "a",
@@ -1500,7 +1558,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "malabo ang mata"
+          "answer_text": "malabo ang mata",
+          "italicized": "nagmamatang-manok"
         },
         {
           "id": "kawikaan-10",
@@ -1525,7 +1584,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "pagkasira ng pagkakaibigan"
+          "answer_text": "pagkasira ng pagkakaibigan",
+          "italicized": "pagsasaulian ng kandila"
         },
         {
           "id": "kawikaan-11",
@@ -1550,7 +1610,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "pakunwari"
+          "answer_text": "pakunwari",
+          "italicized": "Pabalat-bunga"
         },
         {
           "id": "kawikaan-12",
@@ -1575,7 +1636,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "nagmamamakawa"
+          "answer_text": "nagmamamakawa",
+          "italicized": "Tiklop-tuhod"
         },
         {
           "id": "kawikaan-13",
@@ -1600,7 +1662,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "mahiyain"
+          "answer_text": "mahiyain",
+          "italicized": "talo-saling"
         },
         {
           "id": "kawikaan-14",
@@ -1625,7 +1688,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "walang kusang-loob"
+          "answer_text": "walang kusang-loob",
+          "italicized": "walang kusang-palo"
         },
         {
           "id": "kawikaan-15",
@@ -1650,7 +1714,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "walang utang na loob"
+          "answer_text": "walang utang na loob",
+          "italicized": "walang lingon-likod"
         },
         {
           "id": "kawikaan-16",
@@ -1675,7 +1740,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "nakasasabik"
+          "answer_text": "nakasasabik",
+          "italicized": "Makapigil-hininga"
         },
         {
           "id": "kawikaan-17",
@@ -1700,7 +1766,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "maitim ang budhi"
+          "answer_text": "maitim ang budhi",
+          "italicized": "Halang ang kaluluwa"
         },
         {
           "id": "kawikaan-18",
@@ -1725,7 +1792,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "napakalawak"
+          "answer_text": "napakalawak",
+          "italicized": "Di-maliparan ng uwak"
         },
         {
           "id": "kawikaan-19",
@@ -1750,7 +1818,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "napakatanda na"
+          "answer_text": "napakatanda na",
+          "italicized": "Makunat pa sa patola"
         },
         {
           "id": "kawikaan-20",
@@ -1775,7 +1844,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "nawalan ng pag-asa"
+          "answer_text": "nawalan ng pag-asa",
+          "italicized": "Nilubugan ng araw"
         },
         {
           "id": "kawikaan-21",
@@ -1800,7 +1870,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "mahilig mamasyal"
+          "answer_text": "mahilig mamasyal",
+          "italicized": "may puyo sa talampakan"
         },
         {
           "id": "kawikaan-22",
@@ -1825,7 +1896,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "nanliligaw"
+          "answer_text": "nanliligaw",
+          "italicized": "naniningalang-pugad"
         },
         {
           "id": "kawikaan-23",
@@ -1850,7 +1922,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "masakit magsalita"
+          "answer_text": "masakit magsalita",
+          "italicized": "maanghang ang kanyang dila"
         },
         {
           "id": "kawikaan-24",
@@ -1875,7 +1948,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "walang pera"
+          "answer_text": "walang pera",
+          "italicized": "butas ang kanyang bulsa"
         },
         {
           "id": "kawikaan-25",
@@ -1900,7 +1974,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "nagbibingi-bingihan"
+          "answer_text": "nagbibingi-bingihan",
+          "italicized": "nagtataingang-kawali"
         }
       ]
     },
