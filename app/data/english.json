@@ -661,7 +661,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "indifferent"
+          "answer_text": "indifferent",
+          "bold_italicized": "apathetic"
         },
         {
           "id": "synonyms-2",
@@ -686,7 +687,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "aware"
+          "answer_text": "aware",
+          "bold_italicized": "cognizant"
         },
         {
           "id": "synonyms-3",
@@ -711,7 +713,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "damaging"
+          "answer_text": "damaging",
+          "bold_italicized": "disparaging"
         },
         {
           "id": "synonyms-4",
@@ -736,7 +739,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "short lived"
+          "answer_text": "short lived",
+          "bold_italicized": "ephemeral"
         },
         {
           "id": "synonyms-5",
@@ -761,7 +765,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "choosy"
+          "answer_text": "choosy",
+          "bold_italicized": "fastidious"
         },
         {
           "id": "synonyms-6",
@@ -786,7 +791,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "gigantic"
+          "answer_text": "gigantic",
+          "bold_italicized": "gargantuan"
         },
         {
           "id": "synonyms-7",
@@ -811,7 +817,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "arrogant"
+          "answer_text": "arrogant",
+          "bold_italicized": "haughty"
         },
         {
           "id": "synonyms-8",
@@ -836,7 +843,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "disrespectable"
+          "answer_text": "disrespectable",
+          "bold_italicized": "ignominious"
         },
         {
           "id": "synonyms-9",
@@ -861,7 +869,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "rude"
+          "answer_text": "rude",
+          "bold_italicized": "impudent"
         },
         {
           "id": "synonyms-10",
@@ -886,7 +895,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "microscopic"
+          "answer_text": "microscopic",
+          "bold_italicized": "infinitesimal"
         },
         {
           "id": "synonyms-11",
@@ -911,7 +921,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "treacherous"
+          "answer_text": "treacherous",
+          "bold_italicized": "insidious"
         },
         {
           "id": "synonyms-12",
@@ -936,7 +947,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "hot-tempered"
+          "answer_text": "hot-tempered",
+          "bold_italicized": "irascible"
         },
         {
           "id": "synonyms-13",
@@ -961,7 +973,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "careful"
+          "answer_text": "careful",
+          "bold_italicized": "meticulous"
         },
         {
           "id": "synonyms-14",
@@ -986,7 +999,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "worldly"
+          "answer_text": "worldly",
+          "bold_italicized": "mundane"
         },
         {
           "id": "synonyms-15",
@@ -1011,7 +1025,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "nearsighted"
+          "answer_text": "nearsighted",
+          "bold_italicized": "myophic"
         },
         {
           "id": "synonyms-16",
@@ -1036,7 +1051,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "unmindful"
+          "answer_text": "unmindful",
+          "bold_italicized": "oblivious"
         },
         {
           "id": "synonyms-17",
@@ -1061,7 +1077,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "all-knowing"
+          "answer_text": "all-knowing",
+          "bold_italicized": "omniscient"
         },
         {
           "id": "synonyms-18",
@@ -1086,7 +1103,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "clever"
+          "answer_text": "clever",
+          "bold_italicized": "piquant"
         },
         {
           "id": "synonyms-19",
@@ -1111,7 +1129,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "reasonable"
+          "answer_text": "reasonable",
+          "bold_italicized": "plausible"
         },
         {
           "id": "synonyms-20",
@@ -1136,7 +1155,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "wise"
+          "answer_text": "wise",
+          "bold_italicized": "prudent"
         },
         {
           "id": "synonyms-21",
@@ -1161,7 +1181,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "proverb"
+          "answer_text": "proverb",
+          "bold_italicized": "aphorism"
         },
         {
           "id": "synonyms-22",
@@ -1186,7 +1207,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "behavior"
+          "answer_text": "behavior",
+          "bold_italicized": "deportment"
         },
         {
           "id": "synonyms-23",
@@ -1211,7 +1233,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "mutual hatred"
+          "answer_text": "mutual hatred",
+          "bold_italicized": "enmity"
         },
         {
           "id": "synonyms-24",
@@ -1236,7 +1259,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "endurance"
+          "answer_text": "endurance",
+          "bold_italicized": "fortitude"
         },
         {
           "id": "synonyms-25",
@@ -1261,7 +1285,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "obstruction"
+          "answer_text": "obstruction",
+          "bold_italicized": "impediment"
         },
         {
           "id": "synonyms-26",
@@ -1286,7 +1311,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "scolded"
+          "answer_text": "scolded",
+          "bold_italicized": "upbraided"
         },
         {
           "id": "synonyms-27",
@@ -1311,7 +1337,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "well-mannered"
+          "answer_text": "well-mannered",
+          "bold_italicized": "Urbane"
         },
         {
           "id": "synonyms-28",
@@ -1336,7 +1363,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "lacking spirit and liveliness"
+          "answer_text": "lacking spirit and liveliness",
+          "bold_italicized": "vapid"
         },
         {
           "id": "synonyms-29",
@@ -1362,7 +1390,8 @@
           ],
           "answer": "a",
           "answer_text": "accuracy",
-          "review_flag": "source_marks_a_and_c_red__a_chosen_(veracity=accuracy)"
+          "review_flag": "source_marks_a_and_c_red__a_chosen_(veracity=accuracy)",
+          "bold_italicized": "veracity"
         },
         {
           "id": "synonyms-30",
@@ -1387,7 +1416,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "make more dependent"
+          "answer_text": "make more dependent",
+          "bold_italicized": "weaned"
         },
         {
           "id": "synonyms-31",
@@ -1412,7 +1442,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "ghost"
+          "answer_text": "ghost",
+          "bold_italicized": "wraith"
         },
         {
           "id": "synonyms-32",
@@ -1437,7 +1468,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "untidy"
+          "answer_text": "untidy",
+          "bold_italicized": "unkempt"
         },
         {
           "id": "synonyms-33",
@@ -1462,7 +1494,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "disorderly"
+          "answer_text": "disorderly",
+          "bold_italicized": "topsy-turvy"
         },
         {
           "id": "synonyms-34",
@@ -1487,7 +1520,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "detective"
+          "answer_text": "detective",
+          "bold_italicized": "sleuth"
         },
         {
           "id": "synonyms-35",
@@ -1512,7 +1546,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "searched thourgh"
+          "answer_text": "searched thourgh",
+          "bold_italicized": "runmaged"
         },
         {
           "id": "synonyms-36",
@@ -1537,7 +1572,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "a brutal person"
+          "answer_text": "a brutal person",
+          "bold_italicized": "ruffian"
         },
         {
           "id": "synonyms-37",
@@ -1562,7 +1598,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "increase"
+          "answer_text": "increase",
+          "bold_italicized": "augment"
         },
         {
           "id": "synonyms-38",
@@ -1587,7 +1624,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "slander"
+          "answer_text": "slander",
+          "bold_italicized": "calumniate"
         },
         {
           "id": "synonyms-39",
@@ -1612,7 +1650,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "erased"
+          "answer_text": "erased",
+          "bold_italicized": "effaced"
         },
         {
           "id": "synonyms-40",
@@ -1637,7 +1676,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "went beyond"
+          "answer_text": "went beyond",
+          "bold_italicized": "overshot"
         }
       ]
     },
@@ -1671,7 +1711,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "let go on one’s own"
+          "answer_text": "let go on one’s own",
+          "bold_italicized": "accompanied"
         },
         {
           "id": "antonyms-2",
@@ -1696,7 +1737,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "alley"
+          "answer_text": "alley",
+          "bold_italicized": "boulevard"
         },
         {
           "id": "antonyms-3",
@@ -1721,7 +1763,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "refined"
+          "answer_text": "refined",
+          "bold_italicized": "brusque"
         },
         {
           "id": "antonyms-4",
@@ -1746,7 +1789,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "well-thought"
+          "answer_text": "well-thought",
+          "bold_italicized": "candid"
         },
         {
           "id": "antonyms-5",
@@ -1771,7 +1815,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "praised"
+          "answer_text": "praised",
+          "bold_italicized": "derided"
         },
         {
           "id": "antonyms-6",
@@ -1796,7 +1841,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "melancholic"
+          "answer_text": "melancholic",
+          "bold_italicized": "ecstatic"
         },
         {
           "id": "antonyms-7",
@@ -1821,7 +1867,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "painless"
+          "answer_text": "painless",
+          "bold_italicized": "excruciating"
         },
         {
           "id": "antonyms-8",
@@ -1846,7 +1893,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "difficult"
+          "answer_text": "difficult",
+          "bold_italicized": "facile"
         },
         {
           "id": "antonyms-9",
@@ -1871,7 +1919,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "quiet"
+          "answer_text": "quiet",
+          "bold_italicized": "garrulous"
         },
         {
           "id": "antonyms-10",
@@ -1896,7 +1945,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "cultured people"
+          "answer_text": "cultured people",
+          "bold_italicized": "heathens"
         },
         {
           "id": "antonyms-11",
@@ -1921,7 +1971,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "stepping stone"
+          "answer_text": "stepping stone",
+          "bold_italicized": "hindrance"
         },
         {
           "id": "antonyms-12",
@@ -1946,7 +1997,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "sober"
+          "answer_text": "sober",
+          "bold_italicized": "inebriated"
         },
         {
           "id": "antonyms-13",
@@ -1971,7 +2023,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "accepted"
+          "answer_text": "accepted",
+          "bold_italicized": "inveighed"
         },
         {
           "id": "antonyms-14",
@@ -1996,7 +2049,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "good luck"
+          "answer_text": "good luck",
+          "bold_italicized": "jinx"
         },
         {
           "id": "antonyms-15",
@@ -2021,7 +2075,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "advisers"
+          "answer_text": "advisers",
+          "bold_italicized": "kibitzers"
         },
         {
           "id": "antonyms-16",
@@ -2046,7 +2101,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "short and stout"
+          "answer_text": "short and stout",
+          "bold_italicized": "lanky"
         },
         {
           "id": "antonyms-17",
@@ -2071,7 +2127,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "safe"
+          "answer_text": "safe",
+          "bold_italicized": "lethal"
         },
         {
           "id": "antonyms-18",
@@ -2096,7 +2153,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "adorable"
+          "answer_text": "adorable",
+          "bold_italicized": "loathsome"
         },
         {
           "id": "antonyms-19",
@@ -2121,7 +2179,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "harsh"
+          "answer_text": "harsh",
+          "bold_italicized": "mellifluous"
         },
         {
           "id": "antonyms-20",
@@ -2146,7 +2205,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "stingingness"
+          "answer_text": "stingingness",
+          "bold_italicized": "munificence"
         },
         {
           "id": "antonyms-21",
@@ -2171,7 +2231,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "honorable"
+          "answer_text": "honorable",
+          "bold_italicized": "nefarious"
         },
         {
           "id": "antonyms-22",
@@ -2196,7 +2257,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "trivial"
+          "answer_text": "trivial",
+          "bold_italicized": "noteworthy"
         },
         {
           "id": "antonyms-23",
@@ -2221,7 +2283,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "snoopy"
+          "answer_text": "snoopy",
+          "bold_italicized": "obdurate"
         },
         {
           "id": "antonyms-24",
@@ -2246,7 +2309,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "reserved"
+          "answer_text": "reserved",
+          "bold_italicized": "obtrusive"
         },
         {
           "id": "antonyms-25",
@@ -2271,7 +2335,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "poverty"
+          "answer_text": "poverty",
+          "bold_italicized": "opulence"
         },
         {
           "id": "antonyms-26",
@@ -2296,7 +2361,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "anomaly"
+          "answer_text": "anomaly",
+          "bold_italicized": "paragon"
         },
         {
           "id": "antonyms-27",
@@ -2321,12 +2387,14 @@
             }
           ],
           "answer": "d",
-          "answer_text": "humor"
+          "answer_text": "humor",
+          "bold_italicized": "pathos"
         },
         {
           "id": "antonyms-28",
           "number": 28,
           "question": "Myrna is such a precocious girl who can already read at age three.",
+          "bold_italicized": "precocious",
           "options": [
             {
               "key": "a",
@@ -2371,7 +2439,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "realistic"
+          "answer_text": "realistic",
+          "bold_italicized": "quixotic"
         },
         {
           "id": "antonyms-30",
@@ -2396,7 +2465,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "new"
+          "answer_text": "new",
+          "bold_italicized": "ramshackle"
         },
         {
           "id": "antonyms-31",
@@ -2421,7 +2491,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "least"
+          "answer_text": "least",
+          "bold_italicized": "ultimate"
         },
         {
           "id": "antonyms-32",
@@ -2446,12 +2517,14 @@
             }
           ],
           "answer": "b",
-          "answer_text": "ordinary"
+          "answer_text": "ordinary",
+          "bold_italicized": "uncanny"
         },
         {
           "id": "antonyms-33",
           "number": 33,
           "question": "Lea Salonga’s performance was utterly delightful.",
+          "bold_italicized": "utterly",
           "options": [
             {
               "key": "a",
@@ -2496,7 +2569,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "be firm"
+          "answer_text": "be firm",
+          "bold_italicized": "vacillate"
         },
         {
           "id": "antonyms-35",
@@ -2521,7 +2595,8 @@
             }
           ],
           "answer": "b",
-          "answer_text": "forgiving"
+          "answer_text": "forgiving",
+          "bold_italicized": "vindictive"
         },
         {
           "id": "antonyms-36",
@@ -2546,7 +2621,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "kind"
+          "answer_text": "kind",
+          "bold_italicized": "vitriolic"
         },
         {
           "id": "antonyms-37",
@@ -2571,7 +2647,8 @@
             }
           ],
           "answer": "d",
-          "answer_text": "refute"
+          "answer_text": "refute",
+          "bold_italicized": "vouch"
         },
         {
           "id": "antonyms-38",
@@ -2596,7 +2673,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "closer"
+          "answer_text": "closer",
+          "bold_italicized": "yonder"
         },
         {
           "id": "antonyms-39",
@@ -2621,7 +2699,8 @@
             }
           ],
           "answer": "c",
-          "answer_text": "indifferent"
+          "answer_text": "indifferent",
+          "bold_italicized": "zealous"
         },
         {
           "id": "antonyms-40",
@@ -2646,7 +2725,8 @@
             }
           ],
           "answer": "a",
-          "answer_text": "important"
+          "answer_text": "important",
+          "bold_italicized": "trivial"
         }
       ]
     },

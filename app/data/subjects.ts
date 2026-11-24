@@ -16,6 +16,7 @@ export interface ReviewQuestion {
   number: number
   question: string
   italicized?: string
+  bold_italicized?: string
   image?: string
   options: ReviewOption[]
   answer: string

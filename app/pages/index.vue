@@ -13,7 +13,20 @@ const {
   submitAnswer,
   previousQuestion,
   nextQuestion,
+  goToQuestion,
 } = useReviewer()
+
+const answeredQuestionNumbers = computed(() =>
+  selectedSubject.value.questions
+    .map((question, index) => (selectedAnswers.value[question.id] ? index + 1 : null))
+    .filter((number): number is number => number !== null),
+)
+
+const submittedQuestionNumbers = computed(() =>
+  selectedSubject.value.questions
+    .map((question, index) => (submittedAnswers.value[question.id] ? index + 1 : null))
+    .filter((number): number is number => number !== null),
+)
 </script>
 
 <template>
@@ -25,10 +38,13 @@ const {
     :total="selectedSubject.totalQuestions"
     :selected-key="selectedAnswers[currentQuestion.id]"
     :submitted="Boolean(submittedAnswers[currentQuestion.id])"
+    :answered-questions="answeredQuestionNumbers"
+    :submitted-questions="submittedQuestionNumbers"
     @select="(key) => selectAnswer(currentQuestion!.id, key)"
     @submit="submitAnswer(currentQuestion!.id)"
     @previous="previousQuestion"
     @next="nextQuestion"
+    @go-to="goToQuestion"
   />
   <Card v-else class="mx-4 mt-6 max-w-[750px] gap-0 py-8 text-center sm:mx-auto">
     <CardContent class="text-sm text-slate-500">

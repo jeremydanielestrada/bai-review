@@ -8,6 +8,8 @@ const props = defineProps<{
   total: number
   selectedKey: string | undefined
   submitted: boolean
+  answeredQuestions: number[]
+  submittedQuestions: number[]
 }>()
 
 const emit = defineEmits<{
@@ -15,6 +17,7 @@ const emit = defineEmits<{
   submit: []
   previous: []
   next: []
+  goTo: [index: number]
 }>()
 
 const isCorrect = computed(
@@ -23,18 +26,50 @@ const isCorrect = computed(
 
 const questionSegments = computed(() => {
   const question = props.question.question
-  const emphasized = props.question.italicized
-  if (!emphasized) return [{ text: question, emphasized: false }]
+  const emphasized = props.question.bold_italicized || props.question.italicized
+  if (!emphasized) return [{ text: question, style: "" }]
 
   const index = question.toLowerCase().indexOf(emphasized.toLowerCase())
-  if (index < 0) return [{ text: question, emphasized: false }]
+  if (index < 0) return [{ text: question, style: "" }]
+
+  const style = props.question.bold_italicized ? "bold-italic" : "italic"
 
   return [
-    { text: question.slice(0, index), emphasized: false },
-    { text: question.slice(index, index + emphasized.length), emphasized: true },
-    { text: question.slice(index + emphasized.length), emphasized: false },
+    { text: question.slice(0, index), style: "" },
+    { text: question.slice(index, index + emphasized.length), style },
+    { text: question.slice(index + emphasized.length), style: "" },
   ].filter((segment) => segment.text.length > 0)
 })
+
+const paginationItems = computed<(number | "ellipsis")[]>(() => {
+  const total = props.total
+  if (total <= 12) return Array.from({ length: total }, (_, index) => index + 1)
+
+  const current = props.position
+  const start = Math.max(2, current - 4)
+  const end = Math.min(total - 1, current + 4)
+  const items: (number | "ellipsis")[] = [1]
+
+  if (start > 2) items.push("ellipsis")
+  for (let number = start; number <= end; number += 1) items.push(number)
+  if (end < total - 1) items.push("ellipsis")
+  items.push(total)
+
+  return items
+})
+
+function paginationClass(number: number) {
+  if (number === props.position) {
+    return "border-indigo-600 bg-indigo-600 text-white shadow-sm"
+  }
+  if (props.submittedQuestions.includes(number)) {
+    return "border-emerald-300 bg-emerald-50 text-emerald-700 hover:bg-emerald-100"
+  }
+  if (props.answeredQuestions.includes(number)) {
+    return "border-amber-300 bg-amber-50 text-amber-700 hover:bg-amber-100"
+  }
+  return "border-slate-200 bg-white text-slate-600 hover:border-indigo-300 hover:bg-indigo-50"
+}
 </script>
 
 <template>
@@ -88,7 +123,8 @@ const questionSegments = computed(() => {
         </span>
         <h2 class="pt-0.5 text-lg font-bold leading-7 text-slate-950 sm:text-xl sm:leading-8">
           <template v-for="(segment, index) in questionSegments" :key="index">
-            <em v-if="segment.emphasized" class="underline decoration-indigo-500 decoration-2 underline-offset-3">{{ segment.text }}</em>
+            <strong v-if="segment.style === 'bold-italic'" class="font-bold italic">{{ segment.text }}</strong>
+            <em v-else-if="segment.style === 'italic'" class="underline decoration-indigo-500 decoration-2 underline-offset-3">{{ segment.text }}</em>
             <template v-else>{{ segment.text }}</template>
           </template>
         </h2>
@@ -154,5 +190,54 @@ const questionSegments = computed(() => {
         </Button>
       </div>
     </Card>
+
+    <nav
+      class="mt-4 flex w-full items-center justify-center gap-1.5 overflow-x-auto py-1"
+      aria-label="Question pagination"
+    >
+      <Button
+        type="button"
+        variant="outline"
+        size="icon-sm"
+        class="shrink-0"
+        :disabled="position <= 1"
+        aria-label="Go to previous question"
+        @click="emit('previous')"
+      >
+        ‹
+      </Button>
+      <template v-for="item in paginationItems" :key="item">
+        <span
+          v-if="item === 'ellipsis'"
+          class="flex h-8 w-5 shrink-0 items-center justify-center text-xs text-slate-400"
+        >
+          …
+        </span>
+        <Button
+          v-else
+          type="button"
+          variant="outline"
+          size="icon-sm"
+          class="h-8 w-8 shrink-0 rounded-lg p-0 text-xs"
+          :class="paginationClass(item)"
+          :aria-current="item === position ? 'page' : undefined"
+          :aria-label="`Go to question ${item}`"
+          @click="emit('goTo', item - 1)"
+        >
+          {{ item }}
+        </Button>
+      </template>
+      <Button
+        type="button"
+        variant="outline"
+        size="icon-sm"
+        class="shrink-0"
+        :disabled="position >= total"
+        aria-label="Go to next question"
+        @click="emit('next')"
+      >
+        ›
+      </Button>
+    </nav>
   </div>
 </template>
