@@ -15,7 +15,13 @@ const {
   previousQuestion,
   nextQuestion,
   goToQuestion,
+  resetProgress,
 } = useReviewer()
+
+function confirmResetProgress() {
+  if (!window.confirm("Reset all saved progress for every subject? This cannot be undone.")) return
+  resetProgress()
+}
 
 const answeredQuestionNumbers = computed(() =>
   selectedSubject.value.questions
@@ -47,6 +53,7 @@ const submittedQuestionNumbers = computed(() =>
     @previous="previousQuestion"
     @next="nextQuestion"
     @go-to="goToQuestion"
+    @reset="confirmResetProgress"
   />
   <Card v-else class="mx-4 mt-6 max-w-[750px] gap-0 py-8 text-center sm:mx-auto">
     <CardContent class="text-sm text-slate-500">

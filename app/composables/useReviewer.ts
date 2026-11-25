@@ -187,6 +187,14 @@ export function useReviewer() {
     }
   }
 
+  function resetProgress() {
+    questionIndex.value = 0
+    subjectQuestionIndexes.value = { [selectedSubjectId.value]: 0 }
+    selectedAnswers.value = {}
+    submittedAnswers.value = {}
+    persistProgress()
+  }
+
   return {
     selectedSubjectId,
     selectedSubject,
@@ -201,5 +209,6 @@ export function useReviewer() {
     previousQuestion,
     nextQuestion,
     goToQuestion,
+    resetProgress,
   }
 }

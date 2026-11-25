@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Clock3 } from "@lucide/vue";
+import { RotateCcw } from "@lucide/vue";
 import type { ReviewQuestion } from "~/data/subjects";
 
 const props = defineProps<{
@@ -19,6 +19,7 @@ const emit = defineEmits<{
   previous: [];
   next: [];
   goTo: [index: number];
+  reset: [];
 }>();
 
 const isCorrect = computed(
@@ -95,6 +96,17 @@ function paginationClass(number: number) {
           />
         </div>
       </div>
+      <Button
+        type="button"
+        variant="outline"
+        class="h-9 gap-2 rounded-lg border-slate-200 px-3 text-sm font-semibold text-slate-600 hover:border-rose-200 hover:bg-rose-50 hover:text-rose-700"
+        aria-label="Reset all reviewer progress"
+        @click="emit('reset')"
+      >
+        <RotateCcw class="h-4 w-4" />
+        <span class="hidden sm:inline">Reset progress</span>
+        <span class="sm:hidden">Reset</span>
+      </Button>
     </div>
 
     <Card
