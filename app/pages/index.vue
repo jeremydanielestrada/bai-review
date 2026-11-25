@@ -7,6 +7,7 @@ const {
   selectedSubject,
   questionIndex,
   currentQuestion,
+  maxUnlockedIndex,
   selectedAnswers,
   submittedAnswers,
   selectAnswer,
@@ -36,6 +37,7 @@ const submittedQuestionNumbers = computed(() =>
     :question="currentQuestion"
     :position="questionIndex + 1"
     :total="selectedSubject.totalQuestions"
+    :max-unlocked-index="maxUnlockedIndex"
     :selected-key="selectedAnswers[currentQuestion.id]"
     :submitted="Boolean(submittedAnswers[currentQuestion.id])"
     :answered-questions="answeredQuestionNumbers"
