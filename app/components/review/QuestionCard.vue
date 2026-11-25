@@ -68,15 +68,15 @@ function paginationClass(number: number) {
     return "border-indigo-600 bg-indigo-600 text-white shadow-sm";
   }
   if (number - 1 > props.maxUnlockedIndex) {
-    return "cursor-not-allowed border-slate-100 bg-slate-100 text-slate-300";
+    return "cursor-not-allowed border-slate-100 bg-slate-100 text-slate-300 dark:border-slate-800 dark:bg-slate-800 dark:text-slate-600";
   }
   if (props.submittedQuestions.includes(number)) {
-    return "border-emerald-300 bg-emerald-50 text-emerald-700 hover:bg-emerald-100";
+    return "border-emerald-300 bg-emerald-50 text-emerald-700 hover:bg-emerald-100 dark:border-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 dark:hover:bg-emerald-900";
   }
   if (props.answeredQuestions.includes(number)) {
-    return "border-amber-300 bg-amber-50 text-amber-700 hover:bg-amber-100";
+    return "border-amber-300 bg-amber-50 text-amber-700 hover:bg-amber-100 dark:border-amber-800 dark:bg-amber-950 dark:text-amber-300 dark:hover:bg-amber-900";
   }
-  return "border-slate-200 bg-white text-slate-600 hover:border-indigo-300 hover:bg-indigo-50";
+  return "border-slate-200 bg-white text-slate-600 hover:border-indigo-300 hover:bg-indigo-50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300 dark:hover:border-indigo-700 dark:hover:bg-indigo-950";
 }
 </script>
 
@@ -85,11 +85,11 @@ function paginationClass(number: number) {
     <div class="mb-5 flex items-center justify-between">
       <div>
         <p
-          class="text-xs font-semibold uppercase tracking-[0.14em] text-indigo-600"
+          class="text-xs font-semibold uppercase tracking-[0.14em] text-indigo-600 dark:text-indigo-400"
         >
           Question {{ position }} of {{ total }}
         </p>
-        <div class="mt-2 h-1.5 w-32 overflow-hidden rounded-full bg-slate-200">
+        <div class="mt-2 h-1.5 w-32 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-700">
           <div
             class="h-full rounded-full bg-indigo-600 transition-[width]"
             :style="{ width: `${Math.max(5, (position / total) * 100)}%` }"
@@ -99,7 +99,7 @@ function paginationClass(number: number) {
       <Button
         type="button"
         variant="outline"
-        class="h-9 gap-2 rounded-lg border-slate-200 px-3 text-sm font-semibold text-slate-600 hover:border-rose-200 hover:bg-rose-50 hover:text-rose-700"
+        class="h-9 gap-2 rounded-lg border-slate-200 px-3 text-sm font-semibold text-slate-600 hover:border-rose-200 hover:bg-rose-50 hover:text-rose-700 dark:border-slate-700 dark:text-slate-300 dark:hover:border-rose-900 dark:hover:bg-rose-950 dark:hover:text-rose-300"
         aria-label="Reset current subject progress"
         @click="emit('reset')"
       >
@@ -110,38 +110,38 @@ function paginationClass(number: number) {
     </div>
 
     <Card
-      class="gap-0 rounded-2xl border-slate-200 px-5 pt-5 pb-5 shadow-[0_8px_30px_rgba(15,23,42,0.05)] sm:px-8 sm:pt-8 sm:pb-8"
+      class="gap-0 rounded-2xl border-slate-200 px-5 pt-5 pb-5 shadow-[0_8px_30px_rgba(15,23,42,0.05)] dark:border-slate-700 dark:shadow-[0_8px_30px_rgba(0,0,0,0.2)] sm:px-8 sm:pt-8 sm:pb-8"
     >
       <p
         v-if="question.sectionName"
-        class="mb-3 text-xs font-semibold text-slate-500"
+        class="mb-3 text-xs font-semibold text-slate-500 dark:text-slate-400"
       >
         {{ question.sectionName }}
       </p>
       <p
         v-if="question.sectionDirections"
-        class="mb-5 rounded-lg bg-slate-50 px-3 py-2.5 text-sm leading-6 text-slate-600"
+        class="mb-5 rounded-lg bg-slate-50 px-3 py-2.5 text-sm leading-6 text-slate-600 dark:bg-slate-800 dark:text-slate-300"
       >
         {{ question.sectionDirections }}
       </p>
 
       <div
         v-if="question.items?.length"
-        class="mb-5 space-y-1 rounded-lg border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-700"
+        class="mb-5 space-y-1 rounded-lg border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
       >
         <p v-for="item in question.items" :key="item">{{ item }}</p>
       </div>
 
       <p
         v-if="question.passage"
-        class="mb-5 whitespace-pre-line rounded-lg border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-700"
+        class="mb-5 whitespace-pre-line rounded-lg border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-700 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-200"
       >
         {{ question.passage }}
       </p>
 
       <div
         v-if="question.statement_1 || question.statement_2"
-        class="mb-5 space-y-2 rounded-lg border border-slate-200 p-4 text-sm text-slate-700"
+        class="mb-5 space-y-2 rounded-lg border border-slate-200 p-4 text-sm text-slate-700 dark:border-slate-700 dark:text-slate-200"
       >
         <p v-if="question.statement_1">
           <span class="font-bold">Statement 1:</span> {{ question.statement_1 }}
@@ -153,19 +153,19 @@ function paginationClass(number: number) {
 
       <p
         v-if="question.note"
-        class="mb-5 rounded-lg border border-amber-200 bg-amber-50 px-3 py-2.5 text-sm leading-6 text-amber-800"
+        class="mb-5 rounded-lg border border-amber-200 bg-amber-50 px-3 py-2.5 text-sm leading-6 text-amber-800 dark:border-amber-900 dark:bg-amber-950/50 dark:text-amber-200"
       >
         {{ question.note }}
       </p>
 
       <div class="flex items-start gap-3">
         <span
-          class="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-indigo-50 text-sm font-bold text-indigo-700"
+          class="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-indigo-50 text-sm font-bold text-indigo-700 dark:bg-indigo-950 dark:text-indigo-300"
         >
           {{ position }}
         </span>
         <h2
-          class="pt-0.5 text-lg font-bold leading-7 text-slate-950 sm:text-xl sm:leading-8"
+          class="pt-0.5 text-lg font-bold leading-7 text-slate-950 dark:text-slate-100 sm:text-xl sm:leading-8"
         >
           <template v-for="(segment, index) in questionSegments" :key="index">
             <strong
@@ -185,7 +185,7 @@ function paginationClass(number: number) {
 
       <figure
         v-if="question.image"
-        class="mt-5 overflow-hidden rounded-xl border border-slate-200 bg-slate-50"
+        class="mt-5 overflow-hidden rounded-xl border border-slate-200 bg-slate-50 dark:border-slate-700 dark:bg-slate-800"
       >
         <img
           :src="question.image"
@@ -219,12 +219,12 @@ function paginationClass(number: number) {
       />
 
       <div
-        class="mt-7 flex items-center justify-between border-t border-slate-100 pt-5"
+        class="mt-7 flex items-center justify-between border-t border-slate-100 pt-5 dark:border-slate-800"
       >
         <Button
           type="button"
           variant="ghost"
-          class="h-10 rounded-lg px-3 text-sm font-semibold text-slate-500 hover:bg-slate-100"
+          class="h-10 rounded-lg px-3 text-sm font-semibold text-slate-500 hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800"
           :disabled="position <= 1"
           @click="emit('previous')"
         >
@@ -234,7 +234,7 @@ function paginationClass(number: number) {
           v-if="!submitted"
           type="button"
           variant="default"
-          class="h-10 rounded-lg bg-indigo-600 px-5 text-sm font-bold text-white shadow-sm hover:bg-indigo-700 disabled:bg-slate-200 disabled:text-slate-400 disabled:shadow-none"
+          class="h-10 rounded-lg bg-indigo-600 px-5 text-sm font-bold text-white shadow-sm hover:bg-indigo-700 disabled:bg-slate-200 disabled:text-slate-400 disabled:shadow-none dark:disabled:bg-slate-700 dark:disabled:text-slate-500"
           :disabled="!selectedKey"
           @click="emit('submit')"
         >
@@ -244,7 +244,7 @@ function paginationClass(number: number) {
           v-else
           type="button"
           variant="default"
-          class="h-10 rounded-lg bg-slate-900 px-5 text-sm font-bold text-white shadow-sm hover:bg-slate-800 disabled:bg-slate-200 disabled:text-slate-400"
+          class="h-10 rounded-lg bg-slate-900 px-5 text-sm font-bold text-white shadow-sm hover:bg-slate-800 disabled:bg-slate-200 disabled:text-slate-400 dark:bg-slate-100 dark:text-slate-900 dark:hover:bg-white dark:disabled:bg-slate-700 dark:disabled:text-slate-500"
           :disabled="position >= total"
           @click="emit('next')"
         >
@@ -271,7 +271,7 @@ function paginationClass(number: number) {
       <template v-for="item in paginationItems" :key="item">
         <span
           v-if="item === 'ellipsis'"
-          class="flex h-8 w-5 shrink-0 items-center justify-center text-xs text-slate-400"
+          class="flex h-8 w-5 shrink-0 items-center justify-center text-xs text-slate-400 dark:text-slate-500"
         >
           …
         </span>
@@ -308,7 +308,7 @@ function paginationClass(number: number) {
     </nav>
     <p
       v-if="!submitted && position <= maxUnlockedIndex + 1 && position < total"
-      class="mt-2 text-center text-xs text-slate-500"
+      class="mt-2 text-center text-xs text-slate-500 dark:text-slate-400"
     >
       Submit your answer to unlock the next question.
     </p>

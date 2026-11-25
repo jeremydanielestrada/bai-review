@@ -57,7 +57,7 @@ const submittedQuestionNumbers = computed(() =>
     @reset="confirmResetProgress"
   />
   <Card v-else class="mx-4 mt-6 max-w-[750px] gap-0 py-8 text-center sm:mx-auto">
-    <CardContent class="text-sm text-slate-500">
+    <CardContent class="text-sm text-slate-500 dark:text-slate-400">
       No questions are available for this subject.
     </CardContent>
   </Card>
