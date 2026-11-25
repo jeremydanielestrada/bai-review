@@ -19,7 +19,8 @@ const {
 } = useReviewer()
 
 function confirmResetProgress() {
-  if (!window.confirm("Reset all saved progress for every subject? This cannot be undone.")) return
+  const subjectName = selectedSubject.value.name
+  if (!window.confirm(`Reset saved progress for ${subjectName}? This cannot be undone.`)) return
   resetProgress()
 }
 

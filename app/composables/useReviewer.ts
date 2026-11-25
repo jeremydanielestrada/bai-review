@@ -188,10 +188,24 @@ export function useReviewer() {
   }
 
   function resetProgress() {
+    const questionIds = new Set(
+      selectedSubject.value.questions.map((question) => question.id),
+    )
+    const remainingSelectedAnswers = { ...selectedAnswers.value }
+    const remainingSubmittedAnswers = { ...submittedAnswers.value }
+
+    for (const questionId of questionIds) {
+      delete remainingSelectedAnswers[questionId]
+      delete remainingSubmittedAnswers[questionId]
+    }
+
     questionIndex.value = 0
-    subjectQuestionIndexes.value = { [selectedSubjectId.value]: 0 }
-    selectedAnswers.value = {}
-    submittedAnswers.value = {}
+    subjectQuestionIndexes.value = {
+      ...subjectQuestionIndexes.value,
+      [selectedSubjectId.value]: 0,
+    }
+    selectedAnswers.value = remainingSelectedAnswers
+    submittedAnswers.value = remainingSubmittedAnswers
     persistProgress()
   }
 

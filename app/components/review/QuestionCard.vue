@@ -100,7 +100,7 @@ function paginationClass(number: number) {
         type="button"
         variant="outline"
         class="h-9 gap-2 rounded-lg border-slate-200 px-3 text-sm font-semibold text-slate-600 hover:border-rose-200 hover:bg-rose-50 hover:text-rose-700"
-        aria-label="Reset all reviewer progress"
+        aria-label="Reset current subject progress"
         @click="emit('reset')"
       >
         <RotateCcw class="h-4 w-4" />
