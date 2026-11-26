@@ -7,6 +7,7 @@ const props = defineProps<{
   position: number;
   total: number;
   maxUnlockedIndex: number;
+  horizontalChoices: boolean;
   selectedKey: string | undefined;
   submitted: boolean;
   answeredQuestions: number[];
@@ -199,7 +200,12 @@ function paginationClass(number: number) {
       </figure>
 
       <div
-        class="mt-7 space-y-3"
+        class="mt-7"
+        :class="
+          horizontalChoices
+            ? 'flex flex-wrap items-stretch gap-x-3 gap-y-3'
+            : 'space-y-3'
+        "
         role="radiogroup"
         :aria-label="`Answer choices for question ${position}`"
       >
@@ -211,6 +217,7 @@ function paginationClass(number: number) {
           :submitted="submitted"
           :correct="question.answer.toLowerCase() === option.key.toLowerCase()"
           :disabled="submitted"
+          :horizontal="horizontalChoices"
           @click="emit('select', option.key)"
         />
       </div>

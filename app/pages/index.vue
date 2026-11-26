@@ -64,6 +64,7 @@ const submittedQuestionNumbers = computed(() =>
     :position="questionIndex + 1"
     :total="selectedSubject.totalQuestions"
     :max-unlocked-index="maxUnlockedIndex"
+    :horizontal-choices="selectedSubject.id === 'abstract-reasoning'"
     :selected-key="selectedAnswers[currentQuestion.id]"
     :submitted="Boolean(submittedAnswers[currentQuestion.id])"
     :answered-questions="answeredQuestionNumbers"
