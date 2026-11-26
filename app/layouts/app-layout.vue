@@ -3,6 +3,7 @@ import {
   BookOpen,
   BrainCircuit,
   Calculator,
+  GitBranch,
   Landmark,
   Languages,
   Menu,
@@ -11,6 +12,7 @@ import {
   Sun,
   X,
 } from "@lucide/vue";
+import qrCodeImage from "~/assets/images/my qr.jpg";
 import { reviewerSubjects } from "~/data/subjects";
 
 const sidebarOpen = ref(false);
@@ -20,8 +22,9 @@ const completedCountsBySubject = computed(() =>
   Object.fromEntries(
     reviewerSubjects.map((subject) => [
       subject.id,
-      subject.questions.filter((question) => submittedAnswers.value[question.id])
-        .length,
+      subject.questions.filter(
+        (question) => submittedAnswers.value[question.id],
+      ).length,
     ]),
   ),
 );
@@ -32,6 +35,7 @@ const icons = {
   book: BookOpen,
   languages: Languages,
   brain: BrainCircuit,
+  "git-branch": GitBranch,
   landmark: Landmark,
 };
 
@@ -128,17 +132,19 @@ function select(subjectId: string) {
       </nav>
 
       <div class="shrink-0 border-t border-slate-100 p-3 dark:border-slate-800">
-        <Button
-          variant="ghost"
-          class="h-auto w-full justify-start rounded-lg border border-transparent px-3 py-2.5 text-sm font-medium text-slate-600 hover:border-slate-200 hover:bg-slate-50 dark:text-slate-300 dark:hover:border-slate-700 dark:hover:bg-slate-800"
-        >
-          <span
-            class="mr-3 flex h-8 w-8 items-center justify-center rounded-lg bg-slate-100 dark:bg-slate-800"
-          >
-            <Settings class="h-4 w-4" />
-          </span>
-          Settings
-        </Button>
+        <div class="flex flex-col items-center gap-2">
+          <img
+            :src="qrCodeImage"
+            alt="InstaPay QR code"
+            class="h-24 w-24 rounded-md object-contain"
+          />
+          <p class="text-center text-sm">
+            By: <span class="font-bold">Jeremy</span>
+          </p>
+          <p class="text-center text-xs text-slate-500 dark:text-slate-400">
+            Pang kape lang po, salamat! <br />
+          </p>
+        </div>
       </div>
     </aside>
 
