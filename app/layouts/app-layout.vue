@@ -14,8 +14,17 @@ import {
 import { reviewerSubjects } from "~/data/subjects";
 
 const sidebarOpen = ref(false);
-const { selectedSubjectId, selectSubject } = useReviewer();
+const { selectedSubjectId, submittedAnswers, selectSubject } = useReviewer();
 const { isDark, toggleTheme } = useTheme();
+const completedCountsBySubject = computed(() =>
+  Object.fromEntries(
+    reviewerSubjects.map((subject) => [
+      subject.id,
+      subject.questions.filter((question) => submittedAnswers.value[question.id])
+        .length,
+    ]),
+  ),
+);
 
 const icons = {
   calculator: Calculator,
@@ -33,7 +42,9 @@ function select(subjectId: string) {
 </script>
 
 <template>
-  <div class="h-[100dvh] overflow-hidden bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100">
+  <div
+    class="h-[100dvh] overflow-hidden bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100"
+  >
     <Button
       v-if="sidebarOpen"
       variant="ghost"
@@ -56,8 +67,7 @@ function select(subjectId: string) {
           R
         </div>
         <div class="ml-3">
-          <p class="text-sm font-bold leading-tight">Reviewer App</p>
-          <p class="mt-0.5 text-xs text-slate-500 dark:text-slate-400">Learning library</p>
+          <p class="text-sm font-bold leading-tight">Bai Review</p>
         </div>
         <Button
           variant="ghost"
@@ -104,7 +114,13 @@ function select(subjectId: string) {
               <component :is="icons[subject.icon]" class="h-4 w-4" />
             </span>
             <span class="min-w-0 truncate">{{ subject.name }}</span>
-            <span class="ml-auto shrink-0 text-xs font-medium text-slate-400 dark:text-slate-500">
+            <span
+              class="ml-auto shrink-0 text-xs font-medium text-slate-400 dark:text-slate-500"
+            >
+              <span class="font-bold text-indigo-500 dark:text-slate-400">
+                {{ completedCountsBySubject[subject.id] ?? 0 }}
+              </span>
+              /
               {{ subject.totalQuestions }}
             </span>
           </Button>
@@ -140,7 +156,9 @@ function select(subjectId: string) {
           <Menu class="h-5 w-5" />
         </Button>
         <div class="min-w-0">
-          <h1 class="truncate text-base font-bold text-slate-950 dark:text-slate-100">
+          <h1
+            class="truncate text-base font-bold text-slate-950 dark:text-slate-100"
+          >
             {{
               reviewerSubjects.find(
                 (subject) => subject.id === selectedSubjectId,

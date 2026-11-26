@@ -11,6 +11,7 @@ const props = defineProps<{
   submitted: boolean;
   answeredQuestions: number[];
   submittedQuestions: number[];
+  correctCount: number;
 }>();
 
 const emit = defineEmits<{
@@ -89,7 +90,9 @@ function paginationClass(number: number) {
         >
           Question {{ position }} of {{ total }}
         </p>
-        <div class="mt-2 h-1.5 w-32 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-700">
+        <div
+          class="mt-2 h-1.5 w-32 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-700"
+        >
           <div
             class="h-full rounded-full bg-indigo-600 transition-[width]"
             :style="{ width: `${Math.max(5, (position / total) * 100)}%` }"
@@ -306,6 +309,12 @@ function paginationClass(number: number) {
         ›
       </Button>
     </nav>
+    <p
+      class="mt-3 text-center text-sm font-semibold text-emerald-700 dark:text-emerald-300"
+      aria-live="polite"
+    >
+      Correct answers: {{ correctCount }} / {{ total }}
+    </p>
     <p
       v-if="!submitted && position <= maxUnlockedIndex + 1 && position < total"
       class="mt-2 text-center text-xs text-slate-500 dark:text-slate-400"
