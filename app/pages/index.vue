@@ -47,10 +47,26 @@ const answeredQuestionNumbers = computed(() =>
     .filter((number): number is number => number !== null),
 );
 
-const submittedQuestionNumbers = computed(() =>
+const correctQuestionNumbers = computed(() =>
   selectedSubject.value.questions
     .map((question, index) =>
-      submittedAnswers.value[question.id] ? index + 1 : null,
+      submittedAnswers.value[question.id] &&
+      selectedAnswers.value[question.id]?.toLowerCase() ===
+        question.answer.toLowerCase()
+        ? index + 1
+        : null,
+    )
+    .filter((number): number is number => number !== null),
+);
+
+const incorrectQuestionNumbers = computed(() =>
+  selectedSubject.value.questions
+    .map((question, index) =>
+      submittedAnswers.value[question.id] &&
+      selectedAnswers.value[question.id]?.toLowerCase() !==
+        question.answer.toLowerCase()
+        ? index + 1
+        : null,
     )
     .filter((number): number is number => number !== null),
 );
@@ -69,7 +85,8 @@ const submittedQuestionNumbers = computed(() =>
     :submitted="Boolean(submittedAnswers[currentQuestion.id])"
     :answered-questions="answeredQuestionNumbers"
     :correct-count="correctAnswerCount"
-    :submitted-questions="submittedQuestionNumbers"
+    :correct-questions="correctQuestionNumbers"
+    :incorrect-questions="incorrectQuestionNumbers"
     @select="(key) => selectAnswer(currentQuestion!.id, key)"
     @submit="submitAnswer(currentQuestion!.id)"
     @previous="previousQuestion"

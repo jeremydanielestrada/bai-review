@@ -11,7 +11,8 @@ const props = defineProps<{
   selectedKey: string | undefined;
   submitted: boolean;
   answeredQuestions: number[];
-  submittedQuestions: number[];
+  correctQuestions: number[];
+  incorrectQuestions: number[];
   correctCount: number;
 }>();
 
@@ -66,14 +67,17 @@ const paginationItems = computed<(number | "ellipsis")[]>(() => {
 });
 
 function paginationClass(number: number) {
-  if (number === props.position) {
-    return "border-indigo-600 bg-indigo-600 text-white shadow-sm";
-  }
   if (number - 1 > props.maxUnlockedIndex) {
     return "cursor-not-allowed border-slate-100 bg-slate-100 text-slate-300 dark:border-slate-800 dark:bg-slate-800 dark:text-slate-600";
   }
-  if (props.submittedQuestions.includes(number)) {
-    return "border-emerald-300 bg-emerald-50 text-emerald-700 hover:bg-emerald-100 dark:border-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 dark:hover:bg-emerald-900";
+  if (props.correctQuestions.includes(number)) {
+    return `border-emerald-300 bg-emerald-50 text-emerald-700 hover:bg-emerald-100 dark:border-emerald-800 dark:bg-emerald-950 dark:text-emerald-300 dark:hover:bg-emerald-900${number === props.position ? " ring-2 ring-indigo-500 ring-offset-1 dark:ring-offset-slate-900" : ""}`;
+  }
+  if (props.incorrectQuestions.includes(number)) {
+    return `border-rose-300 bg-rose-50 text-rose-700 hover:bg-rose-100 dark:border-rose-800 dark:bg-rose-950 dark:text-rose-300 dark:hover:bg-rose-900${number === props.position ? " ring-2 ring-indigo-500 ring-offset-1 dark:ring-offset-slate-900" : ""}`;
+  }
+  if (number === props.position) {
+    return "border-indigo-600 bg-indigo-600 text-white shadow-sm";
   }
   if (props.answeredQuestions.includes(number)) {
     return "border-amber-300 bg-amber-50 text-amber-700 hover:bg-amber-100 dark:border-amber-800 dark:bg-amber-950 dark:text-amber-300 dark:hover:bg-amber-900";

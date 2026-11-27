@@ -65,11 +65,11 @@ function select(subjectId: string) {
       <div
         class="flex h-16 shrink-0 items-center border-b border-slate-100 px-5 dark:border-slate-800"
       >
-        <div
-          class="flex h-9 w-9 items-center justify-center rounded-xl bg-indigo-600 text-sm font-bold text-white shadow-sm"
-        >
-          R
-        </div>
+        <img
+          src="~/assets/images/bai-review-logo.png"
+          alt="Bai Review logo"
+          class="h-9 w-9 shrink-0 rounded-xl object-cover"
+        />
         <div class="ml-3">
           <p class="text-sm font-bold leading-tight">Bai Review</p>
         </div>
