@@ -133,6 +133,13 @@ function select(subjectId: string) {
 
       <div class="shrink-0 border-t border-slate-100 p-3 dark:border-slate-800">
         <div class="flex flex-col items-center gap-2">
+          <p class="text-center text-xs leading-4 text-slate-600 dark:text-slate-300">
+            <span class="font-semibold">CSC Civil Service Exam Reviewer</span>
+            <br />
+            For Professional and
+            <br />
+            Sub-Professional Levels
+          </p>
           <img
             :src="qrCodeImage"
             alt="InstaPay QR code"
